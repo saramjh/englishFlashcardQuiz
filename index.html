@@ -2,32 +2,76 @@
 <html lang="ko">
 
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8T94PWE0H6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-8T94PWE0H6');
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PSTQ83MD');</script>
+  <!-- End Google Tag Manager -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="CEFR B1-B2 수준의 영어를 무료로 학습하고 테스트할 수 있는 사이트입니다. 한국인을 위한 실용적인 생활 영어 퀴즈와 학습 도구를 제공합니다.">
+  <meta name="keywords" content="CEFR, B1, B2, 영어 학습, 무료 영어 테스트, 생활 영어, 영어 퀴즈, 한국인을 위한 영어">
+  <meta name="robots" content="index, follow">
   <title>CEFR B1-B2 영어 무료 학습: 한국인을 위한 실용적인 생활 영어 무료 테스트</title>
   <link rel="stylesheet" href="css/style.css">
+
+  <!-- Structured Data Markup for Google -->
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "CEFR B1-B2 영어 무료 학습",
+    "url": "https://your-website-url.com",
+    "description": "CEFR B1-B2 수준의 영어를 무료로 학습하고 테스트할 수 있는 사이트입니다.",
+    "inLanguage": "ko",
+    "publisher": {
+      "@type": "Organization",
+      "name": "saramjh"
+    }
+  }
+  </script>
 </head>
 
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSTQ83MD" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <header>
     <h1>CEFR B1-B2 영어 무료 학습</h1>
     <p>한국인을 위한 실용적인 생활 영어 무료 테스트</p>
   </header>
+
   <div id="score-count" class="floating-score">
     정답: 0 | 오답: 0
     <div id="timer">타이머 00:00:00</div> <!-- 타이머 추가 -->
   </div>
+
   <div class="container">
     <div class="card">
       <div class="front">
-        <p id="sentence"></p>
+        <h2 id="sentence">문장을 여기에 표시합니다</h2>
         <div id="options"></div>
       </div>
       <div class="back">
-        <h3 id="answer-status"></h3>
-        <p id="selected-answer"></p>
-        <ul id="examples"></ul>
-        <ul id="word-meanings"></ul>
+        <h3 id="answer-status">정답 상태</h3>
+        <p id="selected-answer">선택한 답변</p>
+        <ul id="examples">예문</ul>
+        <ul id="word-meanings">단어 뜻</ul>
         <div id="timeNextBtn">
           <div id="question-info">
             <span id="question-number">문제 1 / 1</span>
@@ -37,38 +81,45 @@
         </div>
       </div>
     </div>
+
     <div id="score-modal" class="modal">
       <div class="modal-content">
         <span id="close-modal">&times;</span>
         <h2>결과</h2>
-        <p id="score-summary"></p>
-        <p id="time-summary"></p> <!-- Time summary -->
+        <p id="score-summary">정답 및 오답 요약</p>
+        <p id="time-summary">총 시간 및 평균 시간 요약</p> <!-- Time summary -->
         <button id="retry-quiz">재시도</button>
         <button id="retry-incorrect">오답 재학습</button>
       </div>
     </div>
+
     <div id="input-modal" class="modal">
       <div class="modal-content">
         <span id="close-input-modal">&times;</span>
         <div id="quizAmount">
           <h2>학습 목표치 설정</h2>
         </div>
-        <input type="number" id="number-of-questions" min="1" placeholder="학습할 문제갯수" autofocus>
+        <input type="number" id="number-of-questions" min="1" placeholder="학습할 문제 갯수" autofocus>
         <button id="start-quiz">시작</button>
       </div>
     </div>
   </div>
+
   <div class="modal" id="outro">
     <div id="outroMessage" class="modal-content">
       <h2>수고하셨습니다!</h2>
       <button id="restart">재시작</button>
     </div>
   </div>
+
   <footer>
-    <div class="footer-text"><a href="https://github.com/saramjh/dieterRamsCalc/tree/main">
+    <div class="footer-text">
+      <a href="https://github.com/saramjh/dieterRamsCalc/tree/main">
         <p id="pText">&copy; 2024 saramjh reserved.</p>
-      </a></div>
+      </a>
+    </div>
   </footer>
+
   <script src="js/script.js"></script>
 </body>
 
