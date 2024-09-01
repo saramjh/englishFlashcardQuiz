@@ -1,4 +1,8 @@
 # CEFR B1-B2 영어 무료 학습
+![Screenshot 2024-09-02 at 02 08 21](https://github.com/user-attachments/assets/7a9af084-d57f-4252-becc-687465f96f26)
+![Screenshot 2024-09-02 at 02 08 22](https://github.com/user-attachments/assets/330547b2-0ebd-4f75-b3d0-33695645902e)
+![Screenshot 2024-09-02 at 02 09 49](https://github.com/user-attachments/assets/74b974a2-7cd1-4921-8b66-8e11eae52802)
+
 
 ## 프로젝트 개요
 
