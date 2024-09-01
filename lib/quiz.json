@@ -1,0 +1,6901 @@
+{
+	"questions": [
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I see the menu, please?",
+			"correctAnswer": "메뉴 좀 볼 수 있을까요?",
+			"incorrectAnswers": [
+				"여기서 먹어도 될까요?",
+				"저는 물 좀 주세요.",
+				"메뉴를 가져다 주시겠어요?",
+				"이곳의 특별 메뉴는 무엇인가요?",
+				"음료수 하나 주문할게요.",
+				"오늘의 특별 요리는 뭐죠?",
+				"음식은 어떻게 만들어지나요?",
+				"음료수를 추가로 주문할 수 있나요?",
+				"이 식당의 유명한 음식은 무엇인가요?",
+				"식사 중 메뉴를 다시 볼 수 있나요?"
+			],
+			"usage": ["I asked to see the menu.", "Could you show me the menu, please?", "May I have a look at the menu?"],
+			"usageMeaning": ["(저는 메뉴를 볼 수 있나요? 라고 요청했습니다.)", "(메뉴를 보여달라고 요청했습니다.)", "(메뉴를 한번 볼 수 있을까요? 라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "menu",
+					"meaning": "메뉴"
+				},
+				{
+					"word": "see",
+					"meaning": "보다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How do I get to the nearest subway station?",
+			"correctAnswer": "가장 가까운 지하철역까지 어떻게 가나요?",
+			"incorrectAnswers": [
+				"지하철역까지 가는 길을 알려주세요.",
+				"여기서 가까운 버스 정류장은 어디인가요?",
+				"지하철 역까지 얼마 걸리나요?",
+				"이 근처에 좋은 레스토랑이 있나요?",
+				"지하철역이 어디에 있는지 알 수 있나요?",
+				"가장 가까운 지하철역까지 가는 방법은 무엇인가요?",
+				"이곳에서 지하철역까지 얼마나 걸리나요?",
+				"지하철역까지 가는 가장 빠른 방법은 무엇인가요?",
+				"지하철역이 어디에 위치해 있나요?",
+				"지하철역까지 가는 방법을 알려주세요."
+			],
+			"usage": ["I asked how to get to the nearest subway station.", "Can you tell me the way to the closest subway station?", "What is the best route to the nearest subway station?"],
+			"usageMeaning": ["(가장 가까운 지하철역까지 가는 방법을 물어봤습니다.)", "(가까운 지하철역까지 가는 길을 알려달라고 요청했습니다.)", "(지하철역까지의 최단 경로를 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "subway station",
+					"meaning": "지하철역"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "get to",
+					"meaning": "도착하다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I return this item?",
+			"correctAnswer": "이 물건을 반품할 수 있나요?",
+			"incorrectAnswers": [
+				"이 물건의 가격을 알 수 있나요?",
+				"이 물건을 다른 색으로 교환할 수 있나요?",
+				"이 물건에 대해 설명해 주세요.",
+				"이 물건의 환불 정책이 무엇인가요?",
+				"이 물건을 구입할 수 있나요?",
+				"이 물건을 교환하려면 어떻게 하나요?",
+				"이 물건의 수리가 필요한가요?",
+				"이 물건의 크기는 어떻게 되나요?",
+				"이 물건을 다시 구입할 수 있나요?",
+				"이 물건을 다른 제품으로 바꿀 수 있나요?"
+			],
+			"usage": ["I asked if I could return this item.", "Can I get a refund for this product?", "Is it possible to return this purchase?"],
+			"usageMeaning": ["(이 물건을 반품할 수 있는지 물어봤습니다.)", "(이 제품에 대한 환불이 가능한지 확인했습니다.)", "(이 구매를 반품할 수 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "return",
+					"meaning": "반품하다"
+				},
+				{
+					"word": "item",
+					"meaning": "물건"
+				},
+				{
+					"word": "refund",
+					"meaning": "환불"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "What time is my appointment?",
+			"correctAnswer": "제 약속 시간은 몇 시인가요?",
+			"incorrectAnswers": [
+				"병원에 도착해야 하는 시간은 언제인가요?",
+				"약속을 변경할 수 있나요?",
+				"제 진료 시간은 언제인가요?",
+				"약속을 취소할 수 있나요?",
+				"병원 방문 시간이 어떻게 되나요?",
+				"제 예약 시간은 몇 시인가요?",
+				"진료 시간이 어떻게 되나요?",
+				"제 진료 예약이 언제인가요?",
+				"약속 시간 변경이 가능한가요?",
+				"병원에서의 예약 시간은 어떻게 되나요?"
+			],
+			"usage": ["I asked what time my appointment was.", "Can you tell me the time of my appointment?", "What is the scheduled time for my appointment?"],
+			"usageMeaning": ["(제 약속 시간을 물어봤습니다.)", "(약속 시간을 알려달라고 요청했습니다.)", "(제 예약 시간이 언제인지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "약속"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How can I open a savings account?",
+			"correctAnswer": "저축 계좌를 어떻게 개설하나요?",
+			"incorrectAnswers": [
+				"저축 계좌를 해지하려면 어떻게 하나요?",
+				"계좌를 개설하려면 어떤 서류가 필요한가요?",
+				"계좌를 관리하려면 어떻게 해야 하나요?",
+				"저축 계좌의 이자는 어떻게 되나요?",
+				"계좌 개설 절차가 무엇인가요?",
+				"저축 계좌를 해지하는 방법은 무엇인가요?",
+				"계좌 개설을 위해 필요한 서류는 무엇인가요?",
+				"저축 계좌를 개설하는 데 얼마나 걸리나요?",
+				"계좌 개설 후 이자는 어떻게 계산되나요?",
+				"저축 계좌를 개설하는 데 어떤 조건이 필요한가요?"
+			],
+			"usage": ["I asked how to open a savings account.", "What are the steps to open a savings account?", "Can you tell me the process for opening a savings account?"],
+			"usageMeaning": ["(저축 계좌를 여는 방법을 물어봤습니다.)", "(저축 계좌 개설 절차를 확인했습니다.)", "(저축 계좌를 여는 과정이 무엇인지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				},
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "how",
+					"meaning": "어떻게"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Is breakfast included in the room rate?",
+			"correctAnswer": "조식이 객실 요금에 포함되어 있나요?",
+			"incorrectAnswers": [
+				"객실 요금에는 어떤 서비스가 포함되어 있나요?",
+				"조식은 별도로 제공되나요?",
+				"객실 요금은 얼마인가요?",
+				"조식을 포함하지 않는 요금도 있나요?",
+				"조식은 추가 비용이 있나요?",
+				"객실 요금에 포함된 서비스는 무엇인가요?",
+				"조식이 별도로 제공되는지 알 수 있나요?",
+				"객실 요금에 조식이 포함되나요?",
+				"조식은 무료인가요?",
+				"조식이 포함된 요금이 있나요?"
+			],
+			"usage": ["I asked if breakfast was included in the room rate.", "Does the room rate cover breakfast?", "Is breakfast part of the room charge?"],
+			"usageMeaning": ["(조식이 객실 요금에 포함되어 있는지 물어봤습니다.)", "(객실 요금에 조식이 포함되는지 확인했습니다.)", "(조식이 요금에 포함되어 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "breakfast",
+					"meaning": "조식"
+				},
+				{
+					"word": "included",
+					"meaning": "포함된"
+				},
+				{
+					"word": "room rate",
+					"meaning": "객실 요금"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "What time is check-out?",
+			"correctAnswer": "체크아웃 시간은 몇 시인가요?",
+			"incorrectAnswers": [
+				"체크인 시간은 언제인가요?",
+				"체크아웃 절차는 어떻게 되나요?",
+				"체크아웃을 연장할 수 있나요?",
+				"체크아웃 후 짐은 어떻게 하나요?",
+				"체크아웃 후 지불은 어떻게 하나요?",
+				"체크아웃 시간을 변경할 수 있나요?",
+				"체크아웃이 가능한 시간은 언제인가요?",
+				"체크아웃 시간을 다시 확인할 수 있나요?",
+				"체크아웃 예약은 어떻게 하나요?",
+				"체크아웃이 늦어질 경우 추가 요금이 있나요?"
+			],
+			"usage": ["I asked what time check-out was.", "Can you tell me the check-out time?", "What is the scheduled time for check-out?"],
+			"usageMeaning": ["(체크아웃 시간이 몇 시인지 물어봤습니다.)", "(체크아웃 시간을 확인했습니다.)", "(체크아웃 시간을 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check-out",
+					"meaning": "체크아웃"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What are you up to this weekend?",
+			"correctAnswer": "이번 주말에 뭐 할 예정이야?",
+			"incorrectAnswers": [
+				"이번 주말에 날씨는 어때?",
+				"이번 주말에 일정을 잡았어?",
+				"이번 주말에 특별한 계획이 있어?",
+				"이번 주말에 친구들이랑 뭐 할 거야?",
+				"이번 주말에 어디 갈 거야?",
+				"이번 주말에 집에 있을 거야?",
+				"이번 주말에 무슨 일을 할 거야?",
+				"이번 주말에 특별한 이벤트가 있어?",
+				"이번 주말에 시간이 괜찮아?",
+				"이번 주말에 뭐 먹을 거야?"
+			],
+			"usage": ["I asked what my friend was doing this weekend.", "What are your plans for this weekend?", "Do you have any plans for the weekend?"],
+			"usageMeaning": ["(이번 주말에 친구가 무엇을 할 예정인지 물어봤습니다.)", "(이번 주말 계획을 물어봤습니다.)", "(주말에 계획이 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "weekend",
+					"meaning": "주말"
+				},
+				{
+					"word": "up to",
+					"meaning": "할 예정인"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I leave a message?",
+			"correctAnswer": "메시지를 남길 수 있나요?",
+			"incorrectAnswers": [
+				"통화 중 메시지를 보낼 수 있나요?",
+				"메시지를 남기는 방법은 무엇인가요?",
+				"전화 통화는 언제 가능하나요?",
+				"메시지를 남기려면 어떻게 하나요?",
+				"전화로 메시지를 받을 수 있나요?",
+				"메시지 내용을 확인할 수 있나요?",
+				"전화 통화 후 메시지 남길 수 있나요?",
+				"통화 중 메시지를 기록할 수 있나요?",
+				"전화로 메시지를 남기는 방법은 무엇인가요?",
+				"전화가 끊긴 후 메시지를 남길 수 있나요?"
+			],
+			"usage": ["I asked if I could leave a message.", "Can I record a message?", "Is it possible to leave a voicemail?"],
+			"usageMeaning": ["(메시지를 남길 수 있는지 물어봤습니다.)", "(메시지를 남기는 것이 가능한지 확인했습니다.)", "(메시지를 남길 수 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "leave",
+					"meaning": "남기다"
+				},
+				{
+					"word": "message",
+					"meaning": "메시지"
+				},
+				{
+					"word": "can",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where is the baggage claim area?",
+			"correctAnswer": "수하물 찾는 곳은 어디인가요?",
+			"incorrectAnswers": [
+				"공항의 체크인 카운터는 어디에 있나요?",
+				"비행기 탑승구는 어디에 있나요?",
+				"공항의 출국 심사대는 어디인가요?",
+				"수하물 검사는 어떻게 하나요?",
+				"출국 대기실은 어디에 있나요?",
+				"수하물 찾는 곳까지의 거리는 얼마나 되나요?",
+				"공항의 환전소는 어디에 있나요?",
+				"수하물 분실 시 어디로 가야 하나요?",
+				"공항의 주차장은 어디에 있나요?",
+				"수하물 찾는 곳은 공항의 어떤 구역에 있나요?"
+			],
+			"usage": ["I asked where the baggage claim area was.", "Can you tell me the location of the baggage claim?", "Where can I find the baggage claim?"],
+			"usageMeaning": ["(수하물 찾는 곳의 위치를 물어봤습니다.)", "(수하물 찾는 장소를 확인했습니다.)", "(수하물 찾는 곳이 어디인지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "baggage claim",
+					"meaning": "수하물 찾는 곳"
+				},
+				{
+					"word": "area",
+					"meaning": "구역"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "What should I do if there is a fire?",
+			"correctAnswer": "화재가 발생하면 무엇을 해야 하나요?",
+			"incorrectAnswers": [
+				"화재 발생 시 가장 가까운 출구는 어디인가요?",
+				"화재 알람이 울리면 어떻게 해야 하나요?",
+				"화재를 예방하려면 어떻게 해야 하나요?",
+				"화재가 발생한 경우, 대피 경로는 어떻게 되나요?",
+				"화재 발생 시 소화기를 어디에 두어야 하나요?",
+				"화재가 발생하면 누구에게 연락해야 하나요?",
+				"화재가 발생할 경우, 첫 번째 조치는 무엇인가요?",
+				"화재 상황에서 도움을 요청하려면 어떻게 해야 하나요?",
+				"화재 발생 시 사용할 수 있는 장비는 무엇인가요?",
+				"화재가 난 경우, 대피 요령은 무엇인가요?"
+			],
+			"usage": ["I asked what to do in case of a fire.", "What steps should I take if there is a fire?", "How should I respond to a fire emergency?"],
+			"usageMeaning": ["(화재 발생 시 취해야 할 조치를 물어봤습니다.)", "(화재 상황에서 해야 할 조치를 확인했습니다.)", "(화재가 발생할 경우 대응 방법을 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "fire",
+					"meaning": "화재"
+				},
+				{
+					"word": "do",
+					"meaning": "하다"
+				},
+				{
+					"word": "should",
+					"meaning": "해야 한다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I get this to go?",
+			"correctAnswer": "이 음식 포장해 갈 수 있나요?",
+			"incorrectAnswers": [
+				"이 음식을 테이크아웃할 수 있나요?",
+				"이 음식을 다 먹고 가도 되나요?",
+				"이 음식을 나중에 먹어도 되나요?",
+				"음식을 포장하려면 어떻게 하나요?",
+				"이 음식을 따로 포장할 수 있나요?",
+				"음식을 나중에 먹으려면 어떻게 하나요?",
+				"이 음식을 여기서 먹어도 되나요?",
+				"이 음식을 배달해 주실 수 있나요?",
+				"음식을 포장해 주시겠어요?",
+				"이 음식을 가방에 담아주실 수 있나요?"
+			],
+			"usage": ["I asked if I could get the food to go.", "Can I have this food packaged for take-out?", "Is it possible to take this food with me?"],
+			"usageMeaning": ["(이 음식을 포장해 갈 수 있는지 물어봤습니다.)", "(이 음식을 포장해서 갈 수 있는지 확인했습니다.)", "(이 음식을 가져갈 수 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "to go",
+					"meaning": "포장해 가다"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				},
+				{
+					"word": "this",
+					"meaning": "이"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Is there a restroom nearby?",
+			"correctAnswer": "근처에 화장실이 있나요?",
+			"incorrectAnswers": [
+				"이 지역에 음식점이 있나요?",
+				"근처에 카페가 있나요?",
+				"화장실 위치를 알 수 있나요?",
+				"이 지역에 편의점이 있나요?",
+				"근처에 주차장이 있나요?",
+				"이곳에서 화장실까지 거리는 얼마나 되나요?",
+				"이 지역의 관광 명소는 어디인가요?",
+				"근처에 버스 정류장이 있나요?",
+				"화장실은 어디에 위치해 있나요?",
+				"근처에 주유소가 있나요?"
+			],
+			"usage": ["I asked if there was a nearby restroom.", "Is there a washroom around here?", "Can you tell me where the nearest restroom is?"],
+			"usageMeaning": ["(근처에 화장실이 있는지 물어봤습니다.)", "(이곳 주변에 화장실이 있는지 확인했습니다.)", "(가장 가까운 화장실 위치를 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "restroom",
+					"meaning": "화장실"
+				},
+				{
+					"word": "nearby",
+					"meaning": "근처에"
+				},
+				{
+					"word": "is",
+					"meaning": "있다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Do you have this in a different size?",
+			"correctAnswer": "이것의 다른 사이즈가 있나요?",
+			"incorrectAnswers": [
+				"이것의 색상은 어떤가요?",
+				"이것의 가격이 얼마인가요?",
+				"이것은 어떤 재질로 만들어졌나요?",
+				"이것의 사이즈를 어떻게 측정하나요?",
+				"이것의 재고는 얼마나 있나요?",
+				"이것의 색상 옵션은 무엇인가요?",
+				"이것을 다른 색상으로 주문할 수 있나요?",
+				"이것의 사이즈는 어떻게 되나요?",
+				"이것의 사이즈가 맞지 않으면 어떻게 하나요?",
+				"이것의 사이즈 조정이 가능한가요?"
+			],
+			"usage": ["I asked if they had this item in a different size.", "Do you offer this in other sizes?", "Is there an alternative size for this?"],
+			"usageMeaning": ["(이것의 다른 사이즈가 있는지 물어봤습니다.)", "(다른 사이즈 옵션이 있는지 확인했습니다.)", "(이것의 대체 사이즈가 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "size",
+					"meaning": "사이즈"
+				},
+				{
+					"word": "different",
+					"meaning": "다른"
+				},
+				{
+					"word": "have",
+					"meaning": "가지다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Do I need to make an appointment for a check-up?",
+			"correctAnswer": "검진을 받으려면 예약이 필요한가요?",
+			"incorrectAnswers": [
+				"검진을 받으려면 어떤 서류가 필요한가요?",
+				"예약 없이 진료를 받을 수 있나요?",
+				"검진은 어떤 절차로 진행되나요?",
+				"검진 예약은 어떻게 하나요?",
+				"검진 예약을 취소하려면 어떻게 하나요?",
+				"검진 후 추가 검사가 필요한가요?",
+				"검진 예약이 필수인가요?",
+				"검진을 받기 위해 어떤 준비가 필요한가요?",
+				"검진 예약 없이 방문해도 되나요?",
+				"검진은 예약 없이도 가능한가요?"
+			],
+			"usage": ["I asked if an appointment was necessary for a check-up.", "Do I need to schedule a check-up in advance?", "Is it required to book an appointment for a check-up?"],
+			"usageMeaning": ["(검진을 받기 위해 예약이 필요한지 물어봤습니다.)", "(검진 예약이 필요한지 확인했습니다.)", "(검진을 받기 위해 예약이 필수인지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "check-up",
+					"meaning": "검진"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "Can I withdraw cash from this account?",
+			"correctAnswer": "이 계좌에서 현금을 인출할 수 있나요?",
+			"incorrectAnswers": [
+				"이 계좌에서 대출을 받을 수 있나요?",
+				"계좌에서 돈을 송금할 수 있나요?",
+				"이 계좌의 잔액은 얼마인가요?",
+				"계좌에서 현금 인출 한도는 어떻게 되나요?",
+				"이 계좌의 이자는 어떻게 되나요?",
+				"이 계좌에서 해외 송금을 할 수 있나요?",
+				"이 계좌로 자동이체를 설정할 수 있나요?",
+				"이 계좌의 카드 서비스는 무엇인가요?",
+				"계좌에서 현금 인출 수수료가 있나요?",
+				"이 계좌에서 체크카드를 신청할 수 있나요?"
+			],
+			"usage": ["I asked if I could withdraw cash from this account.", "Can I take out money from this account?", "Is it possible to get cash from this account?"],
+			"usageMeaning": ["(이 계좌에서 현금을 인출할 수 있는지 물어봤습니다.)", "(이 계좌에서 돈을 인출할 수 있는지 확인했습니다.)", "(이 계좌에서 현금을 인출할 수 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "withdraw",
+					"meaning": "인출하다"
+				},
+				{
+					"word": "cash",
+					"meaning": "현금"
+				},
+				{
+					"word": "account",
+					"meaning": "계좌"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Can I see the room before checking in?",
+			"correctAnswer": "체크인 전에 방을 볼 수 있나요?",
+			"incorrectAnswers": [
+				"체크인 후 방을 바꿀 수 있나요?",
+				"체크인 시간은 몇 시인가요?",
+				"방의 요금은 얼마인가요?",
+				"체크인 전에 방을 예약할 수 있나요?",
+				"체크인 후 방을 확인할 수 있나요?",
+				"체크인 전에 방을 청소할 수 있나요?",
+				"체크인 시간 전에 방을 볼 수 있나요?",
+				"체크인 후 방을 업그레이드할 수 있나요?",
+				"체크인 전에 방의 크기를 알 수 있나요?",
+				"체크인 후 방을 변경할 수 있나요?"
+			],
+			"usage": ["I asked if I could see the room before checking in.", "Can I view the room before I check in?", "Is it possible to check out the room before check-in?"],
+			"usageMeaning": ["(체크인 전에 방을 볼 수 있는지 물어봤습니다.)", "(체크인 전에 방을 확인할 수 있는지 확인했습니다.)", "(체크인 전에 방을 볼 수 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "see",
+					"meaning": "보다"
+				},
+				{
+					"word": "room",
+					"meaning": "방"
+				},
+				{
+					"word": "check in",
+					"meaning": "체크인하다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Do you have this item in a different color?",
+			"correctAnswer": "이 상품의 다른 색상이 있나요?",
+			"incorrectAnswers": [
+				"이 상품은 얼마인가요?",
+				"이 상품의 사이즈는 무엇인가요?",
+				"이 상품을 다른 색상으로 주문할 수 있나요?",
+				"이 상품은 다른 디자인이 있나요?",
+				"이 상품의 재고는 어떻게 되나요?",
+				"이 상품의 원래 가격은 얼마인가요?",
+				"이 상품의 색상을 바꿀 수 있나요?",
+				"이 상품의 다른 옵션이 있나요?",
+				"이 상품을 다른 색상으로 교환할 수 있나요?",
+				"이 상품의 가격은 얼마인가요?"
+			],
+			"usage": ["I asked if they had the item in another color.", "Is this item available in a different color?", "Do you offer this item in various colors?"],
+			"usageMeaning": ["(이 상품의 다른 색상이 있는지 물어봤습니다.)", "(이 상품이 다른 색상으로 있는지 물어봤습니다.)", "(이 상품이 다른 색상으로 제공되는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "item",
+					"meaning": "상품"
+				},
+				{
+					"word": "color",
+					"meaning": "색상"
+				},
+				{
+					"word": "different",
+					"meaning": "다른"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "I need to make an appointment with Dr. Smith. How can I do that?",
+			"correctAnswer": "스미스 박사와 예약을 하려면 어떻게 해야 하나요?",
+			"incorrectAnswers": [
+				"스미스 박사의 진료 시간은 언제인가요?",
+				"스미스 박사와 상담할 수 있는지 알고 싶습니다.",
+				"스미스 박사와의 예약을 어떻게 취소하나요?",
+				"스미스 박사와의 약속을 잡으려면 어떻게 하나요?",
+				"이 병원의 진료 시간은 어떻게 되나요?",
+				"스미스 박사와 상담을 원합니다. 어떻게 해야 하나요?",
+				"스미스 박사와의 만남을 예약하려면 어떤 절차가 필요한가요?",
+				"스미스 박사와의 예약을 변경하려면 어떻게 하나요?",
+				"스미스 박사의 전화번호를 알 수 있나요?",
+				"스미스 박사와의 진료 예약을 어떻게 하나요?"
+			],
+			"usage": ["I asked how to schedule an appointment with Dr. Smith.", "How can I book a meeting with Dr. Smith?", "I need to know the procedure for making an appointment with Dr. Smith."],
+			"usageMeaning": ["(스미스 박사와의 예약 방법을 물어봤습니다.)", "(스미스 박사와의 상담 예약을 잡으려는 방법을 확인했습니다.)", "(스미스 박사와 약속을 잡는 방법을 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "doctor",
+					"meaning": "박사"
+				},
+				{
+					"word": "schedule",
+					"meaning": "일정을 잡다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How can I apply for a credit card?",
+			"correctAnswer": "신용카드를 어떻게 신청하나요?",
+			"incorrectAnswers": [
+				"신용카드의 이자율은 얼마인가요?",
+				"신용카드를 받으려면 어떻게 해야 하나요?",
+				"신용카드 신청 절차는 무엇인가요?",
+				"신용카드의 한도는 얼마인가요?",
+				"신용카드의 혜택은 무엇인가요?",
+				"신용카드 발급에 필요한 서류는 무엇인가요?",
+				"신용카드를 신청할 때 비용이 드나요?",
+				"신용카드를 어떻게 사용할 수 있나요?",
+				"신용카드를 신청하기 위한 자격 조건은 무엇인가요?",
+				"신용카드를 발급받는 데 얼마나 걸리나요?"
+			],
+			"usage": ["I asked how to apply for a credit card.", "How do I get a credit card?", "What is the procedure to apply for a credit card?"],
+			"usageMeaning": ["(신용카드 신청 방법을 물어봤습니다.)", "(신용카드를 발급받는 방법을 물어봤습니다.)", "(신용카드 신청 절차를 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "apply",
+					"meaning": "신청하다"
+				},
+				{
+					"word": "credit card",
+					"meaning": "신용카드"
+				},
+				{
+					"word": "procedure",
+					"meaning": "절차"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "How was your weekend?",
+			"correctAnswer": "주말 어땠어요?",
+			"incorrectAnswers": [
+				"주말에 무엇을 했어요?",
+				"지난 주말에 뭐 했어요?",
+				"주말 계획이 어떻게 되나요?",
+				"주말 동안 잘 지냈어요?",
+				"주말에 어디 갔어요?",
+				"주말에 좋은 시간 보냈어요?",
+				"이번 주말에 무엇을 할 예정인가요?",
+				"주말 동안 뭐 했어요?",
+				"주말에 재미있었어요?",
+				"주말이 어땠는지 알고 싶어요."
+			],
+			"usage": ["I asked how their weekend was.", "How did you spend your weekend?", "I wanted to know about their weekend."],
+			"usageMeaning": ["(주말이 어땠는지 물어봤습니다.)", "(주말에 무엇을 했는지 물어봤습니다.)", "(주말이 어땠는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "weekend",
+					"meaning": "주말"
+				},
+				{
+					"word": "how",
+					"meaning": "어떻게"
+				},
+				{
+					"word": "was",
+					"meaning": "어땠다"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could I speak to Mr. Johnson, please?",
+			"correctAnswer": "존슨 씨와 통화할 수 있을까요?",
+			"incorrectAnswers": [
+				"존슨 씨는 어디에 있나요?",
+				"존슨 씨의 전화번호를 알 수 있나요?",
+				"존슨 씨는 지금 자리에 있나요?",
+				"존슨 씨와의 통화가 가능하나요?",
+				"존슨 씨의 연락처를 알 수 있나요?",
+				"존슨 씨의 이메일 주소를 알 수 있나요?",
+				"존슨 씨에게 메시지를 남길 수 있나요?",
+				"존슨 씨와의 회의는 언제인가요?",
+				"존슨 씨가 오늘 출근했나요?",
+				"존슨 씨의 위치를 알 수 있나요?"
+			],
+			"usage": ["I asked if I could speak with Mr. Johnson.", "Can I talk to Mr. Johnson, please?", "May I speak with Mr. Johnson?"],
+			"usageMeaning": ["(존슨 씨와 통화할 수 있는지 물어봤습니다.)", "(존슨 씨와 통화 가능 여부를 확인했습니다.)", "(존슨 씨와 이야기할 수 있는지 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "speak",
+					"meaning": "통화하다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				},
+				{
+					"word": "Mr.",
+					"meaning": "씨"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where is the check-in counter for my flight?",
+			"correctAnswer": "제 비행기의 체크인 카운터는 어디에 있나요?",
+			"incorrectAnswers": [
+				"비행기 탑승구는 어디에 있나요?",
+				"비행기 시간은 언제인가요?",
+				"비행기 표를 어디에서 구매하나요?",
+				"공항에서 탑승 절차는 어떻게 되나요?",
+				"수하물은 어디에서 체크하나요?",
+				"비행기 체크인 카운터의 위치를 알고 싶어요.",
+				"비행기 탑승 수속은 어디에서 하나요?",
+				"체크인 카운터의 운영 시간은 언제인가요?",
+				"비행기 출발 시간은 언제인가요?",
+				"비행기 체크인 절차는 어떻게 되나요?"
+			],
+			"usage": ["I asked where the check-in counter is for my flight.", "Where do I check in for my flight?", "Can you tell me the location of the check-in counter?"],
+			"usageMeaning": ["(비행기 체크인 카운터의 위치를 물어봤습니다.)", "(비행기 체크인 카운터가 어디에 있는지 확인했습니다.)", "(제 비행기의 체크인 카운터 위치를 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check-in counter",
+					"meaning": "체크인 카운터"
+				},
+				{
+					"word": "flight",
+					"meaning": "비행기"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "What should I do if I lose my passport?",
+			"correctAnswer": "여권을 잃어버리면 어떻게 해야 하나요?",
+			"incorrectAnswers": [
+				"여권을 잃어버렸을 때의 절차는 무엇인가요?",
+				"여권을 잃어버린 경우 대처 방법을 알려주세요.",
+				"여권 분실 시 경찰에 신고해야 하나요?",
+				"여권을 분실했을 때 필요한 서류는 무엇인가요?",
+				"여권을 잃어버리면 어떤 처벌을 받나요?",
+				"여권 분실 시 공항에서 해야 하는 일은 무엇인가요?",
+				"여권을 잃어버린 경우 비상 연락처는 무엇인가요?",
+				"여권 분실 시 어떻게 행동해야 하나요?",
+				"여권을 잃어버리면 어떻게 해야 하나요?",
+				"여권을 분실하면 어떻게 복구하나요?"
+			],
+			"usage": ["I asked what to do if I lose my passport.", "What steps should I take if my passport is lost?", "How should I handle losing my passport?"],
+			"usageMeaning": ["(여권을 잃어버렸을 때 해야 할 일을 물어봤습니다.)", "(여권을 잃어버렸을 때 취해야 할 조치를 물어봤습니다.)", "(여권 분실 시 대처 방법을 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "passport",
+					"meaning": "여권"
+				},
+				{
+					"word": "lose",
+					"meaning": "잃어버리다"
+				},
+				{
+					"word": "do",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I get the bill, please?",
+			"correctAnswer": "계산서 좀 가져다 주실 수 있나요?",
+			"incorrectAnswers": [
+				"식사 중인데 메뉴를 다시 볼 수 있나요?",
+				"이 식당의 스페셜 메뉴는 무엇인가요?",
+				"주문을 변경할 수 있나요?",
+				"음식이 언제 나올까요?",
+				"계산서가 필요합니다.",
+				"여기서 커피를 추가로 주문할 수 있나요?",
+				"음식의 재료는 무엇인가요?",
+				"테이블을 예약할 수 있나요?",
+				"계산서를 테이블로 가져다 줄 수 있나요?",
+				"이 식당의 운영 시간은 어떻게 되나요?"
+			],
+			"usage": ["I asked for the bill.", "Could you bring me the check?", "May I have the bill, please?"],
+			"usageMeaning": ["(계산서를 요청했습니다.)", "(계산서를 가져다 달라고 했습니다.)", "(계산서를 한번 주세요 라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "bill",
+					"meaning": "계산서"
+				},
+				{
+					"word": "get",
+					"meaning": "가져오다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Can I make an appointment with Dr. Lee?",
+			"correctAnswer": "이 박사님과 예약할 수 있나요?",
+			"incorrectAnswers": [
+				"이 박사님의 진료 시간은 언제인가요?",
+				"이 박사님의 연락처를 알 수 있나요?",
+				"진료 예약을 취소할 수 있나요?",
+				"병원에 오픈 시간은 언제인가요?",
+				"이 박사님의 전문 분야는 무엇인가요?",
+				"병원에서 진료를 받으려면 어떻게 해야 하나요?",
+				"진료 예약은 얼마나 걸리나요?",
+				"이 박사님은 오늘 진료를 하나요?",
+				"진료를 예약하려면 어떤 서류가 필요한가요?",
+				"병원에서 진료를 받을 수 있는 시간은 언제인가요?"
+			],
+			"usage": ["I wanted to schedule an appointment with Dr. Lee.", "Can I book an appointment with Dr. Lee?", "Is it possible to make an appointment with Dr. Lee?"],
+			"usageMeaning": ["(이 박사님과 진료 예약을 하려고 했습니다.)", "(이 박사님과 예약할 수 있는지 물어봤습니다.)", "(이 박사님과 약속을 잡을 수 있는지 알고 싶었습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "make",
+					"meaning": "만들다"
+				},
+				{
+					"word": "Dr.",
+					"meaning": "박사님"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I would like to open a savings account.",
+			"correctAnswer": "저는 저축 계좌를 개설하고 싶습니다.",
+			"incorrectAnswers": [
+				"저는 대출을 신청하고 싶습니다.",
+				"계좌를 해지하려고 합니다.",
+				"통장을 잃어버렸습니다.",
+				"계좌의 잔액을 확인하고 싶습니다.",
+				"저는 신용카드를 발급받고 싶습니다.",
+				"계좌 정보를 업데이트하고 싶습니다.",
+				"저축 계좌에 대한 정보를 알고 싶습니다.",
+				"계좌의 거래 내역을 조회하고 싶습니다.",
+				"저는 외환 계좌를 개설하고 싶습니다.",
+				"계좌를 임시로 동결하려고 합니다."
+			],
+			"usage": ["I asked to open a savings account.", "I want to create a savings account.", "Could I open a savings account?"],
+			"usageMeaning": ["(저축 계좌를 개설하고 싶다고 요청했습니다.)", "(저축 계좌를 만들고 싶다고 했습니다.)", "(저축 계좌를 개설할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				},
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "would like",
+					"meaning": "하고 싶다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Could I see your ID, please?",
+			"correctAnswer": "신분증을 보여주실 수 있나요?",
+			"incorrectAnswers": [
+				"체크인 절차가 어떻게 되나요?",
+				"룸 업그레이드가 가능한가요?",
+				"객실 요금은 얼마인가요?",
+				"호텔의 위치는 어디인가요?",
+				"체크아웃 시간은 언제인가요?",
+				"이 호텔의 체크인 시간은 어떻게 되나요?",
+				"체크인 시 필요한 서류는 무엇인가요?",
+				"룸 서비스는 어떻게 이용하나요?",
+				"호텔의 주차 공간은 어떻게 되나요?",
+				"이 호텔의 시설 이용은 어떻게 하나요?"
+			],
+			"usage": ["I asked for their ID.", "Can you show me your identification?", "May I see your ID, please?"],
+			"usageMeaning": ["(신분증을 요청했습니다.)", "(신분증을 보여달라고 했습니다.)", "(신분증을 볼 수 있을까요? 라고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "ID",
+					"meaning": "신분증"
+				},
+				{
+					"word": "see",
+					"meaning": "보다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "I need to check out early.",
+			"correctAnswer": "일찍 체크아웃해야 합니다.",
+			"incorrectAnswers": [
+				"체크인 시간을 연장할 수 있나요?",
+				"체크아웃 시간은 어떻게 되나요?",
+				"체크아웃을 늦추고 싶습니다.",
+				"객실 요금이 얼마인가요?",
+				"체크아웃 시 필요한 서류가 있나요?",
+				"룸 서비스를 추가로 이용하고 싶습니다.",
+				"체크아웃 절차는 어떻게 되나요?",
+				"체크아웃 후 짐을 보관할 수 있나요?",
+				"호텔에서 공항까지의 교통편은 어떻게 되나요?",
+				"체크아웃 시 신분증을 보여줘야 하나요?"
+			],
+			"usage": ["I said I need to check out earlier.", "I have to check out before the usual time.", "Can I check out early?"],
+			"usageMeaning": ["(일찍 체크아웃해야 한다고 말했습니다.)", "(보통 시간보다 일찍 체크아웃해야 한다고 했습니다.)", "(일찍 체크아웃할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check out",
+					"meaning": "체크아웃하다"
+				},
+				{
+					"word": "early",
+					"meaning": "일찍"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I speak to Mr. Kim, please?",
+			"correctAnswer": "김 씨와 통화할 수 있을까요?",
+			"incorrectAnswers": [
+				"김 씨는 지금 바쁘신가요?",
+				"김 씨의 연락처를 알 수 있나요?",
+				"김 씨의 사무실 주소를 알 수 있나요?",
+				"김 씨와의 회의를 예약하고 싶습니다.",
+				"김 씨의 업무 시간은 어떻게 되나요?",
+				"김 씨의 이메일 주소를 알 수 있나요?",
+				"김 씨가 오늘 출근하셨나요?",
+				"김 씨와의 통화가 가능한가요?",
+				"김 씨의 전화번호를 알 수 있나요?",
+				"김 씨와의 통화는 언제 가능한가요?"
+			],
+			"usage": ["I requested to speak with Mr. Kim.", "Can I talk to Mr. Kim, please?", "May I speak to Mr. Kim?"],
+			"usageMeaning": ["(김 씨와 통화할 수 있는지 요청했습니다.)", "(김 씨와 이야기할 수 있는지 물어봤습니다.)", "(김 씨와 통화할 수 있는지 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "speak",
+					"meaning": "통화하다"
+				},
+				{
+					"word": "Mr.",
+					"meaning": "씨"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where is the check-in counter?",
+			"correctAnswer": "체크인 카운터가 어디에 있나요?",
+			"incorrectAnswers": [
+				"비행기 탑승구는 어디에 있나요?",
+				"출입국 심사대는 어디에 있나요?",
+				"공항의 화장실은 어디에 있나요?",
+				"보안 검색대는 어디에 있나요?",
+				"수하물 찾는 곳은 어디에 있나요?",
+				"택시 승차장은 어디에 있나요?",
+				"공항의 음식점은 어디에 있나요?",
+				"공항에서 환전소는 어디에 있나요?",
+				"체크인 카운터의 운영 시간은 어떻게 되나요?",
+				"공항의 안내 데스크는 어디에 있나요?"
+			],
+			"usage": ["I asked for the location of the check-in counter.", "Where can I find the check-in desk?", "Can you tell me where the check-in counter is?"],
+			"usageMeaning": ["(체크인 카운터의 위치를 물어봤습니다.)", "(체크인 카운터를 찾을 수 있는 곳을 물어봤습니다.)", "(체크인 카운터가 어디에 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check-in counter",
+					"meaning": "체크인 카운터"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				},
+				{
+					"word": "is",
+					"meaning": "있다"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "I need help; there's an emergency.",
+			"correctAnswer": "도움이 필요해요. 긴급 상황이에요.",
+			"incorrectAnswers": [
+				"저는 길을 잃어버렸어요.",
+				"주변에 병원이 있나요?",
+				"제가 필요한 도움을 찾을 수가 없어요.",
+				"긴급 상황에서 연락할 번호가 있나요?",
+				"제가 지금 불편해요.",
+				"긴급 상황을 신고하려고 해요.",
+				"누군가가 다쳤어요.",
+				"주변에 경찰서가 있나요?",
+				"지금 어떤 조치를 취해야 하나요?",
+				"주변에 안전한 장소가 있나요?"
+			],
+			"usage": ["I said I need assistance; it’s an emergency.", "Help is needed; there's an urgent situation.", "Can you help? There’s an emergency."],
+			"usageMeaning": ["(도움이 필요하고 긴급 상황이라고 말했습니다.)", "(긴급 상황이 있으니 도움을 요청했습니다.)", "(도움이 필요하고 긴급 상황임을 알렸습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "help",
+					"meaning": "도움"
+				},
+				{
+					"word": "emergency",
+					"meaning": "긴급 상황"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could I get a glass of water, please?",
+			"correctAnswer": "물 한 잔 부탁드려도 될까요?",
+			"incorrectAnswers": [
+				"이 음식의 재료가 무엇인가요?",
+				"물에 대한 메뉴가 있나요?",
+				"이 식당의 인기 메뉴는 무엇인가요?",
+				"식사 중 음료수를 추가로 주문할 수 있나요?",
+				"식당의 주방장은 누구인가요?",
+				"물 대신 다른 음료를 추천해 주시겠어요?",
+				"이 음식의 칼로리는 얼마인가요?",
+				"음료수의 가격은 얼마인가요?",
+				"식사 후 디저트를 주문할 수 있나요?",
+				"음료수를 추가로 주문할 수 있나요?"
+			],
+			"usage": ["I requested a glass of water.", "Can I have a glass of water, please?", "May I get a glass of water?"],
+			"usageMeaning": ["(물 한 잔을 요청했습니다.)", "(물 한 잔을 부탁했습니다.)", "(물 한 잔을 주실 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "glass",
+					"meaning": "잔"
+				},
+				{
+					"word": "water",
+					"meaning": "물"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Is this the right way to the museum?",
+			"correctAnswer": "이 길이 박물관 가는 길 맞나요?",
+			"incorrectAnswers": [
+				"박물관은 어떤 전시가 있나요?",
+				"이 길이 맞는지 확인할 수 있나요?",
+				"박물관의 입장료는 얼마인가요?",
+				"박물관의 운영 시간은 어떻게 되나요?",
+				"박물관까지 가는 데 얼마나 걸리나요?",
+				"이 길로 가면 박물관이 있나요?",
+				"주변에 주차 공간이 있나요?",
+				"박물관의 주소를 알 수 있나요?",
+				"박물관 근처에 식당이 있나요?",
+				"박물관에 가는 다른 방법이 있나요?"
+			],
+			"usage": ["I asked if this is the correct route to the museum.", "Is this the correct path to the museum?", "Can you confirm if this is the way to the museum?"],
+			"usageMeaning": ["(이 길이 박물관 가는 길이 맞는지 물어봤습니다.)", "(이 길이 박물관으로 가는 올바른 길인지 확인했습니다.)", "(이 길이 박물관으로 가는 길인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "right way",
+					"meaning": "올바른 길"
+				},
+				{
+					"word": "museum",
+					"meaning": "박물관"
+				},
+				{
+					"word": "is",
+					"meaning": "이다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "How much does this cost?",
+			"correctAnswer": "이것의 가격이 얼마인가요?",
+			"incorrectAnswers": [
+				"이 제품의 할인 가격은 얼마인가요?",
+				"이것의 가격이 비싼가요?",
+				"이 제품의 원가는 얼마인가요?",
+				"이것을 사면 추가로 제공되는 것이 있나요?",
+				"이 제품의 배송비는 얼마인가요?",
+				"이것의 가격이 너무 비싸다고 생각하나요?",
+				"이 제품의 세금은 얼마인가요?",
+				"이것의 가격을 좀 더 낮출 수 있나요?",
+				"이 제품의 품질은 어떤가요?",
+				"이것을 구매할 때 필요한 서류가 있나요?"
+			],
+			"usage": ["I inquired about the cost of this item.", "What is the price of this?", "Can you tell me how much this costs?"],
+			"usageMeaning": ["(이것의 가격을 물어봤습니다.)", "(이것의 가격이 얼마인지 물어봤습니다.)", "(이것의 가격을 알고 싶다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "cost",
+					"meaning": "가격"
+				},
+				{
+					"word": "how much",
+					"meaning": "얼마"
+				},
+				{
+					"word": "does",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Is there a pharmacy nearby?",
+			"correctAnswer": "근처에 약국이 있나요?",
+			"incorrectAnswers": [
+				"병원에서 약을 처방받을 수 있나요?",
+				"이 병원의 약국은 어디에 있나요?",
+				"병원의 약제사와 상담할 수 있나요?",
+				"근처에 병원이 있나요?",
+				"이 병원의 의사는 누구인가요?",
+				"근처에 응급실이 있나요?",
+				"약국의 운영 시간은 어떻게 되나요?",
+				"이 병원에서 처방전을 받을 수 있나요?",
+				"근처에 의료 기관이 있나요?",
+				"병원의 예약은 어떻게 하나요?"
+			],
+			"usage": ["I asked if there is a pharmacy close by.", "Is there a pharmacy around here?", "Can you tell me if there is a pharmacy nearby?"],
+			"usageMeaning": ["(근처에 약국이 있는지 물어봤습니다.)", "(근처에 약국이 있는지 확인했습니다.)", "(근처에 약국이 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "pharmacy",
+					"meaning": "약국"
+				},
+				{
+					"word": "nearby",
+					"meaning": "근처의"
+				},
+				{
+					"word": "is",
+					"meaning": "있다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How do I transfer money to another account?",
+			"correctAnswer": "다른 계좌로 돈을 이체하려면 어떻게 하나요?",
+			"incorrectAnswers": [
+				"돈을 인출하는 방법을 알려주세요.",
+				"계좌의 잔액을 확인하는 방법은 무엇인가요?",
+				"계좌를 해지하는 방법을 알고 싶습니다.",
+				"외환 환전은 어떻게 하나요?",
+				"계좌 번호를 변경할 수 있나요?",
+				"돈을 입금하는 방법을 알고 싶습니다.",
+				"인터넷 뱅킹으로 거래를 하는 방법은 무엇인가요?",
+				"계좌 정보를 업데이트하려면 어떻게 하나요?",
+				"통장 분실 시 조치를 어떻게 하나요?",
+				"대출 상환은 어떻게 하나요?"
+			],
+			"usage": ["I wanted to know how to transfer money to another account.", "Can you explain how to transfer funds to another account?", "How can I send money to a different account?"],
+			"usageMeaning": ["(다른 계좌로 돈을 이체하는 방법을 알고 싶었습니다.)", "(다른 계좌로 돈을 이체하는 방법을 설명해 달라고 했습니다.)", "(다른 계좌로 돈을 보내는 방법을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "transfer",
+					"meaning": "이체하다"
+				},
+				{
+					"word": "money",
+					"meaning": "돈"
+				},
+				{
+					"word": "account",
+					"meaning": "계좌"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Can you provide a receipt for my stay?",
+			"correctAnswer": "제 숙박에 대한 영수증을 제공해 주실 수 있나요?",
+			"incorrectAnswers": [
+				"체크아웃 절차는 어떻게 되나요?",
+				"숙박 요금은 얼마인가요?",
+				"체크아웃 시간은 언제인가요?",
+				"숙박 중 문제가 있었던 것 같은데요.",
+				"제 예약을 확인할 수 있나요?",
+				"체크아웃 후 짐을 보관할 수 있나요?",
+				"숙박 중 객실 청소는 어떻게 되나요?",
+				"제 예약을 변경할 수 있나요?",
+				"체크아웃 후 공항까지의 교통편은 어떻게 되나요?",
+				"숙박 기간을 연장할 수 있나요?"
+			],
+			"usage": ["I asked if a receipt could be provided for my stay.", "Can I get a receipt for my stay?", "Please provide a receipt for my accommodation."],
+			"usageMeaning": ["(숙박에 대한 영수증을 제공해 줄 수 있는지 물어봤습니다.)", "(숙박에 대한 영수증을 받을 수 있는지 물어봤습니다.)", "(숙박에 대한 영수증을 제공해 달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "receipt",
+					"meaning": "영수증"
+				},
+				{
+					"word": "stay",
+					"meaning": "숙박"
+				},
+				{
+					"word": "provide",
+					"meaning": "제공하다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could I get the check, please?",
+			"correctAnswer": "계산서 좀 주시겠어요?",
+			"incorrectAnswers": [
+				"저는 더 이상 음식을 주문하지 않을게요.",
+				"계산서에 추가된 세금이 있나요?",
+				"이 식당의 추천 요리는 무엇인가요?",
+				"제가 주문한 음식이 준비되었나요?",
+				"계산서의 총 금액은 얼마인가요?",
+				"음식이 맛있어서 감사해요.",
+				"이 식당에서 지불 방법은 무엇인가요?",
+				"다음에 이 식당에 오면 어떤 음식을 추천하나요?",
+				"계산서를 잘못 주셨습니다.",
+				"계산서에 항목이 잘못 기재된 것 같아요."
+			],
+			"usage": ["I asked for the bill.", "May I have the check, please?", "Could you bring me the bill?"],
+			"usageMeaning": ["(계산서를 요청했습니다.)", "(계산서를 가져다 달라고 부탁했습니다.)", "(계산서를 가져다 주실 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check",
+					"meaning": "계산서"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Can you tell me the way to the nearest bus stop?",
+			"correctAnswer": "가장 가까운 버스 정류장까지 가는 길을 알려주실 수 있나요?",
+			"incorrectAnswers": [
+				"버스 정류장의 시간표는 어떻게 되나요?",
+				"여기서 가까운 지하철역은 어디인가요?",
+				"버스 정류장에서 버스를 타려면 어떻게 하나요?",
+				"이 지역에서 택시를 부를 수 있는 장소는 어디인가요?",
+				"버스 정류장에서 시내까지 가는 방법을 알고 싶습니다.",
+				"근처에 어떤 교통수단이 있나요?",
+				"이곳에서 가장 가까운 음식점은 어디인가요?",
+				"버스를 타려면 어떤 티켓이 필요한가요?",
+				"버스가 도착하는 시간은 언제인가요?",
+				"이곳에서 택시를 부르는 방법을 알려주세요."
+			],
+			"usage": ["I needed directions to the nearest bus stop.", "Can you guide me to the closest bus stop?", "How do I get to the nearest bus stop?"],
+			"usageMeaning": ["(가장 가까운 버스 정류장까지 가는 길을 묻고 싶었습니다.)", "(가장 가까운 버스 정류장으로 가는 방법을 안내해 달라고 했습니다.)", "(가장 가까운 버스 정류장까지 어떻게 가는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "way",
+					"meaning": "길"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "bus stop",
+					"meaning": "버스 정류장"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Do you offer any discounts on this item?",
+			"correctAnswer": "이 제품에 대해 할인 혜택이 있나요?",
+			"incorrectAnswers": [
+				"이 제품의 반품 정책은 무엇인가요?",
+				"이 제품의 품질 보증 기간은 얼마인가요?",
+				"이 제품의 가격은 얼마인가요?",
+				"이 제품의 재고는 충분한가요?",
+				"이 제품의 배송 시간은 얼마나 걸리나요?",
+				"이 제품을 사면 어떤 추가 혜택이 있나요?",
+				"이 제품의 디자인은 어떤가요?",
+				"이 제품의 제조사는 어디인가요?",
+				"이 제품을 구매하면 포장이 어떻게 되나요?",
+				"이 제품에 대한 리뷰는 어떤가요?"
+			],
+			"usage": ["I asked if there are any discounts available for this item.", "Are there any promotions for this product?", "Is there a discount on this item?"],
+			"usageMeaning": ["(이 제품에 대한 할인이 있는지 물어봤습니다.)", "(이 제품에 대한 프로모션이 있는지 물어봤습니다.)", "(이 제품에 할인이 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "discount",
+					"meaning": "할인"
+				},
+				{
+					"word": "offer",
+					"meaning": "제공하다"
+				},
+				{
+					"word": "item",
+					"meaning": "제품"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Do I need to make an appointment to see the doctor?",
+			"correctAnswer": "의사에게 진료를 받으려면 예약이 필요한가요?",
+			"incorrectAnswers": [
+				"병원에 도착했는데 진료가 가능한가요?",
+				"이 병원은 예약제로 운영되나요?",
+				"의사와 상담할 수 있는 시간을 알고 싶습니다.",
+				"예약이 없으면 진료를 받을 수 없나요?",
+				"이 병원에서는 응급 진료가 가능한가요?",
+				"진료를 받기 위해 준비해야 할 것은 무엇인가요?",
+				"병원에서 예약을 변경할 수 있나요?",
+				"진료 후 처방전은 어떻게 받나요?",
+				"병원에 연락할 때 필요한 정보는 무엇인가요?",
+				"이 병원의 의사들은 모두 전문의인가요?"
+			],
+			"usage": ["I wanted to know if an appointment is required to see the doctor.", "Do I need an appointment to consult with the doctor?", "Is it necessary to make an appointment before seeing the doctor?"],
+			"usageMeaning": ["(의사와 상담하려면 예약이 필요한지 알고 싶었습니다.)", "(의사를 만나려면 예약이 필요한지 물어봤습니다.)", "(의사에게 진료받으려면 예약이 필요하냐고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "doctor",
+					"meaning": "의사"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "What is the interest rate on a savings account?",
+			"correctAnswer": "저축 계좌의 이자율은 얼마인가요?",
+			"incorrectAnswers": [
+				"대출의 이자율은 얼마인가요?",
+				"저축 계좌를 개설하려면 어떻게 해야 하나요?",
+				"이자 지급 주기는 어떻게 되나요?",
+				"계좌에 최소 잔액이 필요한가요?",
+				"이자율이 높은 다른 금융 상품이 있나요?",
+				"저축 계좌의 월 수수료는 얼마인가요?",
+				"계좌 해지 시 수수료가 있나요?",
+				"저축 계좌의 연간 수익률은 얼마인가요?",
+				"정기예금의 이자율은 얼마인가요?",
+				"저축 계좌의 보장 한도는 얼마인가요?"
+			],
+			"usage": ["I inquired about the interest rate for a savings account.", "What is the savings account interest rate?", "Can you tell me the interest rate for a savings account?"],
+			"usageMeaning": ["(저축 계좌의 이자율에 대해 물어봤습니다.)", "(저축 계좌의 이자율이 얼마인지 물어봤습니다.)", "(저축 계좌의 이자율을 알려달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "interest rate",
+					"meaning": "이자율"
+				},
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Can I see a room before checking in?",
+			"correctAnswer": "체크인 전에 객실을 볼 수 있나요?",
+			"incorrectAnswers": [
+				"체크인 시간이 지나면 객실을 변경할 수 있나요?",
+				"체크인 시 객실에 대한 요청사항을 남길 수 있나요?",
+				"체크인 전에 객실의 가격을 확인할 수 있나요?",
+				"객실의 위치를 바꿀 수 있나요?",
+				"체크인 시 제공되는 서비스는 무엇인가요?",
+				"체크인 후 방에 추가 침대가 필요할 수 있나요?",
+				"객실에 대한 설명을 받을 수 있나요?",
+				"체크인 전에 시설을 이용할 수 있나요?",
+				"객실을 미리 예약할 때 요청할 수 있는 사항은 무엇인가요?",
+				"체크인 후 룸서비스를 이용할 수 있나요?"
+			],
+			"usage": ["I asked if I could view a room before checking in.", "Can I inspect the room before I check in?", "Is it possible to see the room before checking in?"],
+			"usageMeaning": ["(체크인 전에 객실을 볼 수 있는지 물어봤습니다.)", "(체크인 전에 방을 확인할 수 있는지 물어봤습니다.)", "(체크인 전에 객실을 볼 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "room",
+					"meaning": "객실"
+				},
+				{
+					"word": "see",
+					"meaning": "보다"
+				},
+				{
+					"word": "check in",
+					"meaning": "체크인하다"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What did you do over the weekend?",
+			"correctAnswer": "주말에 무엇을 했나요?",
+			"incorrectAnswers": [
+				"이번 주에 계획이 무엇인가요?",
+				"오늘은 어떻게 지내고 있나요?",
+				"다음 주에 할 일은 무엇인가요?",
+				"주말 동안 날씨는 어땠나요?",
+				"주말에 만난 사람들은 누구인가요?",
+				"주말에 가본 장소는 어디인가요?",
+				"주말에 무엇을 먹었나요?",
+				"주말에 어떤 영화나 TV 프로그램을 봤나요?",
+				"주말에 특별한 일이 있었나요?",
+				"다음 주말에는 무엇을 할 계획인가요?"
+			],
+			"usage": ["I asked what someone did over the weekend.", "What activities did you do during the weekend?", "Can you tell me about your weekend activities?"],
+			"usageMeaning": ["(주말에 무엇을 했는지 물어봤습니다.)", "(주말 동안 어떤 활동을 했는지 물어봤습니다.)", "(주말에 한 일에 대해 이야기해 달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "weekend",
+					"meaning": "주말"
+				},
+				{
+					"word": "do",
+					"meaning": "하다"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I leave a message for someone?",
+			"correctAnswer": "누군가에게 메시지를 남길 수 있나요?",
+			"incorrectAnswers": [
+				"전화통화 중 전화를 끊어도 되나요?",
+				"메시지를 받았을 때 어떻게 하나요?",
+				"누군가에게 직접 전화를 걸 수 있나요?",
+				"메시지를 보내는 방법은 무엇인가요?",
+				"전화 메시지의 응답 시간은 얼마나 되나요?",
+				"메시지를 남기면 얼마나 걸리나요?",
+				"전화 통화의 기록을 확인할 수 있나요?",
+				"이 번호로 직접 연락할 수 있는 방법은 무엇인가요?",
+				"전화가 잘못 걸렸을 경우 어떻게 하나요?",
+				"누군가의 전화 메시지를 전달해 줄 수 있나요?"
+			],
+			"usage": ["I wanted to know if I could leave a message for someone.", "Can I leave a voicemail for someone?", "Is it possible to leave a message for someone on the phone?"],
+			"usageMeaning": ["(누군가에게 메시지를 남길 수 있는지 물어봤습니다.)", "(누군가에게 음성 메시지를 남길 수 있는지 물어봤습니다.)", "(전화로 메시지를 남길 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "message",
+					"meaning": "메시지"
+				},
+				{
+					"word": "leave",
+					"meaning": "남기다"
+				},
+				{
+					"word": "someone",
+					"meaning": "누군가"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where can I check in for my flight?",
+			"correctAnswer": "어디서 제 항공편 체크인을 할 수 있나요?",
+			"incorrectAnswers": [
+				"항공편의 출발 시간을 알고 싶습니다.",
+				"이 항공편의 수화물 규정은 어떻게 되나요?",
+				"출발 게이트는 어디인가요?",
+				"항공권을 구매하려면 어떻게 해야 하나요?",
+				"탑승 수속은 얼마나 걸리나요?",
+				"공항에서 택시를 호출할 수 있나요?",
+				"비행기 탑승 전에 보안 검사는 어떻게 하나요?",
+				"이 항공편의 식사는 어떻게 되나요?",
+				"비행기의 좌석 배치는 어떻게 되나요?",
+				"항공권을 잃어버렸을 때는 어떻게 하나요?"
+			],
+			"usage": ["I wanted to know where to check in for my flight.", "Where do I go to check in for my flight?", "Can you tell me where to check in for my flight?"],
+			"usageMeaning": ["(제 항공편 체크인을 어디서 할 수 있는지 물어봤습니다.)", "(제 항공편 체크인을 하려면 어디로 가야 하는지 물어봤습니다.)", "(항공편 체크인을 어디서 해야 하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check in",
+					"meaning": "체크인하다"
+				},
+				{
+					"word": "flight",
+					"meaning": "항공편"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could I have this dish without onions?",
+			"correctAnswer": "이 요리를 양파 없이 만들 수 있나요?",
+			"incorrectAnswers": [
+				"이 요리에 다른 재료를 추가할 수 있나요?",
+				"이 요리의 양념을 바꿀 수 있나요?",
+				"이 요리를 덜 매운 것으로 부탁할 수 있나요?",
+				"이 요리의 조리 방법을 변경할 수 있나요?",
+				"이 요리를 더 많이 담아주실 수 있나요?",
+				"이 요리의 가격을 알 수 있나요?",
+				"이 요리의 특별한 재료는 무엇인가요?",
+				"이 요리의 알레르기 정보는 어떻게 되나요?",
+				"이 요리에 곁들여 나오는 것은 무엇인가요?",
+				"이 요리를 나중에 다시 주문할 수 있나요?"
+			],
+			"usage": ["I asked if the dish could be made without onions.", "Can you prepare this dish without onions?", "Is it possible to get this dish without onions?"],
+			"usageMeaning": ["(이 요리를 양파 없이 만들 수 있는지 물어봤습니다.)", "(이 요리를 양파 없이 준비해 줄 수 있는지 물어봤습니다.)", "(이 요리를 양파 없이 받을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "dish",
+					"meaning": "요리"
+				},
+				{
+					"word": "without",
+					"meaning": "없이"
+				},
+				{
+					"word": "onions",
+					"meaning": "양파"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How long does it take to get to the nearest train station?",
+			"correctAnswer": "가장 가까운 기차역까지 가는 데 얼마나 걸리나요?",
+			"incorrectAnswers": [
+				"기차역까지 가는 버스의 시간표는 어떻게 되나요?",
+				"기차역에서 시내까지 가는 방법은 무엇인가요?",
+				"기차역의 운영 시간은 언제인가요?",
+				"기차역까지 가는 도보 시간은 얼마나 되나요?",
+				"기차역 근처에 주차할 장소가 있나요?",
+				"기차역으로 가는 대중교통의 요금은 얼마인가요?",
+				"기차역에서 가장 가까운 호텔은 어디인가요?",
+				"기차역까지 가는 택시 비용은 얼마나 되나요?",
+				"기차역까지 가는 대중교통의 경로는 어떻게 되나요?",
+				"기차역까지 걸어서 가는 데 얼마나 걸리나요?"
+			],
+			"usage": ["I asked how long it takes to reach the nearest train station.", "What is the travel time to the closest train station?", "Can you tell me how long it takes to get to the nearest train station?"],
+			"usageMeaning": ["(가장 가까운 기차역까지 가는 데 걸리는 시간을 물어봤습니다.)", "(가장 가까운 기차역까지 가는 데 얼마나 걸리는지 물어봤습니다.)", "(가장 가까운 기차역까지 가는 시간에 대해 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "long",
+					"meaning": "오래"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "train station",
+					"meaning": "기차역"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Is this item returnable?",
+			"correctAnswer": "이 제품은 반품이 가능한가요?",
+			"incorrectAnswers": [
+				"이 제품의 환불 정책은 어떻게 되나요?",
+				"이 제품의 보증 기간은 얼마인가요?",
+				"이 제품을 교환하려면 어떻게 해야 하나요?",
+				"이 제품의 사용 방법은 무엇인가요?",
+				"이 제품의 가격은 얼마인가요?",
+				"이 제품을 구매하면 어떤 추가 혜택이 있나요?",
+				"이 제품의 재고는 충분한가요?",
+				"이 제품의 제조사는 어디인가요?",
+				"이 제품의 색상 옵션은 무엇이 있나요?",
+				"이 제품의 배송 시간은 얼마나 걸리나요?"
+			],
+			"usage": ["I asked if the item can be returned.", "Can this product be returned?", "Is it possible to return this item?"],
+			"usageMeaning": ["(이 제품을 반품할 수 있는지 물어봤습니다.)", "(이 제품을 반환할 수 있는지 물어봤습니다.)", "(이 제품이 반품 가능한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "returnable",
+					"meaning": "반품 가능한"
+				},
+				{
+					"word": "item",
+					"meaning": "제품"
+				},
+				{
+					"word": "is",
+					"meaning": "이다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Can I get a prescription for this medication?",
+			"correctAnswer": "이 약에 대한 처방전을 받을 수 있나요?",
+			"incorrectAnswers": [
+				"이 약의 부작용은 무엇인가요?",
+				"이 약을 복용하는 방법을 알고 싶습니다.",
+				"처방전 없이 이 약을 구매할 수 있나요?",
+				"이 약의 복용량은 얼마인가요?",
+				"이 약의 효과는 어떤가요?",
+				"이 약을 다른 대체 약물로 교환할 수 있나요?",
+				"이 약의 가격은 얼마인가요?",
+				"이 약을 구매하는데 필요한 서류는 무엇인가요?",
+				"이 약의 제조사는 어디인가요?",
+				"이 약의 유통기한은 얼마인가요?"
+			],
+			"usage": ["I wanted to know if I can get a prescription for this medication.", "Can I obtain a prescription for this drug?", "Is it possible to get a prescription for this medication?"],
+			"usageMeaning": ["(이 약에 대한 처방전을 받을 수 있는지 물어봤습니다.)", "(이 약에 대한 처방전을 받을 수 있는지 알고 싶었습니다.)", "(이 약을 위한 처방전을 받을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "prescription",
+					"meaning": "처방전"
+				},
+				{
+					"word": "medication",
+					"meaning": "약"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How do I apply for a credit card?",
+			"correctAnswer": "신용 카드를 신청하려면 어떻게 해야 하나요?",
+			"incorrectAnswers": [
+				"신용 카드의 한도는 어떻게 되나요?",
+				"신용 카드의 연회비는 얼마인가요?",
+				"신용 카드를 사용하기 위한 자격 조건은 무엇인가요?",
+				"신용 카드의 이자율은 얼마인가요?",
+				"신용 카드의 신청 상태를 어떻게 확인하나요?",
+				"신용 카드의 보안 기능은 어떻게 되나요?",
+				"신용 카드의 혜택은 무엇인가요?",
+				"신용 카드의 발급 소요 시간은 얼마나 되나요?",
+				"신용 카드의 추가 카드 신청 방법은 무엇인가요?",
+				"신용 카드의 연체료는 얼마인가요?"
+			],
+			"usage": ["I wanted to know how to apply for a credit card.", "What is the process for applying for a credit card?", "Can you tell me how to apply for a credit card?"],
+			"usageMeaning": ["(신용 카드를 신청하는 방법을 알고 싶었습니다.)", "(신용 카드 신청 절차에 대해 물어봤습니다.)", "(신용 카드를 신청하는 방법에 대해 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "apply",
+					"meaning": "신청하다"
+				},
+				{
+					"word": "credit card",
+					"meaning": "신용 카드"
+				},
+				{
+					"word": "how",
+					"meaning": "어떻게"
+				}
+			]
+		},
+		{
+			"category": "숙소 예약",
+			"question": "Can I request a room with a view?",
+			"correctAnswer": "전망이 좋은 방을 요청할 수 있나요?",
+			"incorrectAnswers": [
+				"객실에 추가 침대를 요청할 수 있나요?",
+				"객실의 위치를 바꿀 수 있나요?",
+				"객실의 청소 상태를 확인할 수 있나요?",
+				"객실의 가격을 변경할 수 있나요?",
+				"객실에 조식 서비스를 추가할 수 있나요?",
+				"객실에 흡연 구역을 추가할 수 있나요?",
+				"객실의 체크인 시간을 변경할 수 있나요?",
+				"객실의 룸서비스 메뉴를 볼 수 있나요?",
+				"객실에 추가 요금을 지불하면 어떤 혜택이 있나요?",
+				"객실의 크기를 변경할 수 있나요?"
+			],
+			"usage": ["I asked if I can request a room with a view.", "Can I ask for a room with a view?", "Is it possible to request a room with a view?"],
+			"usageMeaning": ["(전망이 좋은 방을 요청할 수 있는지 물어봤습니다.)", "(전망이 좋은 방을 요청할 수 있는지 물어봤습니다.)", "(전망이 좋은 방을 요청할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "request",
+					"meaning": "요청하다"
+				},
+				{
+					"word": "room",
+					"meaning": "방"
+				},
+				{
+					"word": "view",
+					"meaning": "전망"
+				}
+			]
+		},
+		{
+			"category": "운전 중 길 묻기",
+			"question": "How do I get to the nearest gas station?",
+			"correctAnswer": "가장 가까운 주유소까지 어떻게 가나요?",
+			"incorrectAnswers": [
+				"주유소의 영업 시간은 어떻게 되나요?",
+				"주유소에서 사용하는 결제 방법은 무엇인가요?",
+				"주유소에서 주차할 공간이 있나요?",
+				"주유소에서 제공하는 서비스는 무엇인가요?",
+				"주유소까지의 거리는 얼마나 되나요?",
+				"주유소의 주소를 알 수 있나요?",
+				"주유소에서 주유하는데 걸리는 시간은 얼마인가요?",
+				"주유소의 전화번호는 무엇인가요?",
+				"주유소의 최근 서비스 평가를 확인할 수 있나요?",
+				"주유소의 위치가 변경되었나요?"
+			],
+			"usage": ["I asked how to get to the nearest gas station.", "Can you tell me how to reach the closest gas station?", "What’s the way to the nearest gas station?"],
+			"usageMeaning": ["(가장 가까운 주유소까지 가는 방법을 물어봤습니다.)", "(가장 가까운 주유소에 가는 방법을 물어봤습니다.)", "(가장 가까운 주유소까지 가는 길을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "get to",
+					"meaning": "가다"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "gas station",
+					"meaning": "주유소"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could you please repeat that?",
+			"correctAnswer": "그 말씀을 다시 한 번 해주시겠어요?",
+			"incorrectAnswers": [
+				"다시 전화해 주시겠어요?",
+				"무슨 뜻인지 설명해 주시겠어요?",
+				"통화를 종료할 수 있나요?",
+				"전화를 받지 못한 이유를 설명해 주세요.",
+				"메시지를 남기실 수 있나요?",
+				"그 문장을 다른 방식으로 말해 주세요.",
+				"전화가 잘 들리나요?",
+				"이 문제를 해결할 수 있는 방법이 있나요?",
+				"통화 중에 잠시 기다려 주시겠어요?",
+				"다시 전화해 주실 수 있나요?"
+			],
+			"usage": ["I asked the caller to repeat what they said.", "Could you say that again, please?", "Can you repeat that information?"],
+			"usageMeaning": ["(상대방에게 말을 다시 해달라고 요청했습니다.)", "(다시 말씀해 달라고 부탁했습니다.)", "(그 정보를 다시 말해 줄 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "repeat",
+					"meaning": "다시 말하다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				},
+				{
+					"word": "that",
+					"meaning": "그것"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Do you have any vegetarian options?",
+			"correctAnswer": "채식주의자를 위한 메뉴가 있나요?",
+			"incorrectAnswers": [
+				"이 식당의 추천 메뉴는 무엇인가요?",
+				"오늘의 특별 요리는 무엇인가요?",
+				"채식주의자용 메뉴를 따로 제공하나요?",
+				"이 식당의 인기 메뉴는 무엇인가요?",
+				"해산물 요리가 있나요?",
+				"매운 음식이 있나요?",
+				"다음 주의 특선 요리는 무엇인가요?",
+				"채식 옵션 외에 다른 특별한 메뉴가 있나요?",
+				"이 식당의 대표 요리는 무엇인가요?",
+				"메뉴에서 추천하는 음식이 있나요?"
+			],
+			"usage": ["I asked if there are vegetarian options available.", "Are there any vegetarian dishes on the menu?", "Do you offer vegetarian meals?"],
+			"usageMeaning": ["(채식주의자를 위한 옵션이 있는지 물어봤습니다.)", "(메뉴에 채식 요리가 있는지 물어봤습니다.)", "(채식 식사가 제공되는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "vegetarian",
+					"meaning": "채식주의자"
+				},
+				{
+					"word": "options",
+					"meaning": "옵션"
+				},
+				{
+					"word": "any",
+					"meaning": "어떤"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where can I find the baggage claim area?",
+			"correctAnswer": "수하물 찾는 곳은 어디에 있나요?",
+			"incorrectAnswers": [
+				"출국 심사대는 어디에 있나요?",
+				"환전소는 어디에 있나요?",
+				"세관 통과는 어떻게 하나요?",
+				"택시 승차장은 어디에 있나요?",
+				"항공편 정보는 어디서 확인하나요?",
+				"라운지의 위치를 알고 싶습니다.",
+				"수속 카운터는 어디에 있나요?",
+				"기내식 주문은 어디에서 하나요?",
+				"셔틀버스 승차장 위치는 어디인가요?",
+				"공항의 음식점 위치는 어디인가요?"
+			],
+			"usage": ["I wanted to know where the baggage claim is located.", "Can you tell me where the baggage claim area is?", "Where is the baggage claim area?"],
+			"usageMeaning": ["(수하물 찾는 곳이 어디에 있는지 물어봤습니다.)", "(수하물 찾는 곳의 위치를 물어봤습니다.)", "(수하물 찾는 곳이 어디인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "baggage claim",
+					"meaning": "수하물 찾는 곳"
+				},
+				{
+					"word": "area",
+					"meaning": "지역"
+				},
+				{
+					"word": "find",
+					"meaning": "찾다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Do you have this item in a different size?",
+			"correctAnswer": "이 제품의 다른 사이즈가 있나요?",
+			"incorrectAnswers": [
+				"이 제품의 색상 옵션은 무엇인가요?",
+				"이 제품의 가격은 얼마인가요?",
+				"이 제품은 어떤 재질로 만들어졌나요?",
+				"이 제품의 재고가 충분한가요?",
+				"이 제품을 구매하면 할인 혜택이 있나요?",
+				"이 제품을 구매하려면 어떻게 해야 하나요?",
+				"이 제품의 제조사는 어디인가요?",
+				"이 제품의 디자인은 무엇인가요?",
+				"이 제품의 유통기한은 얼마인가요?",
+				"이 제품을 다른 매장에서 찾을 수 있나요?"
+			],
+			"usage": ["I wanted to know if there are different sizes for this item.", "Can I get this item in another size?", "Are other sizes available for this item?"],
+			"usageMeaning": ["(이 제품의 다른 사이즈가 있는지 물어봤습니다.)", "(이 제품을 다른 사이즈로 구할 수 있는지 물어봤습니다.)", "(이 제품의 다른 사이즈가 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "size",
+					"meaning": "사이즈"
+				},
+				{
+					"word": "different",
+					"meaning": "다른"
+				},
+				{
+					"word": "item",
+					"meaning": "제품"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "How can I make an appointment with a specialist?",
+			"correctAnswer": "전문의와 예약하려면 어떻게 해야 하나요?",
+			"incorrectAnswers": [
+				"전문의의 진료 시간은 언제인가요?",
+				"전문의에게 직접 문의할 수 있나요?",
+				"전문의의 연락처는 무엇인가요?",
+				"전문의의 치료 비용은 얼마인가요?",
+				"전문의의 진료를 예약하는 방법을 알고 싶습니다.",
+				"전문의의 자격증은 무엇인가요?",
+				"전문의의 진료 가능한 날짜는 언제인가요?",
+				"전문의의 병원은 어디에 있나요?",
+				"전문의의 최신 연구는 무엇인가요?",
+				"전문의의 진료 시간표를 알 수 있나요?"
+			],
+			"usage": ["I asked how to make an appointment with a specialist.", "What is the procedure for booking an appointment with a specialist?", "Can you tell me how to schedule an appointment with a specialist?"],
+			"usageMeaning": ["(전문의와 예약을 어떻게 해야 하는지 물어봤습니다.)", "(전문의와의 예약 절차를 물어봤습니다.)", "(전문의와의 예약을 어떻게 해야 하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "specialist",
+					"meaning": "전문의"
+				},
+				{
+					"word": "make",
+					"meaning": "만들다"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "What is the checkout time?",
+			"correctAnswer": "체크아웃 시간은 언제인가요?",
+			"incorrectAnswers": [
+				"체크인 시간은 언제인가요?",
+				"체크아웃 절차는 어떻게 되나요?",
+				"체크아웃 시 추가 비용이 있나요?",
+				"체크아웃 후에 짐을 맡길 수 있나요?",
+				"체크아웃 시간을 연장할 수 있나요?",
+				"체크아웃 시간을 변경할 수 있나요?",
+				"체크아웃 시간 전에 해야 할 일이 있나요?",
+				"체크아웃 시간에 대한 정책은 무엇인가요?",
+				"체크아웃 후 방을 청소하나요?",
+				"체크아웃 시간에 맞춰 예약을 변경할 수 있나요?"
+			],
+			"usage": ["I wanted to know the checkout time.", "What time do I need to check out?", "Can you tell me when checkout is?"],
+			"usageMeaning": ["(체크아웃 시간이 언제인지 물어봤습니다.)", "(체크아웃 해야 하는 시간을 물어봤습니다.)", "(체크아웃 시간이 언제인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "checkout",
+					"meaning": "체크아웃"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Is this the right way to the city center?",
+			"correctAnswer": "이 길이 시내로 가는 길이 맞나요?",
+			"incorrectAnswers": [
+				"시내 중심가는 어떻게 가나요?",
+				"이 길의 이름은 무엇인가요?",
+				"시내로 가는 버스를 어디서 탈 수 있나요?",
+				"시내까지의 거리는 얼마인가요?",
+				"이 길이 맞는지 확인해 주실 수 있나요?",
+				"시내까지의 소요 시간은 얼마나 되나요?",
+				"이 길이 맞는지 묻고 싶습니다.",
+				"시내로 가는 다른 방법이 있나요?",
+				"이 길이 최단 거리인가요?",
+				"시내로 가는 다른 교통편은 무엇이 있나요?"
+			],
+			"usage": ["I asked if this is the correct way to the city center.", "Is this the correct route to the city center?", "Am I heading the right way to the city center?"],
+			"usageMeaning": ["(이 길이 시내로 가는 올바른 길인지 물어봤습니다.)", "(이 길이 시내로 가는 길이 맞는지 물어봤습니다.)", "(이 길이 시내로 가는 길인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "right way",
+					"meaning": "올바른 길"
+				},
+				{
+					"word": "city center",
+					"meaning": "시내 중심"
+				},
+				{
+					"word": "this",
+					"meaning": "이것"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How can I open a new bank account?",
+			"correctAnswer": "새 은행 계좌를 어떻게 열 수 있나요?",
+			"incorrectAnswers": [
+				"계좌 개설에 필요한 서류는 무엇인가요?",
+				"계좌를 해지하려면 어떻게 해야 하나요?",
+				"은행의 영업 시간은 언제인가요?",
+				"계좌 개설 후 카드 발급은 어떻게 하나요?",
+				"계좌를 연 후에는 어떤 절차가 필요한가요?",
+				"계좌 개설을 온라인으로 할 수 있나요?",
+				"계좌 개설에 필요한 최소 금액은 얼마인가요?",
+				"계좌 개설 시 제공되는 혜택은 무엇인가요?",
+				"계좌를 개설할 수 있는 다른 지점은 어디에 있나요?",
+				"계좌를 개설한 후 첫 거래는 어떻게 하나요?"
+			],
+			"usage": ["I wanted to know the process of opening a new bank account.", "Can you tell me how to open a new bank account?", "What is the procedure for opening a new bank account?"],
+			"usageMeaning": ["(새 은행 계좌를 여는 방법을 물어봤습니다.)", "(새 은행 계좌를 여는 방법을 물어봤습니다.)", "(새 은행 계좌를 여는 절차를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "open",
+					"meaning": "열다"
+				},
+				{
+					"word": "bank account",
+					"meaning": "은행 계좌"
+				},
+				{
+					"word": "new",
+					"meaning": "새로운"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where is the nearest currency exchange?",
+			"correctAnswer": "가장 가까운 환전소는 어디에 있나요?",
+			"incorrectAnswers": [
+				"가장 가까운 화장실은 어디에 있나요?",
+				"환전소의 운영 시간은 언제인가요?",
+				"환전소에서 제공하는 서비스는 무엇인가요?",
+				"환전소의 전화번호를 알 수 있나요?",
+				"환전소의 위치를 변경할 수 있나요?",
+				"환전소에서 환율은 어떻게 되나요?",
+				"환전소의 최근 고객 리뷰를 볼 수 있나요?",
+				"환전소의 직원과 대화할 수 있나요?",
+				"환전소에서 신용카드 결제가 가능한가요?",
+				"환전소의 위치를 확인할 수 있는 앱이 있나요?"
+			],
+			"usage": ["I asked for the location of the nearest currency exchange.", "Can you tell me where the closest currency exchange is?", "Where can I find the nearest currency exchange?"],
+			"usageMeaning": ["(가장 가까운 환전소의 위치를 물어봤습니다.)", "(가장 가까운 환전소가 어디에 있는지 물어봤습니다.)", "(가장 가까운 환전소의 위치를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "currency exchange",
+					"meaning": "환전소"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Do I need a referral to see a specialist?",
+			"correctAnswer": "전문의를 보기 위해서 의뢰서가 필요한가요?",
+			"incorrectAnswers": [
+				"전문의의 진료를 예약하려면 어떻게 하나요?",
+				"전문의의 자격증은 무엇인가요?",
+				"전문의의 치료 비용은 얼마인가요?",
+				"전문의의 진료 시간이 어떻게 되나요?",
+				"전문의의 병원 위치를 알 수 있나요?",
+				"전문의와 상담 후 다른 치료를 받을 수 있나요?",
+				"전문의의 진료 절차는 어떻게 되나요?",
+				"전문의와의 상담이 필요한가요?",
+				"전문의의 진료 후 진단서가 필요한가요?",
+				"전문의와의 상담 예약 방법은 무엇인가요?"
+			],
+			"usage": ["I wanted to know if a referral is necessary to see a specialist.", "Do I need a referral for a specialist consultation?", "Is a referral required to see a specialist?"],
+			"usageMeaning": ["(전문의를 보기 위해 의뢰서가 필요한지 물어봤습니다.)", "(전문가 상담을 위해 의뢰서가 필요한지 물어봤습니다.)", "(전문의를 보기 위해 의뢰서가 필요한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "referral",
+					"meaning": "의뢰서"
+				},
+				{
+					"word": "specialist",
+					"meaning": "전문의"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I return this item if it doesn't fit?",
+			"correctAnswer": "이 제품이 맞지 않으면 반품할 수 있나요?",
+			"incorrectAnswers": [
+				"이 제품의 교환 정책은 어떻게 되나요?",
+				"이 제품의 반품 절차는 무엇인가요?",
+				"이 제품의 사이즈가 잘 맞지 않으면 어떻게 하나요?",
+				"이 제품을 환불받을 수 있나요?",
+				"이 제품의 보증 기간은 얼마인가요?",
+				"이 제품의 구매 후 문제가 발생하면 어떻게 하나요?",
+				"이 제품의 사용 방법을 알 수 있나요?",
+				"이 제품의 구매 영수증을 잃어버렸는데 어떻게 하나요?",
+				"이 제품의 교환이나 반품이 가능한지 알고 싶습니다.",
+				"이 제품의 다른 사이즈를 제공하나요?"
+			],
+			"usage": ["I asked if I can return an item if it doesn’t fit.", "Can this item be returned if it doesn’t fit?", "What is the return policy if this item doesn’t fit?"],
+			"usageMeaning": ["(이 제품이 맞지 않으면 반품할 수 있는지 물어봤습니다.)", "(이 제품이 맞지 않으면 반품이 가능한지 물어봤습니다.)", "(이 제품이 맞지 않을 경우 반품 정책을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "return",
+					"meaning": "반품하다"
+				},
+				{
+					"word": "item",
+					"meaning": "제품"
+				},
+				{
+					"word": "fit",
+					"meaning": "맞다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Do you have a room available for tonight?",
+			"correctAnswer": "오늘 밤에 이용할 수 있는 방이 있나요?",
+			"incorrectAnswers": [
+				"오늘 밤의 가격은 얼마인가요?",
+				"오늘 밤의 호텔 서비스는 무엇인가요?",
+				"오늘 밤의 특별 제공 서비스는 무엇인가요?",
+				"오늘 밤에 방을 예약할 수 있나요?",
+				"오늘 밤의 방 청소는 어떻게 되나요?",
+				"오늘 밤의 객실 종류는 무엇인가요?",
+				"오늘 밤의 호텔 위치를 알 수 있나요?",
+				"오늘 밤의 체크인 절차는 어떻게 되나요?",
+				"오늘 밤의 방 가격 할인은 가능한가요?",
+				"오늘 밤의 조식 포함 여부를 알 수 있나요?"
+			],
+			"usage": ["I inquired about room availability for tonight.", "Is there a room available for tonight?", "Can I book a room for tonight?"],
+			"usageMeaning": ["(오늘 밤에 이용 가능한 방이 있는지 물어봤습니다.)", "(오늘 밤에 방이 있는지 물어봤습니다.)", "(오늘 밤에 방을 예약할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "room",
+					"meaning": "방"
+				},
+				{
+					"word": "available",
+					"meaning": "이용 가능한"
+				},
+				{
+					"word": "tonight",
+					"meaning": "오늘 밤"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can you speak a bit slower, please?",
+			"correctAnswer": "조금 더 천천히 말씀해 주시겠어요?",
+			"incorrectAnswers": [
+				"전화 통화를 종료해 주시겠어요?",
+				"좀 더 크게 말씀해 주시겠어요?",
+				"다시 한 번 말씀해 주시겠어요?",
+				"이 문제를 해결해 주시겠어요?",
+				"더 자세히 설명해 주시겠어요?",
+				"잠시 기다려 주시겠어요?",
+				"이 내용을 이메일로 보내 주시겠어요?",
+				"전화 통화를 나중에 다시 할 수 있나요?",
+				"제목을 더 명확히 해 주시겠어요?",
+				"조용한 곳으로 옮겨 주시겠어요?"
+			],
+			"usage": ["I asked the speaker to slow down a bit.", "Could you speak a little slower, please?", "Can you slow down your speaking a bit?"],
+			"usageMeaning": ["(조금 더 천천히 말해 달라고 요청했습니다.)", "(좀 더 천천히 말씀해 달라고 부탁했습니다.)", "(말씀을 조금 더 천천히 해달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "speak",
+					"meaning": "말하다"
+				},
+				{
+					"word": "slower",
+					"meaning": "더 천천히"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "What time do I need to check out by?",
+			"correctAnswer": "체크아웃을 몇 시까지 해야 하나요?",
+			"incorrectAnswers": [
+				"체크인 시간은 언제인가요?",
+				"체크아웃 후 짐을 보관할 수 있나요?",
+				"체크아웃 시 추가 비용이 있나요?",
+				"체크아웃 후 호텔에서 택시를 예약할 수 있나요?",
+				"체크아웃 시간을 연장할 수 있나요?",
+				"체크아웃 후 결제 영수증을 받을 수 있나요?",
+				"체크아웃 시 열쇠를 어디에 반납하나요?",
+				"체크아웃 시 룸서비스 비용은 어떻게 되나요?",
+				"체크아웃 후 다른 객실에 들어갈 수 있나요?",
+				"체크아웃 전에 룸서비스를 신청할 수 있나요?"
+			],
+			"usage": ["I asked what time check-out is.", "Can you tell me the check-out time?", "What time should I check out?"],
+			"usageMeaning": ["(체크아웃 시간을 물어봤습니다.)", "(체크아웃 시간이 몇 시인지 물어봤습니다.)", "(체크아웃 시간을 알려달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check out",
+					"meaning": "체크아웃하다"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Can you recommend a good place to eat around here?",
+			"correctAnswer": "이 근처에 좋은 식사 장소를 추천해 줄 수 있나요?",
+			"incorrectAnswers": [
+				"이 근처의 명소는 어디인가요?",
+				"이 근처에서 쇼핑할 만한 장소는 어디인가요?",
+				"이 근처에 볼거리가 있는 곳은 어디인가요?",
+				"이 근처에 카페가 있나요?",
+				"이 근처에 유명한 관광지는 무엇인가요?",
+				"이 근처의 대중교통 수단은 무엇이 있나요?",
+				"이 근처의 좋은 숙소는 어디인가요?",
+				"이 근처에 있는 박물관은 어디에 있나요?",
+				"이 근처에 어떤 활동을 할 수 있나요?",
+				"이 근처에 주차할 장소는 어디에 있나요?"
+			],
+			"usage": ["I asked for a recommendation for a good place to eat nearby.", "Can you suggest a good restaurant around here?", "Do you know a good place to eat in this area?"],
+			"usageMeaning": ["(이 근처에 좋은 식사 장소를 추천해 달라고 요청했습니다.)", "(이 근처에서 좋은 식당을 추천해 달라고 했습니다.)", "(이 지역에서 좋은 식사 장소를 알고 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "recommend",
+					"meaning": "추천하다"
+				},
+				{
+					"word": "place",
+					"meaning": "장소"
+				},
+				{
+					"word": "eat",
+					"meaning": "식사하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How can I check my account balance?",
+			"correctAnswer": "내 계좌 잔액을 어떻게 확인하나요?",
+			"incorrectAnswers": [
+				"내 계좌에 입금한 금액은 어떻게 확인하나요?",
+				"계좌 잔액을 조회하는데 비용이 드나요?",
+				"계좌 잔액 확인을 위해 필요한 서류는 무엇인가요?",
+				"계좌 잔액을 온라인으로 확인할 수 있나요?",
+				"계좌 잔액을 확인하려면 어떤 절차가 필요한가요?",
+				"계좌 잔액을 확인하기 위한 은행의 영업 시간은 언제인가요?",
+				"계좌 잔액이 부족할 경우 어떻게 해야 하나요?",
+				"계좌 잔액을 전화로 확인할 수 있나요?",
+				"계좌 잔액을 변경하려면 어떻게 해야 하나요?",
+				"계좌 잔액을 ATM에서 확인할 수 있나요?"
+			],
+			"usage": ["I asked how to check my account balance.", "Can you tell me how to view my account balance?", "How do I find out my account balance?"],
+			"usageMeaning": ["(내 계좌 잔액을 확인하는 방법을 물어봤습니다.)", "(내 계좌 잔액을 어떻게 확인할 수 있는지 물어봤습니다.)", "(내 계좌 잔액을 확인하는 방법을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check",
+					"meaning": "확인하다"
+				},
+				{
+					"word": "account",
+					"meaning": "계좌"
+				},
+				{
+					"word": "balance",
+					"meaning": "잔액"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "What documents do I need for check-in?",
+			"correctAnswer": "체크인을 위해 어떤 서류가 필요한가요?",
+			"incorrectAnswers": [
+				"체크인 시 지불해야 하는 금액은 얼마인가요?",
+				"체크인 후 룸서비스를 어떻게 이용하나요?",
+				"체크인 시 제공되는 서비스는 무엇인가요?",
+				"체크인 전에 호텔을 둘러볼 수 있나요?",
+				"체크인 후 호텔 내 시설은 어떻게 이용하나요?",
+				"체크인 시 보증금이 필요한가요?",
+				"체크인 후 예약 확인서를 받을 수 있나요?",
+				"체크인 시간 이전에 객실에 들어갈 수 있나요?",
+				"체크인 시 객실에 추가 침대를 요청할 수 있나요?",
+				"체크인 후 무료로 제공되는 서비스는 무엇인가요?"
+			],
+			"usage": ["I asked what documents are needed for check-in.", "Can you tell me the required documents for check-in?", "What paperwork do I need for checking in?"],
+			"usageMeaning": ["(체크인을 위해 필요한 서류를 물어봤습니다.)", "(체크인할 때 필요한 서류를 알려달라고 했습니다.)", "(체크인을 위해 어떤 서류가 필요한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "documents",
+					"meaning": "서류"
+				},
+				{
+					"word": "check-in",
+					"meaning": "체크인"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I leave a message for Mr. Smith?",
+			"correctAnswer": "스미스 씨에게 메시지를 남길 수 있나요?",
+			"incorrectAnswers": [
+				"스미스 씨의 전화번호는 무엇인가요?",
+				"스미스 씨가 사무실에 언제 돌아오나요?",
+				"스미스 씨에게 직접 전화를 걸 수 있나요?",
+				"스미스 씨의 이메일 주소는 무엇인가요?",
+				"스미스 씨가 사무실에 없는 동안 어떻게 연락하나요?",
+				"스미스 씨에게 전달할 메시지는 어떤 형태로 보내야 하나요?",
+				"스미스 씨에게 전화를 걸 때 주의할 점은 무엇인가요?",
+				"스미스 씨와의 미팅을 예약하려면 어떻게 하나요?",
+				"스미스 씨가 지금 통화 중인가요?",
+				"스미스 씨가 사무실을 언제 떠났나요?"
+			],
+			"usage": ["I asked if I could leave a message for Mr. Smith.", "Can I record a message for Mr. Smith?", "Is it possible to leave a voicemail for Mr. Smith?"],
+			"usageMeaning": ["(스미스 씨에게 메시지를 남길 수 있는지 물어봤습니다.)", "(스미스 씨에게 메시지를 남길 수 있는지 물어봤습니다.)", "(스미스 씨에게 음성 메시지를 남길 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "leave",
+					"meaning": "남기다"
+				},
+				{
+					"word": "message",
+					"meaning": "메시지"
+				},
+				{
+					"word": "Mr. Smith",
+					"meaning": "스미스 씨"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where is the check-in counter for international flights?",
+			"correctAnswer": "국제선 체크인 카운터가 어디에 있나요?",
+			"incorrectAnswers": [
+				"국제선 출발 시간은 언제인가요?",
+				"국제선 체크인 절차는 어떻게 되나요?",
+				"국제선의 비행기 탑승구는 어디에 있나요?",
+				"국제선의 수하물 규정은 무엇인가요?",
+				"국제선에 필요한 서류는 무엇인가요?",
+				"국제선의 항공사 연락처는 무엇인가요?",
+				"국제선의 여행 보험은 어떻게 가입하나요?",
+				"국제선의 공항 라운지는 어디에 있나요?",
+				"국제선의 비행기 연착 여부를 확인할 수 있나요?",
+				"국제선의 환전소는 어디에 있나요?"
+			],
+			"usage": ["I asked where the check-in counter for international flights is located.", "Can you tell me the location of the check-in counter for international flights?", "Where can I find the check-in counter for international flights?"],
+			"usageMeaning": ["(국제선 체크인 카운터가 어디에 있는지 물어봤습니다.)", "(국제선 체크인 카운터의 위치를 물어봤습니다.)", "(국제선 체크인 카운터가 어디에 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check-in counter",
+					"meaning": "체크인 카운터"
+				},
+				{
+					"word": "international flights",
+					"meaning": "국제선 비행"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "What should I do if I smell gas in my apartment?",
+			"correctAnswer": "아파트에서 가스 냄새가 나면 무엇을 해야 하나요?",
+			"incorrectAnswers": [
+				"가스가 새는 위치를 어떻게 찾나요?",
+				"가스 냄새가 나면 공기 청정기를 사용해야 하나요?",
+				"가스 냄새를 맡았을 때 어떤 경고 신호가 있나요?",
+				"가스 냄새가 나는 경우에 누구에게 연락해야 하나요?",
+				"가스 냄새가 나면 즉시 창문을 열어야 하나요?",
+				"가스 냄새가 나면 난방기를 사용해도 되나요?",
+				"가스 냄새가 나는 경우에 소화기를 사용해야 하나요?",
+				"가스 냄새가 나면 문을 잠가야 하나요?",
+				"가스 냄새가 나면 집을 떠나야 하나요?",
+				"가스 냄새를 제거하기 위해 어떤 청소 용품을 사용하나요?"
+			],
+			"usage": ["I asked what to do if I smell gas in my apartment.", "What should be done if there is a gas smell in the apartment?", "Can you tell me the steps to take if I detect a gas smell?"],
+			"usageMeaning": ["(아파트에서 가스 냄새가 나면 어떻게 해야 하는지 물어봤습니다.)", "(가스 냄새가 나면 어떻게 해야 하는지 물어봤습니다.)", "(가스 냄새를 감지했을 때 취해야 할 조치를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "smell",
+					"meaning": "냄새가 나다"
+				},
+				{
+					"word": "gas",
+					"meaning": "가스"
+				},
+				{
+					"word": "apartment",
+					"meaning": "아파트"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What are your plans for the weekend?",
+			"correctAnswer": "주말에 어떤 계획이 있나요?",
+			"incorrectAnswers": [
+				"주말에 날씨는 어떨까요?",
+				"주말에 어떤 음식을 먹을 계획인가요?",
+				"주말에 가고 싶은 장소는 어디인가요?",
+				"주말에 일정을 어떻게 짤까요?",
+				"주말에 만나서 할 일이 있나요?",
+				"주말에 무엇을 하고 싶나요?",
+				"주말에 무엇을 먹을 계획인가요?",
+				"주말에 친구와 함께 가고 싶은 곳은 어디인가요?",
+				"주말에 가족과의 계획은 어떻게 되나요?",
+				"주말에 계획한 이벤트는 무엇인가요?"
+			],
+			"usage": ["I asked about your weekend plans.", "What are you planning to do this weekend?", "Do you have any plans for the weekend?"],
+			"usageMeaning": ["(주말에 어떤 계획이 있는지 물어봤습니다.)", "(이번 주말에 무엇을 할 계획인지 물어봤습니다.)", "(주말에 어떤 계획이 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "plans",
+					"meaning": "계획"
+				},
+				{
+					"word": "weekend",
+					"meaning": "주말"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I return this item if it’s damaged?",
+			"correctAnswer": "이 제품이 손상된 경우 반품할 수 있나요?",
+			"incorrectAnswers": [
+				"이 제품의 반품 정책은 무엇인가요?",
+				"이 제품을 환불받으려면 어떻게 해야 하나요?",
+				"이 제품의 수리 비용은 얼마인가요?",
+				"이 제품을 교환하려면 어떻게 하나요?",
+				"이 제품을 구입한 영수증을 잃어버렸습니다. 어떻게 해야 하나요?",
+				"이 제품의 보증 기간은 어떻게 되나요?",
+				"이 제품을 다른 매장에서 구매했는데 반품할 수 있나요?",
+				"이 제품의 품질 보증은 어떻게 되나요?",
+				"이 제품을 사용하다가 문제가 생기면 어떻게 해야 하나요?",
+				"이 제품을 구입한 매장에 직접 가야 하나요?"
+			],
+			"usage": ["I asked if I can return the item if it is damaged.", "Can I return this if it’s not in good condition?", "Is it possible to return a damaged item?"],
+			"usageMeaning": ["(이 제품이 손상된 경우 반품할 수 있는지 물어봤습니다.)", "(손상된 경우 이 제품을 반품할 수 있는지 물어봤습니다.)", "(이 제품이 손상된 경우 반품할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "return",
+					"meaning": "반품하다"
+				},
+				{
+					"word": "damaged",
+					"meaning": "손상된"
+				},
+				{
+					"word": "item",
+					"meaning": "제품"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "How long will the wait be for an appointment?",
+			"correctAnswer": "예약 대기 시간이 얼마나 걸리나요?",
+			"incorrectAnswers": [
+				"병원에 가려면 몇 시까지 가야 하나요?",
+				"예약을 취소하려면 어떻게 하나요?",
+				"병원 대기실에서 무엇을 해야 하나요?",
+				"의사와의 진료 예약을 변경하려면 어떻게 해야 하나요?",
+				"병원에서 무료로 제공되는 서비스는 무엇인가요?",
+				"의사와 상담하는 데 시간이 얼마나 걸리나요?",
+				"예약을 변경할 수 있는 방법은 무엇인가요?",
+				"병원 대기 시간 동안 할 수 있는 활동은 무엇인가요?",
+				"예약 대기 시간에 영향을 미치는 요인은 무엇인가요?",
+				"병원에 도착 후 대기 시간은 어떻게 계산되나요?"
+			],
+			"usage": ["I asked how long the waiting time for an appointment is.", "Can you tell me the wait time for an appointment?", "How long does it take to get an appointment?"],
+			"usageMeaning": ["(예약 대기 시간이 얼마나 걸리는지 물어봤습니다.)", "(예약 대기 시간에 대해 물어봤습니다.)", "(진료 예약 대기 시간이 얼마나 걸리는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "wait",
+					"meaning": "대기하다"
+				},
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "long",
+					"meaning": "오래"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Is breakfast included with the room?",
+			"correctAnswer": "객실 요금에 조식이 포함되나요?",
+			"incorrectAnswers": [
+				"객실에 어떤 편의시설이 있나요?",
+				"조식이 별도로 제공되면 비용은 얼마인가요?",
+				"객실에 무료로 제공되는 서비스는 무엇인가요?",
+				"체크인 시 무료 음료를 제공하나요?",
+				"객실 요금 외에 추가 비용이 있나요?",
+				"호텔에서 제공하는 조식의 종류는 무엇인가요?",
+				"객실에 조식이 포함되지 않을 경우 옵션은 무엇인가요?",
+				"조식이 제공되는 시간은 언제인가요?",
+				"객실에 조식이 포함된 경우 체크아웃 후 식사는 어떻게 하나요?",
+				"호텔의 조식 서비스는 무엇이 포함되나요?"
+			],
+			"usage": ["I asked if breakfast is included with the room rate.", "Can you tell me if breakfast comes with the room?", "Is breakfast part of the room package?"],
+			"usageMeaning": ["(객실 요금에 조식이 포함되는지 물어봤습니다.)", "(객실 요금에 조식이 포함되는지 물어봤습니다.)", "(객실에 조식이 포함되는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "breakfast",
+					"meaning": "조식"
+				},
+				{
+					"word": "included",
+					"meaning": "포함된"
+				},
+				{
+					"word": "room",
+					"meaning": "객실"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Can you show me the way to the nearest subway station?",
+			"correctAnswer": "가장 가까운 지하철 역으로 가는 길을 알려주시겠어요?",
+			"incorrectAnswers": [
+				"지하철 역의 운영 시간은 언제인가요?",
+				"지하철 역으로 가는 버스가 있나요?",
+				"가장 가까운 지하철 역까지 거리는 얼마인가요?",
+				"지하철 역에서 시내로 가는 방법은 무엇인가요?",
+				"지하철 역의 근처에 주차장이 있나요?",
+				"지하철 역의 주소는 무엇인가요?",
+				"지하철 역에 가는 택시를 예약할 수 있나요?",
+				"지하철 역에 가는 방법을 지도로 확인할 수 있나요?",
+				"지하철 역의 시설은 어떤 것이 있나요?",
+				"지하철 역까지 가는 가장 빠른 방법은 무엇인가요?"
+			],
+			"usage": ["I asked for directions to the nearest subway station.", "Can you direct me to the closest subway station?", "Show me how to get to the nearest subway station, please."],
+			"usageMeaning": ["(가장 가까운 지하철 역으로 가는 길을 물어봤습니다.)", "(가장 가까운 지하철 역으로 가는 방향을 알려달라고 했습니다.)", "(가장 가까운 지하철 역으로 가는 길을 보여달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "show",
+					"meaning": "보여주다"
+				},
+				{
+					"word": "way",
+					"meaning": "길"
+				},
+				{
+					"word": "subway station",
+					"meaning": "지하철 역"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I speak to the manager, please?",
+			"correctAnswer": "매니저와 통화할 수 있을까요?",
+			"incorrectAnswers": [
+				"매니저의 전화번호는 무엇인가요?",
+				"매니저가 사무실에 있나요?",
+				"매니저와의 회의는 어떻게 예약하나요?",
+				"매니저에게 이메일을 보낼 수 있나요?",
+				"매니저가 지금 통화 중인가요?",
+				"매니저에게 전화를 걸 때 주의할 점은 무엇인가요?",
+				"매니저와의 통화 시간은 언제인가요?",
+				"매니저의 업무 시간은 어떻게 되나요?",
+				"매니저와의 대화를 위한 준비물이 있나요?",
+				"매니저의 사무실 위치는 어디인가요?"
+			],
+			"usage": ["I asked to speak with the manager.", "Can you connect me to the manager, please?", "I'd like to talk to the manager."],
+			"usageMeaning": ["(매니저와 통화할 수 있는지 물어봤습니다.)", "(매니저와 통화할 수 있는지 물어봤습니다.)", "(매니저와 대화할 수 있는지 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "speak",
+					"meaning": "통화하다"
+				},
+				{
+					"word": "manager",
+					"meaning": "매니저"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could you bring me the check, please?",
+			"correctAnswer": "계산서를 가져다 주시겠어요?",
+			"incorrectAnswers": [
+				"계산서를 아직 받지 못했어요.",
+				"음식이 마음에 들지 않아요.",
+				"계산은 어떻게 하나요?",
+				"다른 음식을 주문할 수 있나요?",
+				"음료수 리필을 부탁해요.",
+				"서비스가 만족스럽지 않아요.",
+				"음식이 너무 차가워요.",
+				"계산서를 이미 받았어요.",
+				"계산서를 다시 확인해 주세요.",
+				"계산서를 받을 수 있는 시간은 언제인가요?"
+			],
+			"usage": ["I asked for the check.", "Can you bring the bill, please?", "May I have the check, please?"],
+			"usageMeaning": ["(계산서를 가져다 달라고 요청했습니다.)", "(계산서를 가져와 달라고 부탁했습니다.)", "(계산서를 받을 수 있냐고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check",
+					"meaning": "계산서"
+				},
+				{
+					"word": "bring",
+					"meaning": "가져다 주다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I need to open a new account. What documents do I need?",
+			"correctAnswer": "새 계좌를 개설하려고 하는데, 어떤 서류가 필요한가요?",
+			"incorrectAnswers": [
+				"계좌를 잠시 정지하려고 해요.",
+				"기존 계좌를 폐쇄하려고 해요.",
+				"신용카드 신청을 하고 싶어요.",
+				"대출을 받으려고 하는데 필요한 서류가 뭐죠?",
+				"계좌를 온라인으로 관리하고 싶어요.",
+				"은행의 영업 시간은 언제인가요?",
+				"계좌의 잔액을 확인하고 싶어요.",
+				"계좌 개설을 위한 최소 예치금은 얼마인가요?",
+				"신분증이 필요한가요?",
+				"계좌 개설 후 카드 발급은 어떻게 하나요?"
+			],
+			"usage": ["I asked about the documents needed to open a new account.", "What paperwork is required to open a new account?", "Can you tell me the necessary documents for opening a new account?"],
+			"usageMeaning": ["(새 계좌를 개설하기 위해 필요한 서류를 물어봤습니다.)", "(새 계좌 개설에 필요한 서류가 무엇인지 물어봤습니다.)", "(새 계좌를 개설하기 위해 필요한 서류에 대해 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "account",
+					"meaning": "계좌"
+				},
+				{
+					"word": "documents",
+					"meaning": "서류"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Can I check out late?",
+			"correctAnswer": "늦게 체크아웃할 수 있나요?",
+			"incorrectAnswers": [
+				"체크아웃 시간이 지나면 어떻게 되나요?",
+				"체크아웃을 연기하려면 어떻게 하나요?",
+				"체크아웃 후 짐을 보관할 수 있나요?",
+				"체크아웃 시간을 변경할 수 있나요?",
+				"체크아웃하기 전에 객실 점검이 있나요?",
+				"체크아웃 후 추가 요금이 있나요?",
+				"체크아웃을 일찍 하려면 어떻게 하나요?",
+				"체크아웃 후 환불을 받을 수 있나요?",
+				"체크아웃 시간은 언제인가요?",
+				"체크아웃 전에 해야 할 절차가 있나요?"
+			],
+			"usage": ["I asked if it's possible to check out later.", "Can I extend my check-out time?", "Is late check-out available?"],
+			"usageMeaning": ["(늦게 체크아웃할 수 있는지 물어봤습니다.)", "(체크아웃 시간을 연장할 수 있는지 물어봤습니다.)", "(늦게 체크아웃할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check out",
+					"meaning": "체크아웃하다"
+				},
+				{
+					"word": "late",
+					"meaning": "늦은"
+				},
+				{
+					"word": "possible",
+					"meaning": "가능한"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Do I need to make an appointment for a routine check-up?",
+			"correctAnswer": "정기 검진을 위해 예약이 필요한가요?",
+			"incorrectAnswers": [
+				"긴급 진료를 받으려면 어떻게 하나요?",
+				"병원 방문 시간은 어떻게 정하나요?",
+				"검진 결과를 언제 받을 수 있나요?",
+				"병원에서 제공하는 검진 종류는 무엇인가요?",
+				"검진 비용은 얼마인가요?",
+				"예약 없이 병원에 방문할 수 있나요?",
+				"검진 결과에 대한 상담은 어떻게 하나요?",
+				"예약 없이 진료를 받을 수 있나요?",
+				"정기 검진을 다른 병원에서 받을 수 있나요?",
+				"검진 예약을 취소하려면 어떻게 하나요?"
+			],
+			"usage": ["I asked if an appointment is needed for a routine check-up.", "Do I need to schedule an appointment for a regular check-up?", "Is it necessary to book an appointment for a routine check-up?"],
+			"usageMeaning": ["(정기 검진을 위해 예약이 필요한지 물어봤습니다.)", "(정기 검진을 위해 예약이 필요한지 물어봤습니다.)", "(정기 검진을 위해 예약이 필요한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "routine check-up",
+					"meaning": "정기 검진"
+				},
+				{
+					"word": "make",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I get a refund for this item?",
+			"correctAnswer": "이 제품을 환불받을 수 있나요?",
+			"incorrectAnswers": [
+				"이 제품을 교환할 수 있나요?",
+				"이 제품의 가격은 얼마인가요?",
+				"이 제품을 구매한 영수증을 잃어버렸어요.",
+				"이 제품의 보증 기간은 얼마인가요?",
+				"이 제품에 대해 더 많은 정보를 얻을 수 있나요?",
+				"이 제품의 사용 방법을 알 수 있나요?",
+				"이 제품의 반품 정책은 어떻게 되나요?",
+				"이 제품을 다른 색상으로 바꿀 수 있나요?",
+				"이 제품에 대한 추가 비용이 있나요?",
+				"이 제품을 예약할 수 있나요?"
+			],
+			"usage": ["I asked if I could get a refund for the item.", "Can I return this product for a refund?", "Is it possible to get a refund for this item?"],
+			"usageMeaning": ["(이 제품을 환불받을 수 있는지 물어봤습니다.)", "(이 제품을 환불받을 수 있는지 물어봤습니다.)", "(이 제품을 환불받을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "refund",
+					"meaning": "환불"
+				},
+				{
+					"word": "item",
+					"meaning": "제품"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What’s your favorite hobby?",
+			"correctAnswer": "가장 좋아하는 취미가 뭐에요?",
+			"incorrectAnswers": [
+				"최근에 했던 취미는 무엇인가요?",
+				"가장 좋아하는 음식은 무엇인가요?",
+				"주말에 하는 활동은 무엇인가요?",
+				"최근에 본 영화는 무엇인가요?",
+				"가장 좋아하는 책은 무엇인가요?",
+				"자주 가는 여행지는 어디인가요?",
+				"가장 좋아하는 스포츠는 무엇인가요?",
+				"자주 듣는 음악 장르는 무엇인가요?",
+				"최근에 배운 것은 무엇인가요?",
+				"가장 좋아하는 레스토랑은 어디인가요?"
+			],
+			"usage": ["I asked about your favorite hobby.", "What hobby do you enjoy the most?", "Can you tell me your favorite hobby?"],
+			"usageMeaning": ["(가장 좋아하는 취미가 무엇인지 물어봤습니다.)", "(가장 즐기는 취미가 무엇인지 물어봤습니다.)", "(가장 좋아하는 취미가 무엇인지 말해달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "hobby",
+					"meaning": "취미"
+				},
+				{
+					"word": "favorite",
+					"meaning": "가장 좋아하는"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could you please leave a message after the beep?",
+			"correctAnswer": "삐 소리가 난 후에 메시지를 남겨주실 수 있나요?",
+			"incorrectAnswers": [
+				"전화 통화 중에 메시지를 남길 수 있나요?",
+				"전화 통화가 끝난 후에 메시지를 남길 수 있나요?",
+				"전화번호를 다시 확인해 주세요.",
+				"전화 통화의 녹음이 가능한가요?",
+				"메시지를 보내려면 어떻게 하나요?",
+				"전화가 끊기면 어떻게 해야 하나요?",
+				"통화 중에 질문할 수 있나요?",
+				"전화 통화 후에는 무엇을 해야 하나요?",
+				"전화 통화 중에 응답이 없으면 어떻게 하나요?",
+				"전화 통화의 내용은 어떻게 확인하나요?"
+			],
+			"usage": ["I asked to leave a message after the beep.", "Can you leave a message after the tone?", "Please leave a message after the beep."],
+			"usageMeaning": ["(삐 소리 후에 메시지를 남겨달라고 요청했습니다.)", "(삐 소리 후에 메시지를 남겨달라고 부탁했습니다.)", "(삐 소리 후에 메시지를 남겨달라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "message",
+					"meaning": "메시지"
+				},
+				{
+					"word": "beep",
+					"meaning": "삐 소리"
+				},
+				{
+					"word": "leave",
+					"meaning": "남기다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "I have a reservation under the name Smith.",
+			"correctAnswer": "스미스라는 이름으로 예약이 되어 있습니다.",
+			"incorrectAnswers": [
+				"예약을 아직 하지 않았습니다.",
+				"예약을 확인하려면 어떻게 하나요?",
+				"이름이 틀리게 예약되었습니다.",
+				"예약 확인을 이메일로 받을 수 있나요?",
+				"스미스라는 이름으로 객실이 준비되어 있나요?",
+				"예약을 취소하려고 합니다.",
+				"예약 변경을 원합니다.",
+				"예약 시간을 변경할 수 있나요?",
+				"예약 내역을 확인할 수 있는 방법은 무엇인가요?",
+				"예약을 다른 날짜로 바꿀 수 있나요?"
+			],
+			"usage": ["I said I had a reservation under the name Smith.", "My reservation is under the name Smith.", "I booked a room under the name Smith."],
+			"usageMeaning": ["(스미스라는 이름으로 예약이 되어 있다고 말했습니다.)", "(스미스라는 이름으로 예약이 되어 있다고 말했습니다.)", "(스미스라는 이름으로 방을 예약했다고 말했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "reservation",
+					"meaning": "예약"
+				},
+				{
+					"word": "name",
+					"meaning": "이름"
+				},
+				{
+					"word": "under",
+					"meaning": "…이라는 이름으로"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How do I apply for a loan?",
+			"correctAnswer": "대출을 신청하려면 어떻게 하나요?",
+			"incorrectAnswers": [
+				"대출을 상환하려면 어떻게 하나요?",
+				"대출 금리는 얼마인가요?",
+				"대출 서류는 어디서 받나요?",
+				"대출을 연장하려면 어떻게 하나요?",
+				"대출 상환 계획은 어떻게 세우나요?",
+				"대출 승인 여부를 어떻게 확인하나요?",
+				"대출을 신청하는 데 필요한 신용 점수는 얼마인가요?",
+				"대출의 조건을 어떻게 알 수 있나요?",
+				"대출 신청을 위한 상담은 어디서 하나요?",
+				"대출을 갚기 전에 알아야 할 사항은 무엇인가요?"
+			],
+			"usage": ["I asked how to apply for a loan.", "What’s the process for applying for a loan?", "Can you tell me how to apply for a loan?"],
+			"usageMeaning": ["(대출을 신청하는 방법을 물어봤습니다.)", "(대출을 신청하는 과정이 무엇인지 물어봤습니다.)", "(대출을 신청하는 방법을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "apply",
+					"meaning": "신청하다"
+				},
+				{
+					"word": "loan",
+					"meaning": "대출"
+				},
+				{
+					"word": "how",
+					"meaning": "어떻게"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "What should I do if I smell gas?",
+			"correctAnswer": "가스 냄새가 나면 어떻게 해야 하나요?",
+			"incorrectAnswers": [
+				"가스 냄새가 나면 창문을 열어야 하나요?",
+				"가스 냄새가 나면 즉시 119에 연락해야 하나요?",
+				"가스 냄새가 나면 불을 켜도 되나요?",
+				"가스 냄새가 나면 집을 떠나야 하나요?",
+				"가스 냄새가 나면 요리를 계속해도 되나요?",
+				"가스 냄새가 나면 어떻게 대처해야 하나요?",
+				"가스 냄새가 나면 문을 잠가야 하나요?",
+				"가스 냄새가 나면 주변을 청소해야 하나요?",
+				"가스 냄새가 나면 전기를 차단해야 하나요?",
+				"가스 냄새가 나면 물을 뿌려야 하나요?"
+			],
+			"usage": ["I asked what to do if I smell gas.", "What should be done if there is a gas smell?", "Can you tell me the procedure if I smell gas?"],
+			"usageMeaning": ["(가스 냄새가 나면 어떻게 해야 하는지 물어봤습니다.)", "(가스 냄새가 날 때 어떻게 해야 하는지 물어봤습니다.)", "(가스 냄새가 나면 어떻게 대처해야 하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "smell",
+					"meaning": "냄새나다"
+				},
+				{
+					"word": "gas",
+					"meaning": "가스"
+				},
+				{
+					"word": "should",
+					"meaning": "해야 한다"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can you connect me to the customer service department?",
+			"correctAnswer": "고객 서비스 부서로 연결해 주시겠어요?",
+			"incorrectAnswers": [
+				"고객 서비스 부서의 전화번호를 알 수 있나요?",
+				"고객 서비스 부서의 위치는 어디인가요?",
+				"고객 서비스 부서와 이메일로 연락할 수 있나요?",
+				"고객 서비스 부서의 업무 시간은 언제인가요?",
+				"고객 서비스 부서에 직접 방문할 수 있나요?",
+				"고객 서비스 부서와의 통화 기록을 확인할 수 있나요?",
+				"고객 서비스 부서에 대해 더 알고 싶어요.",
+				"고객 서비스 부서의 담당자는 누구인가요?",
+				"고객 서비스 부서의 웹사이트를 알 수 있나요?",
+				"고객 서비스 부서의 팩스 번호를 알 수 있나요?"
+			],
+			"usage": ["I asked to be connected to the customer service department.", "Can you transfer me to customer service?", "Please connect me with the customer service department."],
+			"usageMeaning": ["(고객 서비스 부서로 연결해 달라고 요청했습니다.)", "(고객 서비스 부서로 연결해 달라고 부탁했습니다.)", "(고객 서비스 부서와 연결해 달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "connect",
+					"meaning": "연결하다"
+				},
+				{
+					"word": "customer service",
+					"meaning": "고객 서비스"
+				},
+				{
+					"word": "department",
+					"meaning": "부서"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could you recommend a good dish?",
+			"correctAnswer": "맛있는 요리를 추천해 주시겠어요?",
+			"incorrectAnswers": [
+				"메뉴에 있는 모든 요리를 설명해 주시겠어요?",
+				"여기서 인기 있는 음식은 무엇인가요?",
+				"오늘의 스페셜 메뉴는 무엇인가요?",
+				"음식의 가격대는 어떻게 되나요?",
+				"음식을 어떻게 조리하나요?",
+				"채식주의자에게 좋은 메뉴가 있나요?",
+				"이 식당의 시그니처 요리는 무엇인가요?",
+				"음식의 원재료는 무엇인가요?",
+				"음식의 영양 정보는 어떻게 되나요?",
+				"음식을 포장할 수 있나요?"
+			],
+			"usage": ["I asked for a recommendation for a good dish.", "Can you suggest a tasty dish?", "What is a good dish you recommend?"],
+			"usageMeaning": ["(맛있는 요리를 추천해 달라고 요청했습니다.)", "(맛있는 요리를 추천해 달라고 부탁했습니다.)", "(좋은 요리를 추천해 달라고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "recommend",
+					"meaning": "추천하다"
+				},
+				{
+					"word": "good",
+					"meaning": "좋은"
+				},
+				{
+					"word": "dish",
+					"meaning": "요리"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could you bring us the bill, please?",
+			"correctAnswer": "계산서를 가져다 주시겠어요?",
+			"incorrectAnswers": [
+				"계산서를 미리 볼 수 있나요?",
+				"지금까지 먹은 음식은 무엇인가요?",
+				"식사 후 메뉴를 다시 볼 수 있나요?",
+				"다음에 올 때 계산서를 미리 받을 수 있나요?",
+				"계산서의 총 금액은 얼마인가요?",
+				"계산서를 디지털로 받을 수 있나요?",
+				"계산서를 나중에 받을 수 있나요?",
+				"계산서에 추가 비용이 있나요?",
+				"계산서가 잘못된 것 같아요.",
+				"계산서를 이메일로 받을 수 있나요?"
+			],
+			"usage": ["Please bring us the check.", "Could we get the bill, please?", "Can you bring the bill over?"],
+			"usageMeaning": ["(계산서를 가져다 달라고 요청했습니다.)", "(계산서를 달라고 부탁했습니다.)", "(계산서를 가져다 달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "bill",
+					"meaning": "계산서"
+				},
+				{
+					"word": "bring",
+					"meaning": "가져다 주다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "Can I open a new account here?",
+			"correctAnswer": "여기서 새 계좌를 개설할 수 있나요?",
+			"incorrectAnswers": [
+				"계좌 개설에 필요한 서류는 무엇인가요?",
+				"계좌를 온라인으로 개설할 수 있나요?",
+				"계좌 개설 후 어떤 서비스를 이용할 수 있나요?",
+				"계좌 개설에 필요한 최소 금액은 얼마인가요?",
+				"새 계좌를 개설하는 데 시간이 얼마나 걸리나요?",
+				"계좌 개설 시 추가 비용이 있나요?",
+				"계좌 개설을 위해 예약이 필요한가요?",
+				"계좌 개설 후 카드 발급은 어떻게 되나요?",
+				"계좌 개설에 필요한 신분증은 무엇인가요?",
+				"계좌 개설 시 제공되는 혜택은 무엇인가요?"
+			],
+			"usage": ["Is it possible to open a new account here?", "Can I start a new account in this bank?", "Do you offer new account openings here?"],
+			"usageMeaning": ["(여기서 새 계좌를 개설할 수 있는지 물어봤습니다.)", "(여기에서 새 계좌를 시작할 수 있는지 물어봤습니다.)", "(여기서 새 계좌를 열 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "account",
+					"meaning": "계좌"
+				},
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "new",
+					"meaning": "새로운"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Can I have a wake-up call at 6 AM?",
+			"correctAnswer": "오전 6시에 모닝콜을 받을 수 있나요?",
+			"incorrectAnswers": [
+				"모닝콜 서비스는 어떻게 신청하나요?",
+				"모닝콜은 객실에 제공되나요?",
+				"모닝콜을 받으려면 추가 요금이 있나요?",
+				"모닝콜 서비스의 시간 변경이 가능한가요?",
+				"모닝콜을 예약할 수 있는 방법은 무엇인가요?",
+				"모닝콜 서비스의 제공 시간은 어떻게 되나요?",
+				"모닝콜 서비스를 이메일로 요청할 수 있나요?",
+				"모닝콜을 수신하는 방법은 무엇인가요?",
+				"모닝콜 서비스를 추가로 이용할 수 있나요?",
+				"모닝콜을 받기 위한 절차는 무엇인가요?"
+			],
+			"usage": ["I requested a wake-up call for 6 AM.", "Can I schedule a wake-up call at 6 in the morning?", "Please arrange a wake-up call for 6 AM."],
+			"usageMeaning": ["(오전 6시에 모닝콜을 요청했습니다.)", "(오전 6시에 모닝콜을 예약할 수 있는지 물어봤습니다.)", "(오전 6시에 모닝콜을 준비해 달라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "wake-up call",
+					"meaning": "모닝콜"
+				},
+				{
+					"word": "6 AM",
+					"meaning": "오전 6시"
+				},
+				{
+					"word": "call",
+					"meaning": "전화"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "Have you seen the latest movie?",
+			"correctAnswer": "최신 영화를 봤나요?",
+			"incorrectAnswers": [
+				"최근에 어떤 영화가 개봉되었나요?",
+				"최신 영화의 평점은 어떻게 되나요?",
+				"최신 영화는 어느 감독이 만들었나요?",
+				"최신 영화의 주제는 무엇인가요?",
+				"최신 영화의 상영 시간은 어떻게 되나요?",
+				"최신 영화의 출연 배우는 누구인가요?",
+				"최신 영화는 어떤 장르인가요?",
+				"최신 영화의 관람료는 얼마인가요?",
+				"최신 영화의 스토리는 어떤가요?",
+				"최신 영화는 어디서 상영되나요?"
+			],
+			"usage": ["Did you watch the newest film?", "Have you caught the latest film?", "Seen any new movies lately?"],
+			"usageMeaning": ["(최신 영화를 봤는지 물어봤습니다.)", "(최신 영화를 최근에 봤는지 물어봤습니다.)", "(최신 영화를 본 적이 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "latest",
+					"meaning": "최신의"
+				},
+				{
+					"word": "movie",
+					"meaning": "영화"
+				},
+				{
+					"word": "seen",
+					"meaning": "보다"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can you put me through to the manager?",
+			"correctAnswer": "매니저와 연결해 주시겠어요?",
+			"incorrectAnswers": [
+				"매니저의 이메일 주소를 알 수 있나요?",
+				"매니저가 지금 자리에 있나요?",
+				"매니저와의 회의는 언제 잡히나요?",
+				"매니저와 통화할 수 있는 시간은 언제인가요?",
+				"매니저의 전화번호를 알 수 있나요?",
+				"매니저와 통화하는데 얼마나 기다려야 하나요?",
+				"매니저의 업무 시간은 언제인가요?",
+				"매니저와 연결되기 위해 어떤 절차가 필요한가요?",
+				"매니저와의 통화는 어떤 주제로 진행되나요?",
+				"매니저와의 통화에 어떤 준비가 필요한가요?"
+			],
+			"usage": ["Can you connect me to the manager?", "Could you transfer me to the manager?", "Please connect me with the manager."],
+			"usageMeaning": ["(매니저와 연결해 달라고 요청했습니다.)", "(매니저에게 전환해 달라고 부탁했습니다.)", "(매니저와 연결해 달라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "put through",
+					"meaning": "연결하다"
+				},
+				{
+					"word": "manager",
+					"meaning": "매니저"
+				},
+				{
+					"word": "through",
+					"meaning": "통과하다"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "Is there a first aid kit available?",
+			"correctAnswer": "응급 처치 키트가 있나요?",
+			"incorrectAnswers": [
+				"응급 처치 키트의 위치를 알 수 있나요?",
+				"응급 처치 키트를 사용하는 방법을 알 수 있나요?",
+				"응급 처치 키트의 유효 기간은 어떻게 되나요?",
+				"응급 처치 키트는 어떻게 관리하나요?",
+				"응급 처치 키트를 어디에서 구매하나요?",
+				"응급 처치 키트는 무료로 제공되나요?",
+				"응급 처치 키트의 내용물은 무엇인가요?",
+				"응급 처치 키트는 어떤 종류가 있나요?",
+				"응급 처치 키트는 언제 교체하나요?",
+				"응급 처치 키트의 사용법을 설명해 주시겠어요?"
+			],
+			"usage": ["Is there a first aid kit here?", "Do you have a first aid kit available?", "Is a first aid kit accessible?"],
+			"usageMeaning": ["(응급 처치 키트가 있는지 물어봤습니다.)", "(응급 처치 키트가 있는지 확인했습니다.)", "(여기에서 응급 처치 키트를 이용할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "first aid kit",
+					"meaning": "응급 처치 키트"
+				},
+				{
+					"word": "available",
+					"meaning": "사용 가능한"
+				},
+				{
+					"word": "is",
+					"meaning": "있다"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Can I pay with a credit card?",
+			"correctAnswer": "신용카드로 결제할 수 있나요?",
+			"incorrectAnswers": [
+				"현금으로 결제할 수 있나요?",
+				"체크아웃 시간은 언제인가요?",
+				"신용카드 결제 시 수수료가 있나요?",
+				"신용카드로 결제할 때 확인할 사항은 무엇인가요?",
+				"체크아웃 절차는 어떻게 되나요?",
+				"체크아웃 시 추가 비용이 있나요?",
+				"신용카드를 사용할 때 신분증이 필요한가요?",
+				"신용카드 결제 후 영수증을 받을 수 있나요?",
+				"체크아웃 시 필요한 서류는 무엇인가요?",
+				"신용카드로 결제하면 포인트 적립이 되나요?"
+			],
+			"usage": ["Can I use my credit card for payment?", "Is it possible to pay with a credit card?", "Can you accept credit card payments?"],
+			"usageMeaning": ["(신용카드로 결제할 수 있는지 물어봤습니다.)", "(신용카드를 사용할 수 있는지 확인했습니다.)", "(신용카드로 결제할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "pay",
+					"meaning": "결제하다"
+				},
+				{
+					"word": "credit card",
+					"meaning": "신용카드"
+				},
+				{
+					"word": "can",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Do you have any available rooms?",
+			"correctAnswer": "빈 방이 있나요?",
+			"incorrectAnswers": [
+				"호텔의 체크인 시간은 언제인가요?",
+				"호텔의 위치를 알 수 있나요?",
+				"호텔의 체크아웃 시간은 언제인가요?",
+				"호텔의 객실 가격은 얼마인가요?",
+				"호텔의 시설에는 어떤 것들이 있나요?",
+				"호텔의 주차 공간은 어떻게 되나요?",
+				"호텔의 예약 정책은 어떻게 되나요?",
+				"호텔의 조식 서비스는 어떻게 되나요?",
+				"호텔의 위치에 대한 자세한 정보는 무엇인가요?",
+				"호텔의 서비스 시간은 어떻게 되나요?"
+			],
+			"usage": ["Are there any rooms available?", "Do you have rooms open?", "Can I get a room here?"],
+			"usageMeaning": ["(빈 방이 있는지 물어봤습니다.)", "(호텔에 빈 방이 있는지 확인했습니다.)", "(빈 방이 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "available",
+					"meaning": "빈"
+				},
+				{
+					"word": "rooms",
+					"meaning": "객실"
+				},
+				{
+					"word": "have",
+					"meaning": "가지다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "What is the best way to get to the museum?",
+			"correctAnswer": "박물관까지 가는 가장 좋은 방법은 무엇인가요?",
+			"incorrectAnswers": [
+				"박물관의 개관 시간은 어떻게 되나요?",
+				"박물관까지 가는 대중교통은 무엇이 있나요?",
+				"박물관의 입장료는 얼마인가요?",
+				"박물관까지 가는 가장 빠른 길은 무엇인가요?",
+				"박물관의 주소를 알 수 있나요?",
+				"박물관 근처에 주차장이 있나요?",
+				"박물관에서 가까운 지하철역은 어디인가요?",
+				"박물관까지 택시를 이용할 수 있나요?",
+				"박물관의 전시 내용은 무엇인가요?",
+				"박물관에 대한 자세한 정보는 어디에서 알 수 있나요?"
+			],
+			"usage": ["How can I best reach the museum?", "What’s the easiest way to get to the museum?", "Can you tell me the best route to the museum?"],
+			"usageMeaning": ["(박물관까지 가는 가장 좋은 방법을 물어봤습니다.)", "(박물관에 가는 가장 쉬운 방법을 물어봤습니다.)", "(박물관까지 가는 최상의 경로를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "best way",
+					"meaning": "가장 좋은 방법"
+				},
+				{
+					"word": "museum",
+					"meaning": "박물관"
+				},
+				{
+					"word": "get to",
+					"meaning": "가다"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What did you think of the concert?",
+			"correctAnswer": "그 콘서트에 대해 어떻게 생각했나요?",
+			"incorrectAnswers": [
+				"콘서트의 날짜는 언제였나요?",
+				"콘서트의 출연자는 누구였나요?",
+				"콘서트의 장소는 어디였나요?",
+				"콘서트의 가격은 얼마였나요?",
+				"콘서트의 리뷰는 어떻게 되나요?",
+				"콘서트의 기념품은 무엇이 있었나요?",
+				"콘서트의 프로그램은 어떻게 되었나요?",
+				"콘서트의 분위기는 어땠나요?",
+				"콘서트의 조명과 음향은 어땠나요?",
+				"콘서트 후에 어떤 활동을 했나요?"
+			],
+			"usage": ["How did you find the concert?", "What was your opinion on the concert?", "What did you think about the concert?"],
+			"usageMeaning": ["(그 콘서트에 대해 어떻게 생각했는지 물어봤습니다.)", "(콘서트에 대한 의견을 물어봤습니다.)", "(콘서트에 대한 생각을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "think",
+					"meaning": "생각하다"
+				},
+				{
+					"word": "concert",
+					"meaning": "콘서트"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Where is the nearest pharmacy?",
+			"correctAnswer": "가장 가까운 약국이 어디에 있나요?",
+			"incorrectAnswers": [
+				"약국의 운영 시간은 어떻게 되나요?",
+				"약국에서 제공하는 서비스는 무엇인가요?",
+				"약국의 주소를 알 수 있나요?",
+				"약국까지 가는 대중교통은 무엇인가요?",
+				"약국의 전화번호는 무엇인가요?",
+				"약국에서 필요한 서류는 무엇인가요?",
+				"약국의 주차 공간은 어떻게 되나요?",
+				"약국의 최근 리뷰는 어떻게 되나요?",
+				"약국의 개방 시간은 어떻게 되나요?",
+				"약국의 운영 정책은 무엇인가요?"
+			],
+			"usage": ["Can you tell me where the closest pharmacy is?", "Where can I find the nearest pharmacy?", "What’s the location of the nearest pharmacy?"],
+			"usageMeaning": ["(가장 가까운 약국의 위치를 물어봤습니다.)", "(가장 가까운 약국이 어디에 있는지 물어봤습니다.)", "(가장 가까운 약국의 장소를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "pharmacy",
+					"meaning": "약국"
+				},
+				{
+					"word": "where",
+					"meaning": "어디에"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I return this item if it doesn’t fit?",
+			"correctAnswer": "이 물건이 맞지 않으면 반품할 수 있나요?",
+			"incorrectAnswers": [
+				"이 물건의 반품 정책은 어떻게 되나요?",
+				"이 물건을 교환할 수 있는 기간은 어떻게 되나요?",
+				"이 물건의 구매 영수증은 어떻게 되나요?",
+				"이 물건의 재고는 현재 어떻게 되나요?",
+				"이 물건의 원래 가격은 얼마인가요?",
+				"이 물건의 사이즈는 어떻게 확인하나요?",
+				"이 물건의 품질 보증은 어떻게 되나요?",
+				"이 물건의 배송 기간은 어떻게 되나요?",
+				"이 물건의 사용법은 무엇인가요?",
+				"이 물건을 구매할 때 추가 비용이 있나요?"
+			],
+			"usage": ["Can I return this if it doesn’t fit?", "Is it possible to return this item if it’s not the right size?", "What is the return policy for this item if it doesn’t fit?"],
+			"usageMeaning": ["(이 물건이 맞지 않으면 반품할 수 있는지 물어봤습니다.)", "(이 물건이 사이즈가 맞지 않으면 반품할 수 있는지 물어봤습니다.)", "(이 물건이 맞지 않으면 반품할 수 있는 정책을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "return",
+					"meaning": "반품하다"
+				},
+				{
+					"word": "item",
+					"meaning": "물건"
+				},
+				{
+					"word": "fit",
+					"meaning": "맞다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "What time is check-in?",
+			"correctAnswer": "체크인 시간은 몇 시인가요?",
+			"incorrectAnswers": [
+				"체크아웃 시간은 몇 시인가요?",
+				"체크인 전에 무엇을 준비해야 하나요?",
+				"체크인 절차는 어떻게 되나요?",
+				"체크인 시 필요한 서류는 무엇인가요?",
+				"체크인 시 어떤 정보가 필요한가요?",
+				"체크인 후 방의 상태를 확인할 수 있나요?",
+				"체크인 시 추가 비용이 발생하나요?",
+				"체크인 전에 미리 예약해야 하나요?",
+				"체크인 시 제공되는 서비스는 무엇인가요?",
+				"체크인 시간에 대해 변경이 가능한가요?"
+			],
+			"usage": ["What time can I check in?", "When is the check-in time?", "Can you tell me the check-in time?"],
+			"usageMeaning": ["(체크인 시간을 물어봤습니다.)", "(체크인 시간이 언제인지 물어봤습니다.)", "(체크인 시간에 대해 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check-in",
+					"meaning": "체크인"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				},
+				{
+					"word": "is",
+					"meaning": "이다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Can you tell me how to get to the nearest subway station?",
+			"correctAnswer": "가장 가까운 지하철역까지 가는 길을 알려주실 수 있나요?",
+			"incorrectAnswers": [
+				"지하철역의 개방 시간은 언제인가요?",
+				"지하철역에서 어떤 서비스가 제공되나요?",
+				"지하철역까지 가는 버스는 무엇인가요?",
+				"지하철역의 위치를 지도에서 보여주실 수 있나요?",
+				"지하철역까지 가는 택시 비용은 얼마인가요?",
+				"지하철역의 전화번호를 알 수 있나요?",
+				"지하철역의 역사적인 배경은 무엇인가요?",
+				"지하철역에 대한 최근 뉴스는 무엇인가요?",
+				"지하철역의 주변 관광지는 무엇이 있나요?",
+				"지하철역까지 걸어가는 데 얼마나 걸리나요?"
+			],
+			"usage": ["How do I reach the nearest subway station?", "Could you guide me to the closest subway station?", "What’s the best way to get to the nearby subway station?"],
+			"usageMeaning": ["(가장 가까운 지하철역까지 어떻게 가는지 물어봤습니다.)", "(가장 가까운 지하철역으로 가는 길을 안내해 달라고 했습니다.)", "(근처 지하철역까지 가는 가장 좋은 방법을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "subway station",
+					"meaning": "지하철역"
+				},
+				{
+					"word": "get to",
+					"meaning": "가다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could I get the bill, please?",
+			"correctAnswer": "계산서 좀 주시겠어요?",
+			"incorrectAnswers": [
+				"이 식사에 대한 비용은 얼마인가요?",
+				"영수증을 받을 수 있나요?",
+				"이 식당의 메뉴는 무엇인가요?",
+				"계산서에는 어떤 정보가 포함되나요?",
+				"영수증을 다시 받을 수 있을까요?",
+				"식사의 가격을 확인할 수 있나요?",
+				"이 식사의 세금은 얼마인가요?",
+				"계산서와 함께 카드 결제는 가능한가요?",
+				"계산서에 추가 비용이 있나요?",
+				"계산서에 포함된 서비스 요금은 얼마인가요?"
+			],
+			"usage": ["I’d like to pay the bill now.", "Can I have the check, please?", "Could you bring me the bill?"],
+			"usageMeaning": ["(지금 계산서를 받고 싶다고 요청했습니다.)", "(계산서를 달라고 부탁했습니다.)", "(계산서를 가져다 달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "bill",
+					"meaning": "계산서"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Do I need to make an appointment before coming?",
+			"correctAnswer": "오기 전에 예약이 필요하나요?",
+			"incorrectAnswers": [
+				"병원에서 어떤 진료를 받을 수 있나요?",
+				"병원의 주소는 어디인가요?",
+				"병원의 운영 시간은 어떻게 되나요?",
+				"병원에 도착하면 어떤 절차를 따라야 하나요?",
+				"병원에 가기 전에 필요한 서류는 무엇인가요?",
+				"병원의 최근 리뷰는 무엇인가요?",
+				"병원에서 어떤 의료 보험을 받을 수 있나요?",
+				"병원 방문 시 주차는 어떻게 하나요?",
+				"병원에서 제공하는 기타 서비스는 무엇이 있나요?",
+				"병원에서 진료비는 어떻게 결제하나요?"
+			],
+			"usage": ["Should I schedule an appointment before visiting?", "Do I need an appointment before I come?", "Is it necessary to book in advance?"],
+			"usageMeaning": ["(방문하기 전에 예약을 해야 하는지 물어봤습니다.)", "(오래 전에 예약이 필요한지 물어봤습니다.)", "(미리 예약이 필요한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				},
+				{
+					"word": "before",
+					"meaning": "이전"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could you put me through to the sales department?",
+			"correctAnswer": "영업 부서로 연결해 주시겠어요?",
+			"incorrectAnswers": [
+				"영업 부서의 이메일 주소를 알 수 있나요?",
+				"영업 부서에 직접 방문할 수 있나요?",
+				"영업 부서의 전화번호는 무엇인가요?",
+				"영업 부서의 운영 시간은 어떻게 되나요?",
+				"영업 부서와의 미팅은 어떻게 예약하나요?",
+				"영업 부서에서 제공하는 서비스는 무엇인가요?",
+				"영업 부서의 주소를 알 수 있나요?",
+				"영업 부서의 최근 뉴스는 무엇인가요?",
+				"영업 부서의 웹사이트는 어떻게 되나요?",
+				"영업 부서의 직원과 연락할 수 있는 방법은 무엇인가요?"
+			],
+			"usage": ["Can you connect me to the sales team?", "I need to speak with the sales department.", "Put me through to the sales department, please."],
+			"usageMeaning": ["(영업 부서와 연결해 달라고 요청했습니다.)", "(영업 부서와 통화하고 싶다고 했습니다.)", "(영업 부서로 전환해 달라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "put through",
+					"meaning": "연결하다"
+				},
+				{
+					"word": "sales department",
+					"meaning": "영업 부서"
+				},
+				{
+					"word": "could",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크아웃",
+			"question": "Can I check out later than the usual time?",
+			"correctAnswer": "통상적인 시간보다 늦게 체크아웃할 수 있나요?",
+			"incorrectAnswers": [
+				"체크아웃 시간을 연장할 수 있나요?",
+				"체크아웃 절차는 어떻게 되나요?",
+				"체크아웃 시 추가 비용이 발생하나요?",
+				"체크아웃 후 짐을 보관할 수 있나요?",
+				"체크아웃 시간 전 객실을 사용할 수 있나요?",
+				"체크아웃 시간 변경이 가능한가요?",
+				"체크아웃 후 환불은 어떻게 되나요?",
+				"체크아웃을 위해 필요한 서류는 무엇인가요?",
+				"체크아웃 시 세금은 어떻게 계산되나요?",
+				"체크아웃 전에 마지막 점검을 할 수 있나요?"
+			],
+			"usage": ["Is it possible to check out later?", "Can I extend my check-out time?", "Could I have a late check-out?"],
+			"usageMeaning": ["(체크아웃 시간을 연장할 수 있는지 물어봤습니다.)", "(체크아웃을 늦게 할 수 있는지 물어봤습니다.)", "(늦은 체크아웃이 가능한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check out",
+					"meaning": "체크아웃하다"
+				},
+				{
+					"word": "later",
+					"meaning": "늦게"
+				},
+				{
+					"word": "usual",
+					"meaning": "통상적인"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I get a refund if the item is defective?",
+			"correctAnswer": "물건이 결함이 있으면 환불받을 수 있나요?",
+			"incorrectAnswers": [
+				"물건의 결함을 어떻게 확인하나요?",
+				"물건의 교환 정책은 무엇인가요?",
+				"물건의 보증 기간은 얼마나 되나요?",
+				"물건의 구매 영수증을 잃어버렸을 때 어떻게 하나요?",
+				"물건을 교환하는 데 추가 비용이 있나요?",
+				"물건의 결함을 보고하는 방법은 무엇인가요?",
+				"환불을 받기 위해 필요한 서류는 무엇인가요?",
+				"물건의 결함으로 인한 보상은 어떻게 이루어지나요?",
+				"물건의 결함을 수리할 수 있는 곳은 어디인가요?",
+				"환불 절차를 어떻게 진행하나요?"
+			],
+			"usage": ["If the item is faulty, can I return it?", "Can I receive a refund for a defective product?", "What is the refund policy for defective items?"],
+			"usageMeaning": ["(물건이 결함이 있으면 반품할 수 있는지 물어봤습니다.)", "(결함 있는 제품에 대해 환불을 받을 수 있는지 물어봤습니다.)", "(결함 있는 물건에 대한 환불 정책을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "refund",
+					"meaning": "환불"
+				},
+				{
+					"word": "defective",
+					"meaning": "결함이 있는"
+				},
+				{
+					"word": "item",
+					"meaning": "물건"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I have this to go?",
+			"correctAnswer": "이 음식을 포장해도 될까요?",
+			"incorrectAnswers": [
+				"이 음식을 여기에 먹을 수 있나요?",
+				"이 음식을 어떻게 요리하나요?",
+				"이 음식을 다른 사람과 나눌 수 있나요?",
+				"이 음식을 어떻게 포장하나요?",
+				"이 음식을 별도로 주문할 수 있나요?",
+				"이 음식을 다시 데울 수 있나요?",
+				"이 음식을 다른 소스와 함께 먹을 수 있나요?",
+				"이 음식을 테이크아웃할 수 있나요?",
+				"이 음식을 어떻게 제공하나요?",
+				"이 음식을 식당에서 제공하나요?"
+			],
+			"usage": ["Can I get this food to take away?", "Is it possible to have this food to go?", "Can I have this order packed for takeout?"],
+			"usageMeaning": ["(이 음식을 포장해서 가져갈 수 있는지 물어봤습니다.)", "(이 음식을 테이크아웃할 수 있는지 물어봤습니다.)", "(이 음식을 포장해 달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "to go",
+					"meaning": "포장하다"
+				},
+				{
+					"word": "have",
+					"meaning": "가지다"
+				},
+				{
+					"word": "this",
+					"meaning": "이"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How far is it to the nearest bus stop?",
+			"correctAnswer": "가장 가까운 버스 정류장까지 거리가 얼마나 되나요?",
+			"incorrectAnswers": [
+				"버스 정류장에 어떤 서비스가 있나요?",
+				"버스 정류장의 운영 시간은 어떻게 되나요?",
+				"버스 정류장의 위치는 어디인가요?",
+				"버스 정류장까지 가는 교통편은 무엇인가요?",
+				"버스 정류장의 주소를 알 수 있나요?",
+				"버스 정류장에 주차 공간이 있나요?",
+				"버스 정류장 근처에 어떤 식당이 있나요?",
+				"버스 정류장까지 걸어가는 데 얼마나 걸리나요?",
+				"버스 정류장에서 가장 가까운 지하철역은 어디인가요?",
+				"버스 정류장에서의 환승은 어떻게 하나요?"
+			],
+			"usage": ["How long does it take to reach the nearest bus stop?", "What’s the distance to the closest bus stop?", "Can you tell me how far the nearest bus stop is?"],
+			"usageMeaning": ["(가장 가까운 버스 정류장까지 거리가 얼마나 되는지 물어봤습니다.)", "(근처의 버스 정류장까지의 거리가 얼마나 되는지 물어봤습니다.)", "(가장 가까운 버스 정류장까지의 거리를 알려달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "bus stop",
+					"meaning": "버스 정류장"
+				},
+				{
+					"word": "far",
+					"meaning": "거리"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "What time is my appointment scheduled for?",
+			"correctAnswer": "제 예약 시간이 몇 시로 잡혀 있나요?",
+			"incorrectAnswers": [
+				"예약 변경은 어떻게 하나요?",
+				"예약 취소 시 비용은 얼마인가요?",
+				"예약 시간보다 일찍 도착할 수 있나요?",
+				"예약 시간이 지연될 경우 어떻게 하나요?",
+				"예약을 위한 대기 시간은 얼마인가요?",
+				"예약 시간에 늦으면 어떤 조치를 취하나요?",
+				"예약 시간을 변경하는 데 추가 비용이 있나요?",
+				"예약 시간과 날짜를 확인할 수 있나요?",
+				"예약 시간이 맞는지 확인해 주실 수 있나요?",
+				"예약 변경은 온라인으로도 가능한가요?"
+			],
+			"usage": ["When is my appointment?", "Could you tell me the time of my appointment?", "What time should I come for my appointment?"],
+			"usageMeaning": ["(제 예약 시간이 언제인지 물어봤습니다.)", "(제 예약 시간을 알려달라고 했습니다.)", "(예약 시간에 맞춰 언제 가야 하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "scheduled",
+					"meaning": "잡혀 있는"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could you tell me who’s calling, please?",
+			"correctAnswer": "누가 전화하는지 말씀해 주시겠어요?",
+			"incorrectAnswers": [
+				"전화번호를 알 수 있나요?",
+				"전화를 걸 때 주의사항은 무엇인가요?",
+				"전화 통화의 목적은 무엇인가요?",
+				"전화의 발신자는 누구인가요?",
+				"전화는 언제 받을 수 있나요?",
+				"전화 내용에 대해 알려주실 수 있나요?",
+				"전화 통화의 기록은 어떻게 확인하나요?",
+				"전화 통화 시 필요한 서류는 무엇인가요?",
+				"전화 통화 중에 어떤 질문을 해야 하나요?",
+				"전화 통화 후의 절차는 무엇인가요?"
+			],
+			"usage": ["Can you let me know who is calling?", "Who’s on the line, please?", "May I know who’s calling?"],
+			"usageMeaning": ["(누가 전화를 걸었는지 알려달라고 요청했습니다.)", "(누가 전화하고 있는지 물어봤습니다.)", "(누가 전화하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "who",
+					"meaning": "누구"
+				},
+				{
+					"word": "calling",
+					"meaning": "전화하는"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can you recommend a dish?",
+			"correctAnswer": "추천할 만한 요리가 있나요?",
+			"incorrectAnswers": [
+				"이 식당의 주방장은 누구인가요?",
+				"이 식당의 인기 메뉴는 무엇인가요?",
+				"이 식당의 요리 방법은 어떻게 되나요?",
+				"이 식당의 최근 리뷰는 무엇인가요?",
+				"이 식당의 음식 재료는 무엇인가요?",
+				"이 식당에서 가장 인기 있는 음식은 무엇인가요?",
+				"이 식당의 주방에서 일하는 직원은 누구인가요?",
+				"이 식당의 테이블 예약은 어떻게 하나요?",
+				"이 식당의 스페셜 메뉴는 무엇인가요?",
+				"이 식당의 음식 가격은 어떻게 되나요?"
+			],
+			"usage": ["What dish would you suggest?", "Can you suggest a good dish?", "Do you have any recommendations for a dish?"],
+			"usageMeaning": ["(추천할 만한 요리가 무엇인지 물어봤습니다.)", "(좋은 요리를 추천해 달라고 했습니다.)", "(추천할 만한 요리가 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "recommend",
+					"meaning": "추천하다"
+				},
+				{
+					"word": "dish",
+					"meaning": "요리"
+				},
+				{
+					"word": "can",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where can I find a taxi stand?",
+			"correctAnswer": "택시 정류장은 어디에 있나요?",
+			"incorrectAnswers": [
+				"택시의 요금은 얼마인가요?",
+				"택시를 예약하려면 어떻게 하나요?",
+				"택시의 운영 시간은 어떻게 되나요?",
+				"택시 정류장에서 택시를 기다리는 방법은 무엇인가요?",
+				"택시 정류장까지 가는 방법은 무엇인가요?",
+				"택시 정류장에 주차 공간이 있나요?",
+				"택시 정류장 근처에 어떤 식당이 있나요?",
+				"택시의 안전 규정은 무엇인가요?",
+				"택시 정류장까지 걸어가는 데 얼마나 걸리나요?",
+				"택시 정류장에서 택시를 호출할 수 있나요?"
+			],
+			"usage": ["Where is the taxi stand?", "Can you tell me where I can find the taxi stand?", "Where can I catch a taxi?"],
+			"usageMeaning": ["(택시 정류장이 어디에 있는지 물어봤습니다.)", "(택시 정류장이 있는 곳을 알려 달라고 했습니다.)", "(택시를 잡을 수 있는 곳이 어디인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "taxi stand",
+					"meaning": "택시 정류장"
+				},
+				{
+					"word": "find",
+					"meaning": "찾다"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Is there a pharmacy around here?",
+			"correctAnswer": "이 근처에 약국이 있나요?",
+			"incorrectAnswers": [
+				"이 근처에 은행이 있나요?",
+				"약국의 운영 시간은 어떻게 되나요?",
+				"이 근처의 식당은 어디에 있나요?",
+				"약국까지 거리는 얼마나 되나요?",
+				"이 지역의 병원은 어디에 있나요?",
+				"이 근처에 주차 공간이 있나요?",
+				"약국에서 필요한 서류가 있나요?",
+				"약국의 주소를 알 수 있나요?",
+				"이 지역의 버스 정류장은 어디에 있나요?",
+				"이 지역의 지하철 역은 어디에 있나요?"
+			],
+			"usage": ["Is there a drugstore nearby?", "Can you tell me if there’s a pharmacy close by?", "Where can I find a pharmacy around here?"],
+			"usageMeaning": ["(이 근처에 약국이 있는지 물어봤습니다.)", "(근처에 약국이 있는지 알려달라고 했습니다.)", "(이 근처에 약국이 어디 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "pharmacy",
+					"meaning": "약국"
+				},
+				{
+					"word": "around",
+					"meaning": "주변"
+				},
+				{
+					"word": "here",
+					"meaning": "이곳"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Do I need to make an appointment?",
+			"correctAnswer": "예약을 해야 하나요?",
+			"incorrectAnswers": [
+				"이 병원의 영업 시간은 어떻게 되나요?",
+				"예약을 취소하려면 어떻게 하나요?",
+				"여기서 병원 진료를 받을 수 있나요?",
+				"진료를 위해 필요한 서류가 있나요?",
+				"병원의 위치를 알 수 있나요?",
+				"진료비는 얼마인가요?",
+				"병원 방문 시 주의사항이 있나요?",
+				"의사의 진료 가능 시간은 어떻게 되나요?",
+				"이 병원에서 다른 의사를 추천해 주시나요?",
+				"진료 전 어떤 검사를 해야 하나요?"
+			],
+			"usage": ["Should I schedule an appointment?", "Is it necessary to make an appointment?", "Do I have to book an appointment in advance?"],
+			"usageMeaning": ["(예약을 해야 하는지 물어봤습니다.)", "(미리 예약을 해야 하는지 물어봤습니다.)", "(예약이 필요한지 확인했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				},
+				{
+					"word": "make",
+					"meaning": "만들다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How can I open a new account?",
+			"correctAnswer": "새 계좌를 어떻게 개설하나요?",
+			"incorrectAnswers": [
+				"계좌를 잃어버렸을 때 어떻게 하나요?",
+				"계좌 개설 시 필요한 서류는 무엇인가요?",
+				"계좌의 잔액을 확인하려면 어떻게 하나요?",
+				"계좌의 거래 내역을 어떻게 조회하나요?",
+				"계좌 개설 후 혜택은 무엇인가요?",
+				"계좌 개설에 드는 비용은 얼마인가요?",
+				"계좌를 온라인으로 개설할 수 있나요?",
+				"계좌를 해외에서 개설할 수 있나요?",
+				"계좌 개설 후 카드 발급은 어떻게 하나요?",
+				"계좌의 종류에는 어떤 것들이 있나요?"
+			],
+			"usage": ["What is the process to open a new account?", "How do I go about opening a new account?", "Can you tell me how to open a new account?"],
+			"usageMeaning": ["(새 계좌를 개설하는 절차를 물어봤습니다.)", "(새 계좌를 어떻게 여는지 물어봤습니다.)", "(새 계좌를 여는 방법을 알려달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "account",
+					"meaning": "계좌"
+				},
+				{
+					"word": "new",
+					"meaning": "새로운"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Can I check out early?",
+			"correctAnswer": "일찍 체크아웃 할 수 있나요?",
+			"incorrectAnswers": [
+				"체크아웃 시간은 몇 시인가요?",
+				"체크아웃 시 필요한 서류는 무엇인가요?",
+				"체크아웃 후 방에 다시 들어갈 수 있나요?",
+				"체크아웃 시 추가 비용이 발생하나요?",
+				"체크아웃 절차는 어떻게 되나요?",
+				"체크아웃 시간을 연장할 수 있나요?",
+				"체크아웃 전 객실 점검이 있나요?",
+				"체크아웃 후 짐을 보관할 수 있나요?",
+				"체크아웃을 온라인으로 할 수 있나요?",
+				"체크아웃 후 환불이 가능한가요?"
+			],
+			"usage": ["Is it possible to check out earlier?", "Can I leave the hotel before the usual check-out time?", "Is early check-out allowed?"],
+			"usageMeaning": ["(일찍 체크아웃이 가능한지 물어봤습니다.)", "(정해진 체크아웃 시간보다 일찍 나갈 수 있는지 물어봤습니다.)", "(조기 체크아웃이 가능한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check out",
+					"meaning": "체크아웃"
+				},
+				{
+					"word": "early",
+					"meaning": "일찍"
+				},
+				{
+					"word": "can",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What do you think of this movie?",
+			"correctAnswer": "이 영화에 대해 어떻게 생각해?",
+			"incorrectAnswers": [
+				"이 영화의 감독은 누구야?",
+				"이 영화는 몇 시간 분량이야?",
+				"이 영화는 어디서 촬영됐어?",
+				"이 영화의 주연 배우는 누구야?",
+				"이 영화의 평점은 얼마야?",
+				"이 영화의 장르는 무엇이야?",
+				"이 영화의 주요 내용은 뭐야?",
+				"이 영화는 어떤 시간대에 상영되니?",
+				"이 영화는 어떤 음악을 사용하니?",
+				"이 영화의 제작사는 어디야?"
+			],
+			"usage": ["What’s your opinion on this film?", "How do you feel about this movie?", "What’s your take on this film?"],
+			"usageMeaning": ["(이 영화에 대한 의견을 물어봤습니다.)", "(이 영화에 대해 어떻게 생각하는지 물어봤습니다.)", "(이 영화에 대한 너의 생각을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "movie",
+					"meaning": "영화"
+				},
+				{
+					"word": "think",
+					"meaning": "생각하다"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could you put me through to Mr. Smith?",
+			"correctAnswer": "스미스 씨에게 연결해 주실 수 있나요?",
+			"incorrectAnswers": [
+				"스미스 씨의 이메일 주소를 알려주실 수 있나요?",
+				"스미스 씨의 전화번호를 알 수 있나요?",
+				"스미스 씨는 지금 자리에 있나요?",
+				"스미스 씨에게 전화를 걸어줄 수 있나요?",
+				"스미스 씨의 주소를 알 수 있나요?",
+				"스미스 씨와의 회의는 언제인가요?",
+				"스미스 씨의 직함은 무엇인가요?",
+				"스미스 씨의 업무 시간은 언제인가요?",
+				"스미스 씨의 부서가 어디인가요?",
+				"스미스 씨와 직접 대면할 수 있나요?"
+			],
+			"usage": ["Can you connect me with Mr. Smith?", "Could you transfer me to Mr. Smith?", "May I speak to Mr. Smith, please?"],
+			"usageMeaning": ["(스미스 씨에게 전화 연결해 달라고 요청했습니다.)", "(스미스 씨와 연결해 달라고 했습니다.)", "(스미스 씨와 통화할 수 있도록 해달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "put through",
+					"meaning": "연결하다"
+				},
+				{
+					"word": "Mr.",
+					"meaning": "씨"
+				},
+				{
+					"word": "could",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where is the nearest gate?",
+			"correctAnswer": "가장 가까운 게이트는 어디인가요?",
+			"incorrectAnswers": [
+				"비행기 출발 시간은 언제인가요?",
+				"여기서 가장 가까운 화장실은 어디인가요?",
+				"여기서 가장 가까운 식당은 어디인가요?",
+				"가장 가까운 체크인 카운터는 어디인가요?",
+				"여기서 가장 가까운 면세점은 어디인가요?",
+				"가장 가까운 환전소는 어디에 있나요?",
+				"여기서 가장 가까운 유심 카드 판매점은 어디인가요?",
+				"가장 가까운 항공사 서비스 데스크는 어디인가요?",
+				"여기서 가장 가까운 출입국 심사대는 어디에 있나요?",
+				"가장 가까운 수하물 찾는 곳은 어디인가요?"
+			],
+			"usage": ["Where can I find the closest gate?", "Can you tell me where the nearest gate is?", "Where’s the closest gate from here?"],
+			"usageMeaning": ["(가장 가까운 게이트가 어디인지 물어봤습니다.)", "(여기서 가까운 게이트가 어디인지 알려달라고 했습니다.)", "(가장 가까운 게이트가 어디인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "gate",
+					"meaning": "게이트"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I have this dish without onions?",
+			"correctAnswer": "이 요리에 양파를 빼고 만들 수 있나요?",
+			"incorrectAnswers": [
+				"이 요리에 추가할 재료가 있나요?",
+				"이 요리는 어떻게 조리되나요?",
+				"양파가 들어간 요리는 어떤 게 있나요?",
+				"이 요리에 포함된 다른 재료는 무엇인가요?",
+				"이 요리의 맛은 어떤가요?",
+				"이 요리의 양은 얼마인가요?",
+				"이 요리의 가격은 얼마인가요?",
+				"이 요리는 얼마나 걸려서 준비되나요?",
+				"이 요리에는 어떤 소스가 들어가나요?",
+				"이 요리는 어떤 스타일의 음식인가요?"
+			],
+			"usage": ["Can you make this dish without onions?", "Is it possible to get this without onions?", "Could you prepare this dish without onions?"],
+			"usageMeaning": ["(이 요리를 양파 없이 만들 수 있는지 물어봤습니다.)", "(양파 없이 이 요리를 받을 수 있는지 물어봤습니다.)", "(이 요리를 양파 없이 준비해 줄 수 있는지 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "dish",
+					"meaning": "요리"
+				},
+				{
+					"word": "onions",
+					"meaning": "양파"
+				},
+				{
+					"word": "without",
+					"meaning": "없이"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How far is it to the nearest subway station?",
+			"correctAnswer": "가장 가까운 지하철역까지 거리가 얼마나 되나요?",
+			"incorrectAnswers": [
+				"가장 가까운 버스 정류장까지 거리는 얼마인가요?",
+				"지하철역의 운영 시간은 어떻게 되나요?",
+				"지하철역까지 가는 방법은 무엇인가요?",
+				"지하철역 근처의 식당은 어디에 있나요?",
+				"지하철역까지 가는 대중교통은 무엇이 있나요?",
+				"지하철역의 주소를 알 수 있나요?",
+				"지하철역 근처의 주차 공간은 어떻게 되나요?",
+				"지하철역까지 택시를 이용할 수 있나요?",
+				"지하철역의 승차 위치는 어디에 있나요?",
+				"지하철역에서 가장 가까운 병원은 어디에 있나요?"
+			],
+			"usage": ["What’s the distance to the nearest subway station?", "How long does it take to get to the nearest subway station?", "How far away is the closest subway station?"],
+			"usageMeaning": ["(가장 가까운 지하철역까지의 거리를 물어봤습니다.)", "(가장 가까운 지하철역까지 얼마나 걸리는지 물어봤습니다.)", "(가장 가까운 지하철역이 얼마나 먼지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "subway",
+					"meaning": "지하철"
+				},
+				{
+					"word": "station",
+					"meaning": "역"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Can I get a prescription refill here?",
+			"correctAnswer": "여기서 처방전을 재발급받을 수 있나요?",
+			"incorrectAnswers": [
+				"처방전의 유효 기간은 얼마나 되나요?",
+				"처방전이 없으면 어떻게 하나요?",
+				"처방전의 복용 방법은 어떻게 되나요?",
+				"처방전을 분실했을 때 어떻게 하나요?",
+				"처방전 재발급에 필요한 서류는 무엇인가요?",
+				"처방전을 인터넷으로 발급받을 수 있나요?",
+				"처방전의 발급 비용은 얼마인가요?",
+				"처방전의 변경은 어떻게 하나요?",
+				"처방전 발급을 위해 예약이 필요한가요?",
+				"처방전을 통해 어떤 약을 받을 수 있나요?"
+			],
+			"usage": ["Can I have my prescription refilled here?", "Is it possible to get a refill on my prescription here?", "Can I get a new prescription filled here?"],
+			"usageMeaning": ["(여기서 처방전을 재발급받을 수 있는지 물어봤습니다.)", "(여기서 처방전을 다시 받을 수 있는지 물어봤습니다.)", "(여기서 처방전을 새로 발급받을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "prescription",
+					"meaning": "처방전"
+				},
+				{
+					"word": "refill",
+					"meaning": "재발급"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Do you offer room service?",
+			"correctAnswer": "객실 서비스가 제공되나요?",
+			"incorrectAnswers": [
+				"객실 청소는 어떻게 하나요?",
+				"객실 서비스는 어떤 것들이 있나요?",
+				"객실의 위치는 어떻게 되나요?",
+				"객실 예약은 어떻게 하나요?",
+				"객실에 어떤 편의 시설이 있나요?",
+				"객실에서 인터넷 사용은 어떻게 하나요?",
+				"객실의 가격은 얼마인가요?",
+				"객실의 체크인 시간은 언제인가요?",
+				"객실의 체크아웃 시간은 언제인가요?",
+				"객실의 소음 문제는 어떻게 해결하나요?"
+			],
+			"usage": ["Is room service available?", "Do you provide room service?", "Can I get room service here?"],
+			"usageMeaning": ["(객실 서비스가 제공되는지 물어봤습니다.)", "(여기서 객실 서비스를 제공하는지 물어봤습니다.)", "(객실 서비스가 가능한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "room service",
+					"meaning": "객실 서비스"
+				},
+				{
+					"word": "offer",
+					"meaning": "제공하다"
+				},
+				{
+					"word": "do",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Could you tell me how to get to the nearest hospital?",
+			"correctAnswer": "가장 가까운 병원까지 가는 방법을 알려주실 수 있나요?",
+			"incorrectAnswers": [
+				"병원의 전화번호를 알려주실 수 있나요?",
+				"병원의 운영 시간은 어떻게 되나요?",
+				"병원까지 택시를 예약해주실 수 있나요?",
+				"병원에서 가장 가까운 식당은 어디에 있나요?",
+				"병원의 웹사이트 주소를 알 수 있나요?",
+				"병원까지 가는 대중교통은 무엇이 있나요?",
+				"병원의 주차 공간은 어떻게 되나요?",
+				"병원의 위치를 지도에서 확인할 수 있나요?",
+				"병원에서 가장 가까운 약국은 어디에 있나요?",
+				"병원에 예약이 필요한가요?"
+			],
+			"usage": ["Can you direct me to the nearest hospital?", "How can I get to the closest hospital?", "What’s the best way to reach the nearest hospital?"],
+			"usageMeaning": ["(가장 가까운 병원까지 어떻게 가는지 물어봤습니다.)", "(가장 가까운 병원에 가는 방법을 물어봤습니다.)", "(가장 가까운 병원에 가는 최선의 방법이 무엇인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "hospital",
+					"meaning": "병원"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "get",
+					"meaning": "가다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Do you have this in a different color?",
+			"correctAnswer": "이것을 다른 색상으로 가지고 있나요?",
+			"incorrectAnswers": [
+				"이 제품의 가격은 얼마인가요?",
+				"이 제품의 사이즈는 어떻게 되나요?",
+				"이 제품의 재고가 있나요?",
+				"이 제품의 환불 정책은 어떻게 되나요?",
+				"이 제품의 배송 기간은 얼마나 되나요?",
+				"이 제품의 품질 보증은 어떻게 되나요?",
+				"이 제품을 다른 상점에서 살 수 있나요?",
+				"이 제품의 사용 방법은 무엇인가요?",
+				"이 제품의 원산지는 어디인가요?",
+				"이 제품의 할인은 언제까지 되나요?"
+			],
+			"usage": ["Can I get this item in another color?", "Is there a different color option for this?", "Do you offer this in a different shade?"],
+			"usageMeaning": ["(이것을 다른 색상으로 받을 수 있는지 물어봤습니다.)", "(이 제품의 다른 색상 옵션이 있는지 물어봤습니다.)", "(이것을 다른 색상으로 제공하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "color",
+					"meaning": "색상"
+				},
+				{
+					"word": "different",
+					"meaning": "다른"
+				},
+				{
+					"word": "have",
+					"meaning": "가지다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "Can I open a savings account here?",
+			"correctAnswer": "여기서 저축 계좌를 개설할 수 있나요?",
+			"incorrectAnswers": [
+				"저축 계좌의 이자율은 얼마인가요?",
+				"저축 계좌의 최소 개설 금액은 얼마인가요?",
+				"저축 계좌 개설에 필요한 서류는 무엇인가요?",
+				"저축 계좌의 수수료는 얼마인가요?",
+				"저축 계좌의 온라인 접근은 어떻게 하나요?",
+				"저축 계좌의 계좌 번호를 변경할 수 있나요?",
+				"저축 계좌에서 대출을 받을 수 있나요?",
+				"저축 계좌의 월별 이체 한도는 얼마인가요?",
+				"저축 계좌의 통장 분실 시 대처 방법은 무엇인가요?",
+				"저축 계좌의 고객 서비스 연락처는 무엇인가요?"
+			],
+			"usage": ["Is it possible to open a savings account here?", "Can I set up a savings account at this branch?", "Do you offer savings accounts at this location?"],
+			"usageMeaning": ["(여기서 저축 계좌를 개설할 수 있는지 물어봤습니다.)", "(이 지점에서 저축 계좌를 개설할 수 있는지 물어봤습니다.)", "(이 장소에서 저축 계좌를 제공하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				},
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "here",
+					"meaning": "여기서"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "What time is the checkout deadline?",
+			"correctAnswer": "체크아웃 마감 시간은 몇 시인가요?",
+			"incorrectAnswers": [
+				"체크아웃을 연장할 수 있나요?",
+				"체크아웃 시 추가 요금이 있나요?",
+				"체크아웃 절차는 어떻게 되나요?",
+				"체크아웃 후 짐을 보관할 수 있나요?",
+				"체크아웃 시 잔금을 결제해야 하나요?",
+				"체크아웃 마감 시간은 날짜에 따라 다르나요?",
+				"체크아웃 시 비밀번호를 입력해야 하나요?",
+				"체크아웃 후에 추가 서비스가 제공되나요?",
+				"체크아웃 시 반납해야 하는 물품이 있나요?",
+				"체크아웃 시 인포메이션 데스크를 방문해야 하나요?"
+			],
+			"usage": ["What’s the latest time I can check out?", "When is the latest check-out time?", "What is the deadline for checking out?"],
+			"usageMeaning": ["(최신 체크아웃 시간을 물어봤습니다.)", "(체크아웃의 마지막 시간을 물어봤습니다.)", "(체크아웃 마감 시간이 언제인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "checkout",
+					"meaning": "체크아웃"
+				},
+				{
+					"word": "deadline",
+					"meaning": "마감 시간"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could you please put me through to Mr. Smith?",
+			"correctAnswer": "스미스 씨에게 전환해 주시겠어요?",
+			"incorrectAnswers": [
+				"스미스 씨의 이메일 주소를 알려주실 수 있나요?",
+				"스미스 씨와 직접 통화할 수 있나요?",
+				"스미스 씨의 전화번호를 알려주실 수 있나요?",
+				"스미스 씨의 사무실 위치를 알 수 있나요?",
+				"스미스 씨가 회의 중인지 확인해 주실 수 있나요?",
+				"스미스 씨의 개인 연락처를 알 수 있나요?",
+				"스미스 씨가 외출 중인지 확인해 주실 수 있나요?",
+				"스미스 씨의 업무 시간은 어떻게 되나요?",
+				"스미스 씨가 전화에 응답할 수 있는지 확인해 주실 수 있나요?",
+				"스미스 씨의 비서에게 전환해 주시겠어요?"
+			],
+			"usage": ["Can you transfer me to Mr. Smith?", "Please connect me with Mr. Smith.", "Would you be able to put me through to Mr. Smith?"],
+			"usageMeaning": ["(스미스 씨에게 전환해 달라고 요청했습니다.)", "(스미스 씨와 연결해 달라고 요청했습니다.)", "(스미스 씨에게 연결해 주실 수 있나요? 라고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "put through",
+					"meaning": "전환하다"
+				},
+				{
+					"word": "Mr.",
+					"meaning": "씨"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "What should I do if there's a fire in the building?",
+			"correctAnswer": "건물에 불이 나면 어떻게 해야 하나요?",
+			"incorrectAnswers": [
+				"건물의 소화기는 어디에 있나요?",
+				"건물에 화재 경보기가 있나요?",
+				"건물에 화재 훈련이 자주 있나요?",
+				"건물의 비상 대피 경로는 어디인가요?",
+				"건물의 화재 대피 안내는 어떻게 되나요?",
+				"건물의 비상 연락처는 무엇인가요?",
+				"건물의 소방서와의 연락 방법은 무엇인가요?",
+				"건물의 비상 탈출구는 어디에 있나요?",
+				"건물에 화재 시 알림 시스템이 있나요?",
+				"건물의 화재 안전 교육은 어떻게 되나요?"
+			],
+			"usage": ["What actions should I take if there’s a fire?", "What is the procedure for dealing with a fire in the building?", "How should I respond if there’s a fire emergency?"],
+			"usageMeaning": ["(건물에 불이 났을 때 어떤 조치를 취해야 하는지 물어봤습니다.)", "(건물에 화재가 발생했을 때의 절차를 물어봤습니다.)", "(화재 비상 상황에 어떻게 대응해야 하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "fire",
+					"meaning": "불"
+				},
+				{
+					"word": "building",
+					"meaning": "건물"
+				},
+				{
+					"word": "do",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I have the check, please?",
+			"correctAnswer": "계산서 좀 주시겠어요?",
+			"incorrectAnswers": [
+				"이 식당의 특별 메뉴는 무엇인가요?",
+				"여기서 식사할 수 있나요?",
+				"이 음식의 조리법을 알 수 있나요?",
+				"이 식당의 예약이 가능한가요?",
+				"이 식당의 분위기는 어떤가요?",
+				"이 식당의 운영 시간은 어떻게 되나요?",
+				"이 음식의 재료를 알려주실 수 있나요?",
+				"이 식당의 위치는 어디인가요?",
+				"이 식당의 주차 공간은 어떻게 되나요?",
+				"이 식당의 인기 메뉴는 무엇인가요?"
+			],
+			"usage": ["Can I get the bill, please?", "May I have the check, please?", "Could you bring me the check?"],
+			"usageMeaning": ["(계산서를 부탁한다고 요청했습니다.)", "(계산서를 주시길 부탁했습니다.)", "(계산서를 가져다 달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check",
+					"meaning": "계산서"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				},
+				{
+					"word": "have",
+					"meaning": "가지다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How long does it take to get to the train station from here?",
+			"correctAnswer": "여기서 기차역까지 가는 데 얼마나 걸리나요?",
+			"incorrectAnswers": [
+				"기차역의 운영 시간은 언제인가요?",
+				"기차역까지의 거리와 비용은 어떻게 되나요?",
+				"기차역에서 가장 가까운 호텔은 어디인가요?",
+				"기차역에 주차 공간이 있나요?",
+				"기차역의 혼잡 시간은 언제인가요?",
+				"기차역의 시설에 대해 알 수 있나요?",
+				"기차역에서 출발하는 열차의 시간표는 어떻게 되나요?",
+				"기차역의 역사적인 배경은 무엇인가요?",
+				"기차역에서 제공하는 서비스는 무엇인가요?",
+				"기차역의 주변 관광 명소는 어디에 있나요?"
+			],
+			"usage": ["How much time does it take to reach the train station from here?", "What’s the travel time to the train station from this location?", "How long will it take to get to the train station from here?"],
+			"usageMeaning": ["(여기서 기차역까지 가는 데 걸리는 시간을 물어봤습니다.)", "(이 위치에서 기차역까지의 이동 시간을 물어봤습니다.)", "(여기서 기차역까지 가는 데 얼마나 걸리는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "train station",
+					"meaning": "기차역"
+				},
+				{
+					"word": "take",
+					"meaning": "걸리다"
+				},
+				{
+					"word": "get",
+					"meaning": "가다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I return this item if it’s not what I expected?",
+			"correctAnswer": "이것이 기대한 것과 다르면 반품할 수 있나요?",
+			"incorrectAnswers": [
+				"이 제품의 교환 정책은 어떻게 되나요?",
+				"이 제품의 환불 절차는 무엇인가요?",
+				"이 제품의 구매 영수증은 어디서 받나요?",
+				"이 제품의 품질 보증 기간은 얼마인가요?",
+				"이 제품의 보증서가 필요한가요?",
+				"이 제품의 수리 서비스는 어떻게 되나요?",
+				"이 제품의 사용 방법은 무엇인가요?",
+				"이 제품의 세금은 얼마나 되나요?",
+				"이 제품의 할인 혜택은 무엇인가요?",
+				"이 제품의 브랜드는 무엇인가요?"
+			],
+			"usage": ["Can I return this item if it doesn’t meet my expectations?", "Is it possible to return this if it’s not as I thought?", "Can I get a refund if this item isn’t what I expected?"],
+			"usageMeaning": ["(이것이 예상과 다르면 반품할 수 있는지 물어봤습니다.)", "(이것이 생각과 다르면 반품이 가능한지 물어봤습니다.)", "(이것이 예상과 다를 경우 환불을 받을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "return",
+					"meaning": "반품하다"
+				},
+				{
+					"word": "item",
+					"meaning": "제품"
+				},
+				{
+					"word": "expected",
+					"meaning": "기대한"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Can I get a prescription for these medications?",
+			"correctAnswer": "이 약들에 대한 처방전을 받을 수 있나요?",
+			"incorrectAnswers": [
+				"이 약들의 복용 방법은 어떻게 되나요?",
+				"이 약들에 대한 부작용은 무엇인가요?",
+				"이 약들을 구매할 수 있는 약국은 어디에 있나요?",
+				"이 약들의 가격은 얼마인가요?",
+				"이 약들에 대한 보험 적용은 어떻게 되나요?",
+				"이 약들을 복용하기 전 주의사항은 무엇인가요?",
+				"이 약들에 대한 의사 상담은 어떻게 하나요?",
+				"이 약들을 처방받기 위한 절차는 무엇인가요?",
+				"이 약들에 대한 정보는 어디서 찾을 수 있나요?",
+				"이 약들에 대한 알레르기 테스트가 필요한가요?"
+			],
+			"usage": ["Can I obtain a prescription for these medicines?", "May I get a prescription for these drugs?", "Can you write me a prescription for these medications?"],
+			"usageMeaning": ["(이 약들에 대한 처방전을 받을 수 있는지 물어봤습니다.)", "(이 약들에 대한 처방전을 받을 수 있는지 물어봤습니다.)", "(이 약들에 대한 처방전을 써주실 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "prescription",
+					"meaning": "처방전"
+				},
+				{
+					"word": "medications",
+					"meaning": "약들"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "What documents are required to apply for a loan?",
+			"correctAnswer": "대출을 신청하기 위해 어떤 서류가 필요한가요?",
+			"incorrectAnswers": [
+				"대출의 이자율은 얼마인가요?",
+				"대출의 상환 기간은 어떻게 되나요?",
+				"대출 신청 절차는 어떻게 되나요?",
+				"대출의 승인 조건은 무엇인가요?",
+				"대출의 최대 금액은 얼마인가요?",
+				"대출 신청서 작성 방법은 무엇인가요?",
+				"대출의 보증인은 누구인가요?",
+				"대출의 상환 방법은 무엇인가요?",
+				"대출의 연체 시 처벌은 어떻게 되나요?",
+				"대출의 조기 상환 시 혜택은 무엇인가요?"
+			],
+			"usage": ["What papers do I need to apply for a loan?", "Can you tell me the documents needed for a loan application?", "What are the requirements for applying for a loan?"],
+			"usageMeaning": ["(대출을 신청하기 위해 필요한 서류를 물어봤습니다.)", "(대출 신청에 필요한 서류를 알려달라고 요청했습니다.)", "(대출 신청에 필요한 요구 사항이 무엇인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "documents",
+					"meaning": "서류"
+				},
+				{
+					"word": "required",
+					"meaning": "필요한"
+				},
+				{
+					"word": "apply",
+					"meaning": "신청하다"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Can I get a late checkout?",
+			"correctAnswer": "늦은 체크아웃이 가능한가요?",
+			"incorrectAnswers": [
+				"체크아웃은 몇 시까지 해야 하나요?",
+				"체크아웃 시 추가 비용이 발생하나요?",
+				"체크아웃 전 짐을 맡길 수 있나요?",
+				"체크아웃 후 물품을 반납해야 하나요?",
+				"체크아웃 시 신분증을 제시해야 하나요?",
+				"체크아웃 후에도 시설을 이용할 수 있나요?",
+				"체크아웃 시 청구서에 어떤 항목이 포함되나요?",
+				"체크아웃 전 방 청소가 이루어지나요?",
+				"체크아웃 시 객실 키를 반납해야 하나요?",
+				"체크아웃 후 짐을 보관할 수 있나요?"
+			],
+			"usage": ["Can I arrange for a late checkout?", "Is it possible to have a late checkout?", "Can I request a late checkout?"],
+			"usageMeaning": ["(늦은 체크아웃을 요청할 수 있는지 물어봤습니다.)", "(늦은 체크아웃이 가능한지 물어봤습니다.)", "(늦은 체크아웃을 요청할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "late",
+					"meaning": "늦은"
+				},
+				{
+					"word": "checkout",
+					"meaning": "체크아웃"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "버스 이용하기",
+			"question": "Where can I catch the bus to the airport?",
+			"correctAnswer": "공항행 버스를 어디서 탈 수 있나요?",
+			"incorrectAnswers": [
+				"공항까지 가는 버스의 요금은 얼마인가요?",
+				"공항행 버스의 시간표는 어떻게 되나요?",
+				"공항까지 가는 버스의 정류장은 어디에 있나요?",
+				"공항행 버스의 출발 시간은 언제인가요?",
+				"공항행 버스의 종착지는 어디인가요?",
+				"공항행 버스의 좌석 예약은 어떻게 하나요?",
+				"공항행 버스의 경로는 어떻게 되나요?",
+				"공항행 버스의 승차 규정은 무엇인가요?",
+				"공항행 버스의 서비스는 어떤가요?",
+				"공항행 버스의 연료비는 얼마인가요?"
+			],
+			"usage": ["Where can I board the airport bus?", "Where do I catch the airport bus?", "Can you tell me where the airport bus stop is?"],
+			"usageMeaning": ["(공항행 버스를 탈 수 있는 위치를 물어봤습니다.)", "(공항행 버스를 어디서 탈 수 있는지 물어봤습니다.)", "(공항행 버스 정류장이 어디인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "catch",
+					"meaning": "타다"
+				},
+				{
+					"word": "bus",
+					"meaning": "버스"
+				},
+				{
+					"word": "airport",
+					"meaning": "공항"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I get a glass of water?",
+			"correctAnswer": "물 한 잔 주실 수 있나요?",
+			"incorrectAnswers": [
+				"여기서 음식을 주문할 수 있나요?",
+				"음료수는 어떤 종류가 있나요?",
+				"식사 메뉴를 추천해 주시겠어요?",
+				"이 식당의 유명한 요리는 무엇인가요?",
+				"음식은 얼마에요?",
+				"물 외에 다른 음료도 있나요?",
+				"음식을 포장할 수 있나요?",
+				"여기서 식사를 할 수 있나요?",
+				"식사 후 디저트는 어떤 게 있나요?",
+				"음식은 직접 가져가야 하나요?"
+			],
+			"usage": ["Can I have a glass of water?", "Could I get a glass of water, please?", "May I get some water?"],
+			"usageMeaning": ["(물 한 잔 달라고 요청했습니다.)", "(물 한 잔을 주실 수 있는지 물어봤습니다.)", "(물 좀 받을 수 있을까요? 라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "glass",
+					"meaning": "잔"
+				},
+				{
+					"word": "water",
+					"meaning": "물"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Can you tell me the way to the nearest subway station?",
+			"correctAnswer": "가장 가까운 지하철 역으로 가는 길을 알려주실 수 있나요?",
+			"incorrectAnswers": [
+				"지하철의 운행 시간은 어떻게 되나요?",
+				"지하철 역의 주소를 알 수 있나요?",
+				"지하철 역까지의 거리와 소요 시간은 얼마인가요?",
+				"지하철 역 근처에 좋은 음식점이 있나요?",
+				"지하철 역의 시설에 대해 알 수 있나요?",
+				"지하철 역에서 가장 가까운 병원은 어디인가요?",
+				"지하철 역의 역사에 대해 알 수 있나요?",
+				"지하철 역에서 대중교통을 이용할 수 있나요?",
+				"지하철 역 근처의 호텔을 추천해 주시겠어요?",
+				"지하철 역에서 택시를 탈 수 있나요?"
+			],
+			"usage": ["Could you show me how to get to the nearest subway station?", "Can you direct me to the closest subway station?", "Where is the nearest subway station?"],
+			"usageMeaning": ["(가장 가까운 지하철 역으로 가는 방법을 알려달라고 했습니다.)", "(가장 가까운 지하철 역으로 가는 길을 알려주실 수 있는지 물어봤습니다.)", "(가장 가까운 지하철 역이 어디인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "subway station",
+					"meaning": "지하철 역"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "way",
+					"meaning": "길"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "How often should I take this medicine?",
+			"correctAnswer": "이 약은 얼마나 자주 복용해야 하나요?",
+			"incorrectAnswers": [
+				"이 약의 부작용은 무엇인가요?",
+				"이 약의 가격은 얼마인가요?",
+				"이 약을 언제 복용해야 하나요?",
+				"이 약의 복용 방법은 무엇인가요?",
+				"이 약을 복용하는 동안 주의사항은 무엇인가요?",
+				"이 약의 복용 기간은 얼마나 되나요?",
+				"이 약을 처방받기 위한 절차는 무엇인가요?",
+				"이 약의 효과는 무엇인가요?",
+				"이 약을 복용하지 않으면 어떻게 되나요?",
+				"이 약에 대한 알레르기 반응은 무엇인가요?"
+			],
+			"usage": ["How frequently should I take this medication?", "What is the dosage schedule for this medicine?", "How many times a day should I take this medication?"],
+			"usageMeaning": ["(이 약을 얼마나 자주 복용해야 하는지 물어봤습니다.)", "(이 약의 복용 일정을 물어봤습니다.)", "(이 약을 하루에 몇 번 복용해야 하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "medicine",
+					"meaning": "약"
+				},
+				{
+					"word": "often",
+					"meaning": "자주"
+				},
+				{
+					"word": "take",
+					"meaning": "복용하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "What is the interest rate for a savings account?",
+			"correctAnswer": "저축 계좌의 이자율은 얼마인가요?",
+			"incorrectAnswers": [
+				"저축 계좌의 최소 잔고는 얼마인가요?",
+				"저축 계좌의 개설 절차는 무엇인가요?",
+				"저축 계좌의 수수료는 얼마인가요?",
+				"저축 계좌의 입출금 제한은 있나요?",
+				"저축 계좌의 통장 발급 방법은 무엇인가요?",
+				"저축 계좌의 이자 지급 주기는 어떻게 되나요?",
+				"저축 계좌의 연간 한도는 얼마인가요?",
+				"저축 계좌의 온라인 뱅킹 서비스는 어떻게 되나요?",
+				"저축 계좌의 외화 환전 서비스는 있나요?",
+				"저축 계좌의 안전성은 어떻게 되나요?"
+			],
+			"usage": ["What’s the rate of interest for a savings account?", "How much interest does a savings account earn?", "Can you tell me the interest rate for a savings account?"],
+			"usageMeaning": ["(저축 계좌의 이자율이 얼마인지 물어봤습니다.)", "(저축 계좌의 이자율이 얼마나 되는지 물어봤습니다.)", "(저축 계좌의 이자율을 알려달라고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "interest rate",
+					"meaning": "이자율"
+				},
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				},
+				{
+					"word": "rate",
+					"meaning": "비율"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Do you offer free Wi-Fi in the rooms?",
+			"correctAnswer": "객실에서 무료 Wi-Fi를 제공하나요?",
+			"incorrectAnswers": [
+				"객실의 TV 채널은 어떤 것들이 있나요?",
+				"객실의 무료 아침 식사는 무엇인가요?",
+				"객실의 위치는 어떤가요?",
+				"객실의 요금은 얼마인가요?",
+				"객실의 청소 서비스는 어떻게 되나요?",
+				"객실에서 추가로 제공되는 편의시설은 무엇인가요?",
+				"객실에서 주차는 어떻게 하나요?",
+				"객실의 체크아웃 시간은 몇 시인가요?",
+				"객실에서의 룸 서비스는 어떻게 이용하나요?",
+				"객실의 에어컨 조절 방법은 무엇인가요?"
+			],
+			"usage": ["Is Wi-Fi included in the room rate?", "Do you provide free internet in the rooms?", "Is there complimentary Wi-Fi in the guest rooms?"],
+			"usageMeaning": ["(객실에서 무료 Wi-Fi를 제공하는지 물어봤습니다.)", "(객실에 무료 인터넷이 포함되어 있는지 물어봤습니다.)", "(객실에 무료 Wi-Fi가 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "Wi-Fi",
+					"meaning": "와이파이"
+				},
+				{
+					"word": "offer",
+					"meaning": "제공하다"
+				},
+				{
+					"word": "room",
+					"meaning": "객실"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where can I find the check-in counter?",
+			"correctAnswer": "체크인 카운터는 어디에 있나요?",
+			"incorrectAnswers": [
+				"체크인 카운터의 운영 시간은 무엇인가요?",
+				"체크인 카운터에서 짐을 맡길 수 있나요?",
+				"체크인 카운터의 전화번호는 무엇인가요?",
+				"체크인 카운터에서 발권을 도와주나요?",
+				"체크인 카운터의 위치는 무엇인가요?",
+				"체크인 카운터에서 보안 검사를 하나요?",
+				"체크인 카운터에서의 대기 시간은 얼마인가요?",
+				"체크인 카운터의 직원들은 영어를 하나요?",
+				"체크인 카운터에서 항공편 정보를 확인할 수 있나요?",
+				"체크인 카운터의 서비스 시간은 어떻게 되나요?"
+			],
+			"usage": ["Where is the check-in desk?", "Can you tell me where the check-in counter is?", "Where can I locate the check-in counter?"],
+			"usageMeaning": ["(체크인 카운터의 위치를 물어봤습니다.)", "(체크인 카운터가 어디에 있는지 물어봤습니다.)", "(체크인 카운터를 찾을 수 있는 위치를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check-in counter",
+					"meaning": "체크인 카운터"
+				},
+				{
+					"word": "find",
+					"meaning": "찾다"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Do you have any rooms available?",
+			"correctAnswer": "빈 객실이 있나요?",
+			"incorrectAnswers": [
+				"객실의 요금은 얼마인가요?",
+				"객실의 종류에는 어떤 것들이 있나요?",
+				"객실의 체크인 시간은 몇 시인가요?",
+				"객실의 체크아웃 시간은 몇 시인가요?",
+				"객실에서 제공되는 서비스는 무엇인가요?",
+				"객실의 위치는 어떤가요?",
+				"객실의 시설에는 어떤 것들이 있나요?",
+				"객실의 청소 서비스는 어떻게 되나요?",
+				"객실 예약 시 필요한 서류는 무엇인가요?",
+				"객실의 보안 시스템은 어떻게 되나요?"
+			],
+			"usage": ["Are there any rooms free?", "Do you have any vacant rooms?", "Can I book a room today?"],
+			"usageMeaning": ["(빈 객실이 있는지 물어봤습니다.)", "(빈 객실이 있는지 물어봤습니다.)", "(오늘 객실을 예약할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "rooms",
+					"meaning": "객실"
+				},
+				{
+					"word": "available",
+					"meaning": "빈"
+				},
+				{
+					"word": "any",
+					"meaning": "어떤"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How far is the nearest bus stop from here?",
+			"correctAnswer": "여기서 가장 가까운 버스 정류장까지 얼마나 먼가요?",
+			"incorrectAnswers": [
+				"버스 정류장까지 가는 길은 어떻게 되나요?",
+				"버스 정류장의 위치는 어디인가요?",
+				"버스 정류장에서 시내까지 가는 방법은 무엇인가요?",
+				"버스 정류장까지 걸리는 시간은 얼마나 되나요?",
+				"버스 정류장에서 대중교통을 이용할 수 있나요?",
+				"버스 정류장에서 가장 가까운 음식점은 어디인가요?",
+				"버스 정류장 근처에 주차 공간이 있나요?",
+				"버스 정류장에 대한 정보는 어디에서 찾을 수 있나요?",
+				"버스 정류장 주변의 안전은 어떤가요?",
+				"버스 정류장에서 공항까지 가는 방법은 무엇인가요?"
+			],
+			"usage": ["How long does it take to get to the nearest bus stop?", "What’s the distance to the closest bus stop?", "How far away is the nearest bus stop?"],
+			"usageMeaning": ["(여기서 가장 가까운 버스 정류장까지 거리가 얼마나 되는지 물어봤습니다.)", "(가장 가까운 버스 정류장까지의 거리를 물어봤습니다.)", "(가장 가까운 버스 정류장까지 얼마나 먼지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "bus stop",
+					"meaning": "버스 정류장"
+				},
+				{
+					"word": "far",
+					"meaning": "멀다"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "Who should I contact in case of an emergency?",
+			"correctAnswer": "긴급 상황 시 누구에게 연락해야 하나요?",
+			"incorrectAnswers": [
+				"긴급 상황 발생 시 대처 방법은 무엇인가요?",
+				"긴급 상황 시 도움을 요청할 수 있는 기관은 어디인가요?",
+				"긴급 상황 시 필요한 연락처는 무엇인가요?",
+				"긴급 상황에서의 응급 처치 방법은 무엇인가요?",
+				"긴급 상황 시 가장 가까운 병원은 어디인가요?",
+				"긴급 상황에서의 안전 지침은 무엇인가요?",
+				"긴급 상황 발생 시 해야 할 일은 무엇인가요?",
+				"긴급 상황 시 신고할 수 있는 전화번호는 무엇인가요?",
+				"긴급 상황에서의 대처 방법은 무엇인가요?",
+				"긴급 상황 시 사용할 수 있는 비상 도구는 무엇인가요?"
+			],
+			"usage": ["Who should I call in an emergency?", "Who is the contact person for emergencies?", "In case of an emergency, who should I reach out to?"],
+			"usageMeaning": ["(긴급 상황에서 누구에게 연락해야 하는지 물어봤습니다.)", "(긴급 상황 시 연락할 사람을 물어봤습니다.)", "(긴급 상황 시 연락할 사람을 찾고 있습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "contact",
+					"meaning": "연락하다"
+				},
+				{
+					"word": "emergency",
+					"meaning": "긴급 상황"
+				},
+				{
+					"word": "who",
+					"meaning": "누구"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I leave a message for Mr. Johnson?",
+			"correctAnswer": "존슨 씨에게 메시지를 남길 수 있나요?",
+			"incorrectAnswers": [
+				"존슨 씨의 이메일 주소를 알 수 있나요?",
+				"존슨 씨의 전화번호를 알 수 있나요?",
+				"존슨 씨에게 직접 전화할 수 있나요?",
+				"존슨 씨와의 통화가 가능한 시간은 언제인가요?",
+				"존슨 씨의 사무실 위치는 어디인가요?",
+				"존슨 씨와 통화 중에 메시지를 남길 수 있나요?",
+				"존슨 씨에게 메시지를 보낼 수 있는 방법은 무엇인가요?",
+				"존슨 씨의 우편 주소는 무엇인가요?",
+				"존슨 씨에게 메시지를 남기는 방법은 무엇인가요?",
+				"존슨 씨가 회의 중인지 알 수 있나요?"
+			],
+			"usage": ["May I leave a message for Mr. Johnson?", "Can I leave a voicemail for Mr. Johnson?", "Is it possible to leave a message for Mr. Johnson?"],
+			"usageMeaning": ["(존슨 씨에게 메시지를 남길 수 있는지 물어봤습니다.)", "(존슨 씨에게 메시지를 남길 수 있는지 물어봤습니다.)", "(존슨 씨에게 메시지를 남길 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "leave",
+					"meaning": "남기다"
+				},
+				{
+					"word": "message",
+					"meaning": "메시지"
+				},
+				{
+					"word": "for",
+					"meaning": "위한"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Could you tell me how to get to the nearest subway station?",
+			"correctAnswer": "가장 가까운 지하철역까지 가는 방법을 알려주실 수 있나요?",
+			"incorrectAnswers": [
+				"지하철역의 위치가 어디인가요?",
+				"지하철역에서 시내까지 가는 방법은 무엇인가요?",
+				"지하철역에서 버스 정류장까지의 거리 얼마나 되나요?",
+				"지하철역에 주차 공간이 있나요?",
+				"지하철역의 운영 시간은 어떻게 되나요?",
+				"지하철역에서 공항까지 가는 방법은 무엇인가요?",
+				"지하철역 주변의 음식점은 어디인가요?",
+				"지하철역의 요금은 얼마인가요?",
+				"지하철역에서 택시를 탈 수 있나요?",
+				"지하철역의 역사적 배경은 무엇인가요?"
+			],
+			"usage": ["Can you show me the way to the nearest subway station?", "How can I reach the nearest subway station?", "What’s the route to the closest subway station?"],
+			"usageMeaning": ["(가장 가까운 지하철역까지 가는 방법을 물어봤습니다.)", "(가장 가까운 지하철역으로 가는 방법을 알려달라고 요청했습니다.)", "(가장 가까운 지하철역까지의 경로를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "subway station",
+					"meaning": "지하철역"
+				},
+				{
+					"word": "get",
+					"meaning": "가다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Is this item on sale?",
+			"correctAnswer": "이 물건은 세일 중인가요?",
+			"incorrectAnswers": [
+				"이 물건의 가격은 얼마인가요?",
+				"이 물건의 색상은 어떤가요?",
+				"이 물건의 재질은 무엇인가요?",
+				"이 물건의 원산지는 어디인가요?",
+				"이 물건의 보증 기간은 얼마인가요?",
+				"이 물건의 크기는 어떤가요?",
+				"이 물건을 다른 매장에서 구입할 수 있나요?",
+				"이 물건에 대한 리뷰는 어떻게 되나요?",
+				"이 물건의 판매 시작일은 언제인가요?",
+				"이 물건의 사용법은 무엇인가요?"
+			],
+			"usage": ["Is this product discounted?", "Is there a sale on this item?", "Is this item reduced in price?"],
+			"usageMeaning": ["(이 물건이 할인 중인지 물어봤습니다.)", "(이 물건이 세일 중인지 물어봤습니다.)", "(이 물건이 가격이 줄어들었는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "item",
+					"meaning": "물건"
+				},
+				{
+					"word": "sale",
+					"meaning": "세일"
+				},
+				{
+					"word": "on",
+					"meaning": "중인"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "Can I withdraw cash from my savings account?",
+			"correctAnswer": "저축 계좌에서 현금을 인출할 수 있나요?",
+			"incorrectAnswers": [
+				"저축 계좌의 잔액은 얼마인가요?",
+				"저축 계좌를 개설하려면 어떻게 해야 하나요?",
+				"저축 계좌의 이자는 얼마인가요?",
+				"저축 계좌를 온라인으로 관리할 수 있나요?",
+				"저축 계좌에서 대출을 받을 수 있나요?",
+				"저축 계좌의 최소 잔액은 얼마인가요?",
+				"저축 계좌에 입금할 수 있는 방법은 무엇인가요?",
+				"저축 계좌에서 외환 거래를 할 수 있나요?",
+				"저축 계좌의 수수료는 얼마인가요?",
+				"저축 계좌의 통장을 잃어버렸을 때는 어떻게 해야 하나요?"
+			],
+			"usage": ["Can I take out money from my savings account?", "Is it possible to withdraw funds from my savings account?", "May I withdraw cash from my savings account?"],
+			"usageMeaning": ["(저축 계좌에서 현금을 인출할 수 있는지 물어봤습니다.)", "(저축 계좌에서 자금을 인출할 수 있는지 물어봤습니다.)", "(저축 계좌에서 현금을 인출할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "withdraw",
+					"meaning": "인출하다"
+				},
+				{
+					"word": "cash",
+					"meaning": "현금"
+				},
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "May I leave a message for Mr. Johnson?",
+			"correctAnswer": "존슨 씨에게 메시지를 남길 수 있나요?",
+			"incorrectAnswers": [
+				"존슨 씨의 전화번호를 알 수 있나요?",
+				"존슨 씨에게 직접 전화할 수 있나요?",
+				"존슨 씨와의 통화가 가능한 시간은 언제인가요?",
+				"존슨 씨의 사무실 위치는 어디인가요?",
+				"존슨 씨와 통화 중에 메시지를 남길 수 있나요?",
+				"존슨 씨에게 메시지를 보낼 수 있는 방법은 무엇인가요?",
+				"존슨 씨의 우편 주소는 무엇인가요?",
+				"존슨 씨에게 메시지를 남기는 방법은 무엇인가요?",
+				"존슨 씨가 회의 중인지 알 수 있나요?",
+				"존슨 씨의 이메일 주소는 무엇인가요?"
+			],
+			"usage": ["Can I leave a voicemail for Mr. Johnson?", "Is it possible to leave a message for Mr. Johnson?", "May I record a message for Mr. Johnson?"],
+			"usageMeaning": ["(존슨 씨에게 메시지를 남길 수 있는지 물어봤습니다.)", "(존슨 씨에게 메시지를 남길 수 있는지 물어봤습니다.)", "(존슨 씨에게 메시지를 남길 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "leave",
+					"meaning": "남기다"
+				},
+				{
+					"word": "message",
+					"meaning": "메시지"
+				},
+				{
+					"word": "for",
+					"meaning": "위한"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "Where is the nearest check-in counter?",
+			"correctAnswer": "가장 가까운 체크인 카운터는 어디에 있나요?",
+			"incorrectAnswers": [
+				"체크인 카운터의 운영 시간은 어떻게 되나요?",
+				"체크인 카운터에서 수하물 검사는 어떻게 하나요?",
+				"체크인 카운터까지 가는 방법은 무엇인가요?",
+				"체크인 카운터의 전화번호는 무엇인가요?",
+				"체크인 카운터에서 비행기 표를 재발급 받을 수 있나요?",
+				"체크인 카운터의 위치를 알려주는 표지판이 있나요?",
+				"체크인 카운터에서 좌석을 업그레이드할 수 있나요?",
+				"체크인 카운터에서 여권 검사를 받는 방법은 무엇인가요?",
+				"체크인 카운터에서 음식 주문이 가능한가요?",
+				"체크인 카운터에서 환전할 수 있나요?"
+			],
+			"usage": ["Where can I find the nearest check-in desk?", "Can you tell me where the closest check-in counter is?", "What’s the location of the nearest check-in counter?"],
+			"usageMeaning": ["(가장 가까운 체크인 카운터의 위치를 물어봤습니다.)", "(가장 가까운 체크인 카운터가 어디에 있는지 물어봤습니다.)", "(가장 가까운 체크인 카운터의 위치를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "check-in counter",
+					"meaning": "체크인 카운터"
+				},
+				{
+					"word": "where",
+					"meaning": "어디"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Is this prescription covered by insurance?",
+			"correctAnswer": "이 처방전은 보험으로 커버되나요?",
+			"incorrectAnswers": [
+				"처방전의 비용은 얼마인가요?",
+				"보험 없이 이 처방전을 사용할 수 있나요?",
+				"이 처방전의 유효 기간은 얼마인가요?",
+				"이 처방전을 다른 약국에서도 사용할 수 있나요?",
+				"이 처방전의 약은 어떤 것인가요?",
+				"보험으로 커버되는 약은 무엇인가요?",
+				"처방전을 사용하기 전에 확인해야 할 사항은 무엇인가요?",
+				"이 처방전을 온라인으로 받을 수 있나요?",
+				"처방전을 잃어버리면 어떻게 하나요?",
+				"이 처방전을 처리하는 데 얼마나 걸리나요?"
+			],
+			"usage": ["Is this medication covered by my insurance?", "Will my insurance pay for this prescription?", "Is this prescription included in my insurance plan?"],
+			"usageMeaning": ["(이 처방전이 보험으로 커버되는지 물어봤습니다.)", "(이 처방전이 보험으로 지불되는지 물어봤습니다.)", "(이 처방전이 보험 계획에 포함되는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "prescription",
+					"meaning": "처방전"
+				},
+				{
+					"word": "covered",
+					"meaning": "커버되다"
+				},
+				{
+					"word": "insurance",
+					"meaning": "보험"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I try this on?",
+			"correctAnswer": "이것을 입어볼 수 있나요?",
+			"incorrectAnswers": [
+				"이 옷의 가격은 얼마인가요?",
+				"이 옷의 사이즈는 어떤가요?",
+				"이 옷의 색상은 무엇인가요?",
+				"이 옷을 구입하면 할인이 있나요?",
+				"이 옷의 재질은 무엇인가요?",
+				"이 옷의 원산지는 어디인가요?",
+				"이 옷의 세탁 방법은 어떻게 되나요?",
+				"이 옷의 디자인은 어떻게 되나요?",
+				"이 옷을 온라인으로 구입할 수 있나요?",
+				"이 옷을 교환할 수 있나요?"
+			],
+			"usage": ["Can I try this garment on?", "May I try this clothing on?", "Is it possible to try this on?"],
+			"usageMeaning": ["(이 옷을 입어볼 수 있는지 물어봤습니다.)", "(이 의류를 입어볼 수 있는지 물어봤습니다.)", "(이것을 입어볼 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "try on",
+					"meaning": "입어보다"
+				},
+				{
+					"word": "this",
+					"meaning": "이것"
+				},
+				{
+					"word": "can",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I get a table for two, please?",
+			"correctAnswer": "두 명 자리 예약할 수 있을까요?",
+			"incorrectAnswers": [
+				"여기서 식사할 수 있나요?",
+				"테이블을 예약하려면 어떻게 하나요?",
+				"식사를 위해 몇 명이 필요한가요?",
+				"테이블을 당일에 예약할 수 있나요?",
+				"테이블에 대한 가격은 얼마인가요?",
+				"테이블 예약을 취소하려면 어떻게 하나요?",
+				"테이블의 위치를 선택할 수 있나요?",
+				"테이블에 음식이 준비되어 있나요?",
+				"테이블의 크기는 어떤가요?",
+				"테이블에 특별한 요구사항을 말할 수 있나요?"
+			],
+			"usage": ["Could we have a table for two, please?", "I’d like to reserve a table for two.", "Is it possible to get a table for two?"],
+			"usageMeaning": ["(두 명 자리를 예약할 수 있는지 물어봤습니다.)", "(두 명 자리를 예약하고 싶다고 말했습니다.)", "(두 명 자리를 받을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "table",
+					"meaning": "테이블"
+				},
+				{
+					"word": "for",
+					"meaning": "위한"
+				},
+				{
+					"word": "two",
+					"meaning": "두 명"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How long does it take to get to the train station?",
+			"correctAnswer": "기차역까지 가는 데 얼마나 걸리나요?",
+			"incorrectAnswers": [
+				"기차역의 위치는 어디인가요?",
+				"기차역에서 시내까지의 거리는 얼마인가요?",
+				"기차역까지의 교통편은 어떻게 되나요?",
+				"기차역까지 가는 데 어떤 방법이 가장 빠른가요?",
+				"기차역에 주차 공간이 있나요?",
+				"기차역에서 공항까지의 시간은 얼마나 걸리나요?",
+				"기차역까지 가는 버스는 몇 시에 출발하나요?",
+				"기차역의 운영 시간은 어떻게 되나요?",
+				"기차역의 역사는 어떻게 되나요?",
+				"기차역까지 가는 택시 요금은 얼마인가요?"
+			],
+			"usage": ["How much time does it take to reach the train station?", "What’s the travel time to the train station?", "How long to get to the train station?"],
+			"usageMeaning": ["(기차역까지 가는 데 시간이 얼마나 걸리는지 물어봤습니다.)", "(기차역까지의 여행 시간은 얼마인지 물어봤습니다.)", "(기차역까지 가는 데 얼마나 걸리는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "long",
+					"meaning": "오래"
+				},
+				{
+					"word": "take",
+					"meaning": "걸리다"
+				},
+				{
+					"word": "train station",
+					"meaning": "기차역"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "What amenities are included with this room?",
+			"correctAnswer": "이 방에 포함된 편의 시설은 무엇인가요?",
+			"incorrectAnswers": [
+				"이 방의 크기는 얼마나 되나요?",
+				"이 방의 위치는 어디인가요?",
+				"이 방의 가격은 얼마인가요?",
+				"이 방에는 어떤 침대가 있나요?",
+				"이 방에 추가 요금이 있나요?",
+				"이 방의 청소 서비스는 어떻게 되나요?",
+				"이 방에 비치된 물건은 무엇인가요?",
+				"이 방에 포함된 조식 서비스는 어떻게 되나요?",
+				"이 방에는 어떤 뷰가 있나요?",
+				"이 방의 예약 취소 정책은 무엇인가요?"
+			],
+			"usage": ["What features come with this room?", "What facilities are included with this room?", "What is provided in this room?"],
+			"usageMeaning": ["(이 방에 포함된 편의 시설이 무엇인지 물어봤습니다.)", "(이 방에 포함된 시설이 무엇인지 물어봤습니다.)", "(이 방에서 제공되는 것이 무엇인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "amenities",
+					"meaning": "편의 시설"
+				},
+				{
+					"word": "included",
+					"meaning": "포함된"
+				},
+				{
+					"word": "room",
+					"meaning": "방"
+				}
+			]
+		},
+		{
+			"category": "택시 이용하기",
+			"question": "Can you take me to the airport?",
+			"correctAnswer": "공항까지 데려다 주실 수 있나요?",
+			"incorrectAnswers": [
+				"공항까지 가는 가장 빠른 길은 무엇인가요?",
+				"공항까지 가는 비용은 얼마인가요?",
+				"공항까지 가는 택시의 요금은 얼마인가요?",
+				"택시를 예약하려면 어떻게 하나요?",
+				"택시를 타기 전에 주의할 점은 무엇인가요?",
+				"공항까지 가는 시간은 얼마나 걸리나요?",
+				"공항까지 가는 버스는 언제 출발하나요?",
+				"택시가 대기하고 있는 위치는 어디인가요?",
+				"택시의 요금 계산은 어떻게 하나요?",
+				"택시에서 결제는 어떻게 하나요?"
+			],
+			"usage": ["Can you drive me to the airport?", "Will you take me to the airport?", "Could you give me a ride to the airport?"],
+			"usageMeaning": ["(공항까지 데려다 주실 수 있는지 물어봤습니다.)", "(공항까지 데려다 줄 수 있는지 물어봤습니다.)", "(공항까지 태워 줄 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "take",
+					"meaning": "데려다 주다"
+				},
+				{
+					"word": "airport",
+					"meaning": "공항"
+				},
+				{
+					"word": "can",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "I need a refill on my prescription.",
+			"correctAnswer": "처방전을 재발급 받아야 합니다.",
+			"incorrectAnswers": [
+				"처방전의 만료일은 언제인가요?",
+				"처방전을 새로 받아야 하나요?",
+				"처방전의 내용은 어떻게 되나요?",
+				"처방전을 분실했을 때 어떻게 하나요?",
+				"처방전을 다른 약국에서도 사용할 수 있나요?",
+				"처방전의 복용 방법은 어떻게 되나요?",
+				"처방전을 이메일로 받을 수 있나요?",
+				"처방전의 약은 어떤 것이 있나요?",
+				"처방전의 비용은 얼마인가요?",
+				"처방전을 받기 위한 절차는 무엇인가요?"
+			],
+			"usage": ["Can I get a refill for my prescription?", "I’d like to renew my prescription.", "Is it possible to refill my prescription?"],
+			"usageMeaning": ["(처방전을 재발급 받을 수 있는지 물어봤습니다.)", "(처방전을 갱신하고 싶다고 말했습니다.)", "(처방전을 재발급 받을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "refill",
+					"meaning": "재발급"
+				},
+				{
+					"word": "prescription",
+					"meaning": "처방전"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I’d like to open a savings account.",
+			"correctAnswer": "저축 계좌를 개설하고 싶습니다.",
+			"incorrectAnswers": [
+				"이 계좌의 이자율은 얼마인가요?",
+				"계좌를 열 때 필요한 서류는 무엇인가요?",
+				"이 계좌의 잔액을 확인할 수 있나요?",
+				"계좌를 폐쇄하려면 어떻게 하나요?",
+				"이 계좌의 거래 내역은 어떻게 확인하나요?",
+				"계좌를 온라인으로 관리할 수 있나요?",
+				"저축 계좌의 개설 비용은 얼마인가요?",
+				"이 계좌의 조건은 무엇인가요?",
+				"계좌를 변경하려면 어떻게 하나요?",
+				"저축 계좌에 대한 세금은 어떻게 되나요?"
+			],
+			"usage": ["I want to open a new savings account.", "Can I open a savings account here?", "I’d like to set up a savings account."],
+			"usageMeaning": ["(저축 계좌를 새로 열고 싶다고 말했습니다.)", "(여기서 저축 계좌를 열 수 있는지 물어봤습니다.)", "(저축 계좌를 개설하고 싶다고 말했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				},
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "like",
+					"meaning": "원하다"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Could you confirm my reservation?",
+			"correctAnswer": "제 예약을 확인해 주실 수 있나요?",
+			"incorrectAnswers": [
+				"예약을 변경할 수 있나요?",
+				"예약 취소 정책은 무엇인가요?",
+				"예약 확인서가 필요하나요?",
+				"체크인 시간은 언제인가요?",
+				"예약을 추가할 수 있나요?",
+				"예약에 포함된 서비스는 무엇인가요?",
+				"예약의 가격은 얼마인가요?",
+				"예약을 당일에 변경할 수 있나요?",
+				"예약을 확인하기 위한 문서가 필요한가요?",
+				"예약 확인서를 이메일로 받을 수 있나요?"
+			],
+			"usage": ["Can you verify my booking?", "Please confirm my reservation.", "I need to confirm my reservation."],
+			"usageMeaning": ["(제 예약을 확인해 달라고 요청했습니다.)", "(제 예약을 확인해 주시겠어요? 라고 물어봤습니다.)", "(제 예약을 확인해야 한다고 말했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "confirm",
+					"meaning": "확인하다"
+				},
+				{
+					"word": "reservation",
+					"meaning": "예약"
+				},
+				{
+					"word": "could",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I speak to Mr. Smith, please?",
+			"correctAnswer": "스미스 씨와 통화할 수 있을까요?",
+			"incorrectAnswers": [
+				"스미스 씨의 연락처를 알 수 있나요?",
+				"스미스 씨는 언제 전화에 응답하나요?",
+				"스미스 씨의 이메일 주소를 알 수 있나요?",
+				"스미스 씨와 직접 만날 수 있나요?",
+				"스미스 씨가 사무실에 있나요?",
+				"스미스 씨에게 전화를 연결할 수 있나요?",
+				"스미스 씨와 회의가 있나요?",
+				"스미스 씨의 일정은 어떻게 되나요?",
+				"스미스 씨의 부재중 전화는 어떻게 하나요?",
+				"스미스 씨에게 메시지를 남길 수 있나요?"
+			],
+			"usage": ["May I speak with Mr. Smith?", "Could I talk to Mr. Smith, please?", "Is Mr. Smith available to speak?"],
+			"usageMeaning": ["(스미스 씨와 통화할 수 있는지 물어봤습니다.)", "(스미스 씨와 대화할 수 있는지 요청했습니다.)", "(스미스 씨가 통화 가능한지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "speak",
+					"meaning": "통화하다"
+				},
+				{
+					"word": "Mr.",
+					"meaning": "미스터"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "I need an ambulance immediately.",
+			"correctAnswer": "즉시 구급차가 필요합니다.",
+			"incorrectAnswers": [
+				"병원까지 가는 방법을 알고 싶습니다.",
+				"응급 처치 방법을 배울 수 있나요?",
+				"구급차가 오는데 시간이 얼마나 걸리나요?",
+				"병원에 예약을 해야 하나요?",
+				"응급 상황에서 할 수 있는 것은 무엇인가요?",
+				"구급차를 호출하는 번호는 무엇인가요?",
+				"응급 상황에서 가까운 병원은 어디인가요?",
+				"구급차에 필요한 정보는 무엇인가요?",
+				"응급 상황에 대처하는 방법을 알고 싶습니다.",
+				"병원에 직접 연락할 수 있나요?"
+			],
+			"usage": ["I need an emergency vehicle right away.", "Please send an ambulance quickly.", "I require an ambulance urgently."],
+			"usageMeaning": ["(즉시 구급차가 필요하다고 요청했습니다.)", "(빠르게 구급차를 보내달라고 했습니다.)", "(긴급히 구급차가 필요하다고 말했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "ambulance",
+					"meaning": "구급차"
+				},
+				{
+					"word": "immediately",
+					"meaning": "즉시"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could I have the check, please?",
+			"correctAnswer": "계산서를 주시겠어요?",
+			"incorrectAnswers": [
+				"음식이 너무 늦었어요.",
+				"서비스가 좋지 않네요.",
+				"계산서에 문제가 있어요.",
+				"계산서가 아직 안 왔어요.",
+				"계산서의 내용은 무엇인가요?",
+				"계산서의 총액은 얼마인가요?",
+				"계산서에 포함된 세금은 얼마인가요?",
+				"계산서의 서명을 해야 하나요?",
+				"계산서에 대한 영수증이 필요한가요?",
+				"계산서를 이메일로 받을 수 있나요?"
+			],
+			"usage": ["May I get the check, please?", "Can you bring me the bill?", "I would like the check, please."],
+			"usageMeaning": ["(계산서를 주시길 요청했습니다.)", "(계산서를 가져다 달라고 했습니다.)", "(계산서를 받고 싶다고 말했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check",
+					"meaning": "계산서"
+				},
+				{
+					"word": "have",
+					"meaning": "받다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "What’s the best way to get to the museum?",
+			"correctAnswer": "박물관에 가는 가장 좋은 방법은 무엇인가요?",
+			"incorrectAnswers": [
+				"박물관의 입장료는 얼마인가요?",
+				"박물관의 위치는 어디인가요?",
+				"박물관의 운영 시간은 어떻게 되나요?",
+				"박물관에서 어떤 전시가 있나요?",
+				"박물관에 주차 공간이 있나요?",
+				"박물관까지 가는 대중교통은 무엇인가요?",
+				"박물관 근처에 식당이 있나요?",
+				"박물관에 입장하기 위한 조건은 무엇인가요?",
+				"박물관의 특별 이벤트는 무엇인가요?",
+				"박물관에 가는 가장 빠른 방법은 무엇인가요?"
+			],
+			"usage": ["How can I get to the museum?", "What’s the easiest route to the museum?", "Can you tell me the best way to the museum?"],
+			"usageMeaning": ["(박물관에 가는 가장 좋은 방법을 물어봤습니다.)", "(박물관에 어떻게 가는지 물어봤습니다.)", "(박물관에 가는 가장 쉬운 경로를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "museum",
+					"meaning": "박물관"
+				},
+				{
+					"word": "best",
+					"meaning": "가장 좋은"
+				},
+				{
+					"word": "way",
+					"meaning": "방법"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "I need to schedule a check-up.",
+			"correctAnswer": "검진 일정을 잡아야 합니다.",
+			"incorrectAnswers": [
+				"검진 결과를 알고 싶습니다.",
+				"검진에 필요한 서류는 무엇인가요?",
+				"검진의 비용은 얼마인가요?",
+				"검진을 온라인으로 예약할 수 있나요?",
+				"검진을 직접 방문하여 예약할 수 있나요?",
+				"검진의 준비물은 무엇인가요?",
+				"검진의 절차는 어떻게 되나요?",
+				"검진 후에 필요한 조치는 무엇인가요?",
+				"검진을 주말에 할 수 있나요?",
+				"검진을 긴급으로 받을 수 있나요?"
+			],
+			"usage": ["I want to make an appointment for a check-up.", "Can I book a check-up appointment?", "I need to arrange a check-up."],
+			"usageMeaning": ["(검진 일정을 예약해야 한다고 말했습니다.)", "(검진 예약을 하고 싶다고 말했습니다.)", "(검진 예약을 하고 싶다고 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "schedule",
+					"meaning": "일정을 잡다"
+				},
+				{
+					"word": "check-up",
+					"meaning": "검진"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I’d like to withdraw some cash.",
+			"correctAnswer": "현금을 인출하고 싶습니다.",
+			"incorrectAnswers": [
+				"계좌의 잔액을 확인할 수 있나요?",
+				"현금 인출 수수료는 얼마인가요?",
+				"계좌를 온라인으로 관리할 수 있나요?",
+				"현금을 입금할 수 있나요?",
+				"계좌의 거래 내역을 확인할 수 있나요?",
+				"현금을 교환할 수 있나요?",
+				"현금을 ATM에서 출금할 수 있나요?",
+				"계좌를 새로 개설할 수 있나요?",
+				"현금의 출금 한도는 어떻게 되나요?",
+				"현금을 수표로 바꿀 수 있나요?"
+			],
+			"usage": ["I want to take out some money.", "Can I withdraw cash here?", "I need to get some cash out."],
+			"usageMeaning": ["(현금을 인출하고 싶다고 말했습니다.)", "(여기서 현금을 인출할 수 있는지 물어봤습니다.)", "(현금을 뽑고 싶다고 말했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "withdraw",
+					"meaning": "인출하다"
+				},
+				{
+					"word": "cash",
+					"meaning": "현금"
+				},
+				{
+					"word": "like",
+					"meaning": "원하다"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What do you want to do this weekend?",
+			"correctAnswer": "이번 주말에 뭐 하고 싶어?",
+			"incorrectAnswers": [
+				"주말 동안 날씨는 어땠어?",
+				"이번 주말에 특별한 계획이 있어?",
+				"주말에 어디 가고 싶어?",
+				"이번 주말에 가족과 시간을 보내니?",
+				"이번 주말에 어떤 음식을 먹을까?",
+				"주말 동안의 계획은 뭐야?",
+				"이번 주말에 여행 갈 생각이야?",
+				"이번 주말에 보고 싶은 영화가 있어?",
+				"이번 주말에 운동할 계획이야?",
+				"이번 주말에 친구들과 만나고 싶어?"
+			],
+			"usage": ["What are your plans for the weekend?", "Do you have any plans for this weekend?", "What do you feel like doing this weekend?"],
+			"usageMeaning": ["(이번 주말에 어떤 계획이 있는지 물어봤습니다.)", "(이번 주말에 무엇을 할지 계획이 있는지 물어봤습니다.)", "(이번 주말에 하고 싶은 일이 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "weekend",
+					"meaning": "주말"
+				},
+				{
+					"word": "want",
+					"meaning": "원하다"
+				},
+				{
+					"word": "do",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I’d like to open a new account.",
+			"correctAnswer": "새 계좌를 개설하고 싶습니다.",
+			"incorrectAnswers": [
+				"계좌의 잔액을 확인할 수 있나요?",
+				"계좌의 거래 내역을 조회할 수 있나요?",
+				"계좌를 해지할 수 있나요?",
+				"계좌의 이자율은 얼마인가요?",
+				"계좌를 온라인으로 관리할 수 있나요?",
+				"계좌를 다른 은행으로 이전할 수 있나요?",
+				"계좌를 개설하는 데 필요한 서류는 무엇인가요?",
+				"계좌에 대한 세금 문제는 어떻게 되나요?",
+				"계좌의 최소 잔액은 얼마인가요?",
+				"계좌의 보안 설정을 어떻게 하나요?"
+			],
+			"usage": ["I want to open a new account.", "Can I set up a new account?", "I need to create a new bank account."],
+			"usageMeaning": ["(새 계좌를 개설하고 싶다고 말했습니다.)", "(새 계좌를 설정할 수 있는지 물어봤습니다.)", "(새 은행 계좌를 만들 필요가 있다고 말했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "new",
+					"meaning": "새로운"
+				},
+				{
+					"word": "account",
+					"meaning": "계좌"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Could I check out now, please?",
+			"correctAnswer": "지금 체크아웃 할 수 있을까요?",
+			"incorrectAnswers": [
+				"체크아웃 시간이 어떻게 되나요?",
+				"체크아웃을 연장할 수 있나요?",
+				"체크아웃을 할 때 필요한 서류는 무엇인가요?",
+				"체크아웃 후에 짐을 보관할 수 있나요?",
+				"체크아웃 후에 환불을 받을 수 있나요?",
+				"체크아웃을 빠르게 할 수 있는 방법은 무엇인가요?",
+				"체크아웃 비용은 얼마인가요?",
+				"체크아웃 시 주의할 점은 무엇인가요?",
+				"체크아웃을 자동으로 처리할 수 있나요?",
+				"체크아웃 시간이 지나면 어떻게 하나요?"
+			],
+			"usage": ["I’d like to check out now, please.", "Can I check out at this moment?", "Could you process my check-out now?"],
+			"usageMeaning": ["(지금 체크아웃을 하고 싶다고 요청했습니다.)", "(현재 체크아웃을 할 수 있는지 물어봤습니다.)", "(지금 체크아웃 처리를 해달라고 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check out",
+					"meaning": "체크아웃하다"
+				},
+				{
+					"word": "now",
+					"meaning": "지금"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "What are you doing this weekend?",
+			"correctAnswer": "이번 주말에 뭐 하고 있어?",
+			"incorrectAnswers": [
+				"이번 주말에 어디 가니?",
+				"이번 주말의 날씨는 어때?",
+				"이번 주말에 친구를 만날 계획이 있어?",
+				"이번 주말에 특별한 일이 있어?",
+				"이번 주말에 영화 볼 생각이 있어?",
+				"이번 주말에 여행 가는 거야?",
+				"이번 주말에 집에서 쉴 거야?",
+				"이번 주말에 운동할 계획이 있어?",
+				"이번 주말에 일하는 거야?",
+				"이번 주말에 가족과 함께 할 거야?"
+			],
+			"usage": ["What are your plans for the weekend?", "Do you have any plans for this weekend?", "What are you doing over the weekend?"],
+			"usageMeaning": ["(이번 주말에 어떤 계획이 있는지 물어봤습니다.)", "(이번 주말에 무엇을 할 계획인지 물어봤습니다.)", "(주말에 무엇을 할 예정인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "weekend",
+					"meaning": "주말"
+				},
+				{
+					"word": "doing",
+					"meaning": "하고 있는"
+				},
+				{
+					"word": "what",
+					"meaning": "무엇"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Can I speak to John, please?",
+			"correctAnswer": "존과 통화할 수 있을까요?",
+			"incorrectAnswers": [
+				"존의 주소를 알 수 있나요?",
+				"존의 이메일 주소를 알려주세요.",
+				"존과의 미팅을 예약할 수 있나요?",
+				"존의 전화번호를 알고 싶습니다.",
+				"존이 사무실에 있나요?",
+				"존에게 메시지를 남길 수 있나요?",
+				"존의 업무 시간은 언제인가요?",
+				"존과의 통화 시간을 예약할 수 있나요?",
+				"존의 부재 중 연락 방법은 무엇인가요?",
+				"존의 업무를 맡길 수 있나요?"
+			],
+			"usage": ["May I speak with John, please?", "Could I talk to John, please?", "I’d like to speak to John, please."],
+			"usageMeaning": ["(존과 통화하고 싶다고 요청했습니다.)", "(존과 대화할 수 있는지 물어봤습니다.)", "(존과 통화할 수 있는지 부탁했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "speak",
+					"meaning": "통화하다"
+				},
+				{
+					"word": "John",
+					"meaning": "존"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "I need help, there’s been an accident!",
+			"correctAnswer": "도와주세요, 사고가 났어요!",
+			"incorrectAnswers": [
+				"병원에 연락할 수 있나요?",
+				"사고 현장의 위치를 알려주세요.",
+				"응급 상황에 필요한 물품이 있나요?",
+				"사고에 대한 보험 정보가 필요합니다.",
+				"구급차를 부를 수 있나요?",
+				"사고 발생 시간을 기록해야 하나요?",
+				"사고를 신고할 때 필요한 서류는 무엇인가요?",
+				"사고 후의 절차는 어떻게 되나요?",
+				"사고에 대해 자세히 설명해주실 수 있나요?",
+				"사고 처리 비용은 어떻게 되나요?"
+			],
+			"usage": ["Help, there’s been an accident!", "I need assistance; there’s been an accident!", "There’s an accident; I need help!"],
+			"usageMeaning": ["(사고가 났으니 도와달라고 했습니다.)", "(사고가 발생했으니 도움이 필요하다고 말했습니다.)", "(사고가 발생했으니 도움을 요청했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "help",
+					"meaning": "도움"
+				},
+				{
+					"word": "accident",
+					"meaning": "사고"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Do you have this item in stock?",
+			"correctAnswer": "이 물건의 재고가 있나요?",
+			"incorrectAnswers": [
+				"이 물건의 배송 시간은 얼마나 되나요?",
+				"이 물건의 가격을 확인할 수 있나요?",
+				"이 물건의 색상은 어떤 게 있나요?",
+				"이 물건의 브랜드는 무엇인가요?",
+				"이 물건의 재질은 무엇인가요?",
+				"이 물건의 보증 기간은 얼마나 되나요?",
+				"이 물건의 사용법을 알 수 있나요?",
+				"이 물건의 대체품이 있나요?",
+				"이 물건의 구매 제한이 있나요?",
+				"이 물건을 할인된 가격으로 구입할 수 있나요?"
+			],
+			"usage": ["Is this item available?", "Do you have this item available?", "Can I check if this item is in stock?"],
+			"usageMeaning": ["(이 물건이 재고에 있는지 확인하고 싶습니다.)", "(이 물건이 재고가 있는지 물어봤습니다.)", "(이 물건이 재고에 있는지 확인해도 되냐고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "item",
+					"meaning": "물건"
+				},
+				{
+					"word": "stock",
+					"meaning": "재고"
+				},
+				{
+					"word": "have",
+					"meaning": "가지다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "I need to schedule a follow-up appointment.",
+			"correctAnswer": "추가 진료 예약이 필요합니다.",
+			"incorrectAnswers": [
+				"다음 진료의 준비물은 무엇인가요?",
+				"현재 진료의 결과를 확인할 수 있나요?",
+				"추가 진료에 대한 비용은 얼마인가요?",
+				"추가 진료를 예약하려면 어떻게 하나요?",
+				"현재 진료에 대한 의사 소견을 받을 수 있나요?",
+				"다음 진료의 절차는 어떻게 되나요?",
+				"추가 진료 예약 시 주의할 점은 무엇인가요?",
+				"추가 진료를 온라인으로 예약할 수 있나요?",
+				"다음 진료의 시간은 언제인가요?",
+				"추가 진료에 필요한 서류는 무엇인가요?"
+			],
+			"usage": ["I’d like to book a follow-up appointment.", "Can I arrange a follow-up appointment?", "I need to set up a follow-up appointment."],
+			"usageMeaning": ["(추가 진료를 예약하고 싶다고 말했습니다.)", "(추가 진료를 예약할 수 있는지 물어봤습니다.)", "(추가 진료를 설정해야 한다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "schedule",
+					"meaning": "예약하다"
+				},
+				{
+					"word": "follow-up",
+					"meaning": "추가"
+				},
+				{
+					"word": "appointment",
+					"meaning": "진료 예약"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "Can I withdraw money from my savings account?",
+			"correctAnswer": "저축 계좌에서 돈을 인출할 수 있나요?",
+			"incorrectAnswers": [
+				"저축 계좌의 잔액을 확인할 수 있나요?",
+				"저축 계좌의 이자율은 얼마인가요?",
+				"저축 계좌의 개설 조건은 무엇인가요?",
+				"저축 계좌의 월별 수수료는 얼마인가요?",
+				"저축 계좌에 대해 필요한 서류는 무엇인가요?",
+				"저축 계좌를 온라인으로 관리할 수 있나요?",
+				"저축 계좌를 다른 은행으로 이전할 수 있나요?",
+				"저축 계좌의 보안 문제는 어떻게 되나요?",
+				"저축 계좌의 최소 잔액 요구 사항은 무엇인가요?",
+				"저축 계좌의 세금 문제는 어떻게 되나요?"
+			],
+			"usage": ["May I withdraw funds from my savings account?", "Can I take money out of my savings account?", "I’d like to withdraw cash from my savings account."],
+			"usageMeaning": ["(저축 계좌에서 돈을 인출할 수 있는지 물어봤습니다.)", "(저축 계좌에서 현금을 뽑을 수 있는지 물어봤습니다.)", "(저축 계좌에서 자금을 인출하고 싶다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "withdraw",
+					"meaning": "인출하다"
+				},
+				{
+					"word": "money",
+					"meaning": "돈"
+				},
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "I’d like to check in for my reservation.",
+			"correctAnswer": "예약한 방으로 체크인하고 싶습니다.",
+			"incorrectAnswers": [
+				"체크인 시간은 언제인가요?",
+				"체크인 시 필요한 서류는 무엇인가요?",
+				"체크인 후 방의 시설은 어떻게 되나요?",
+				"체크인 예약을 변경할 수 있나요?",
+				"체크인 시 제공되는 서비스는 무엇인가요?",
+				"체크인 후 조식 시간은 언제인가요?",
+				"체크인 전에 객실을 볼 수 있나요?",
+				"체크인 시 추가 비용이 있나요?",
+				"체크인 후 Wi-Fi 비밀번호를 알려주시나요?",
+				"체크인 후 특별 요청 사항을 어떻게 처리하나요?"
+			],
+			"usage": ["I need to check in for my reservation.", "Can I check in now for my booking?", "I’d like to complete my check-in for the reservation."],
+			"usageMeaning": ["(예약한 방으로 체크인하고 싶다고 요청했습니다.)", "(지금 예약한 방으로 체크인할 수 있는지 물어봤습니다.)", "(예약 체크인을 완료하고 싶다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check in",
+					"meaning": "체크인하다"
+				},
+				{
+					"word": "reservation",
+					"meaning": "예약"
+				},
+				{
+					"word": "for",
+					"meaning": "위해"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Can I get a receipt for my payment?",
+			"correctAnswer": "제 결제에 대한 영수증을 받을 수 있나요?",
+			"incorrectAnswers": [
+				"영수증을 이메일로 받을 수 있나요?",
+				"결제 금액을 확인할 수 있나요?",
+				"영수증의 세부 사항을 확인할 수 있나요?",
+				"결제 방법은 무엇이었나요?",
+				"영수증을 다시 발급받을 수 있나요?",
+				"영수증을 빠르게 받을 수 있는 방법은 무엇인가요?",
+				"영수증의 날짜를 변경할 수 있나요?",
+				"영수증을 출력할 수 있나요?",
+				"결제 후의 환불 절차는 어떻게 되나요?",
+				"영수증의 추가 정보를 요청할 수 있나요?"
+			],
+			"usage": ["Could I have a receipt for my payment?", "May I get a receipt for the payment I made?", "Can I get a receipt for my transaction?"],
+			"usageMeaning": ["(결제에 대한 영수증을 요청했습니다.)", "(결제 후 영수증을 받을 수 있는지 물어봤습니다.)", "(결제에 대한 영수증을 받을 수 있냐고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "receipt",
+					"meaning": "영수증"
+				},
+				{
+					"word": "payment",
+					"meaning": "결제"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "I need to make an appointment with a specialist.",
+			"correctAnswer": "전문가와의 예약이 필요합니다.",
+			"incorrectAnswers": [
+				"전문가의 진료 시간은 언제인가요?",
+				"전문가의 자격증을 확인할 수 있나요?",
+				"전문가의 진료 비용은 얼마인가요?",
+				"전문가와의 상담을 예약하려면 어떻게 하나요?",
+				"전문가의 진료소 위치를 알 수 있나요?",
+				"전문가와의 전화 상담이 가능한가요?",
+				"전문가의 추천서를 받을 수 있나요?",
+				"전문가의 연구 분야는 무엇인가요?",
+				"전문가의 진료를 기다리는 시간은 얼마나 되나요?",
+				"전문가의 진료 절차는 어떻게 되나요?"
+			],
+			"usage": ["I’d like to schedule a consultation with a specialist.", "Can I book an appointment with a specialist?", "I need to arrange a meeting with a specialist."],
+			"usageMeaning": ["(전문가와의 상담 예약을 하고 싶다고 말했습니다.)", "(전문가와의 약속을 예약할 수 있는지 물어봤습니다.)", "(전문가와의 만남을 조정해야 한다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "specialist",
+					"meaning": "전문가"
+				},
+				{
+					"word": "make",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I need to open a new checking account.",
+			"correctAnswer": "새 체크 계좌를 개설해야 합니다.",
+			"incorrectAnswers": [
+				"체크 계좌의 이자율을 알 수 있나요?",
+				"체크 계좌의 월별 수수료는 얼마인가요?",
+				"체크 계좌의 개설 조건은 무엇인가요?",
+				"체크 계좌를 온라인으로 개설할 수 있나요?",
+				"체크 계좌에 필요한 서류는 무엇인가요?",
+				"체크 계좌의 한도는 어떻게 되나요?",
+				"체크 계좌의 결제 방법은 무엇인가요?",
+				"체크 계좌의 보안 문제는 어떻게 되나요?",
+				"체크 계좌의 관리 방법은 무엇인가요?",
+				"체크 계좌의 잔액을 확인할 수 있나요?"
+			],
+			"usage": ["I’d like to open a checking account.", "Can I set up a new checking account?", "I need to create a new checking account."],
+			"usageMeaning": ["(새 체크 계좌를 개설하고 싶다고 말했습니다.)", "(새 체크 계좌를 설정할 수 있는지 물어봤습니다.)", "(새 체크 계좌를 만들 필요가 있다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "checking account",
+					"meaning": "체크 계좌"
+				},
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "new",
+					"meaning": "새로운"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Is breakfast included in my room rate?",
+			"correctAnswer": "제 방 요금에 조식이 포함되어 있나요?",
+			"incorrectAnswers": [
+				"방의 시설을 알 수 있나요?",
+				"방 요금의 추가 비용은 얼마인가요?",
+				"체크인 시 제공되는 서비스는 무엇인가요?",
+				"방 요금을 할인 받을 수 있나요?",
+				"조식의 메뉴를 알 수 있나요?",
+				"조식이 제공되는 시간은 언제인가요?",
+				"방의 위치를 바꿀 수 있나요?",
+				"체크인 시간을 변경할 수 있나요?",
+				"조식 외에 제공되는 서비스는 무엇인가요?",
+				"체크아웃 시간을 연장할 수 있나요?"
+			],
+			"usage": ["Does the room rate include breakfast?", "Is breakfast part of the room rate?", "Will I get breakfast with my room rate?"],
+			"usageMeaning": ["(방 요금에 조식이 포함되어 있는지 물어봤습니다.)", "(방 요금에 조식이 포함되어 있는지 물어봤습니다.)", "(제 방 요금에 조식이 포함되어 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "breakfast",
+					"meaning": "조식"
+				},
+				{
+					"word": "included",
+					"meaning": "포함된"
+				},
+				{
+					"word": "room rate",
+					"meaning": "방 요금"
+				}
+			]
+		},
+		{
+			"category": "체크아웃",
+			"question": "Can I extend my checkout time?",
+			"correctAnswer": "체크아웃 시간을 연장할 수 있나요?",
+			"incorrectAnswers": [
+				"체크아웃 후 방의 청소는 어떻게 되나요?",
+				"체크아웃 시 필요한 서류는 무엇인가요?",
+				"체크아웃 후 짐을 맡길 수 있나요?",
+				"체크아웃 시간을 변경할 수 있는 방법은 무엇인가요?",
+				"체크아웃 시 제공되는 서비스는 무엇인가요?",
+				"체크아웃 후의 환불 절차는 어떻게 되나요?",
+				"체크아웃 후 식사는 어떻게 되나요?",
+				"체크아웃 후 물건을 잃어버렸을 때는 어떻게 하나요?",
+				"체크아웃 시 비용을 결제하는 방법은 무엇인가요?",
+				"체크아웃 전 마지막 점검은 어떻게 하나요?"
+			],
+			"usage": ["Is it possible to extend my checkout time?", "Can I delay my checkout time?", "Could I have a later checkout time?"],
+			"usageMeaning": ["(체크아웃 시간을 연장할 수 있는지 물어봤습니다.)", "(체크아웃 시간을 연기할 수 있는지 물어봤습니다.)", "(체크아웃 시간을 나중으로 조정할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "extend",
+					"meaning": "연장하다"
+				},
+				{
+					"word": "checkout time",
+					"meaning": "체크아웃 시간"
+				},
+				{
+					"word": "possible",
+					"meaning": "가능한"
+				}
+			]
+		},
+		{
+			"category": "전화 통화하기",
+			"question": "Could you please give me a call back later?",
+			"correctAnswer": "나중에 다시 전화해 주실 수 있나요?",
+			"incorrectAnswers": [
+				"전화번호를 다시 확인할 수 있나요?",
+				"통화의 목적을 알 수 있나요?",
+				"전화 통화의 기록을 받을 수 있나요?",
+				"이 통화의 내용을 메모해 주실 수 있나요?",
+				"전화 통화의 시간은 언제가 좋나요?",
+				"통화 내용을 이메일로 보내주실 수 있나요?",
+				"이 전화의 비용은 얼마인가요?",
+				"전화 통화의 후속 절차는 무엇인가요?",
+				"통화 후 대면 미팅을 예약할 수 있나요?",
+				"통화의 대화 내용은 어떻게 되나요?"
+			],
+			"usage": ["Can you return my call later?", "Please call me back at a later time.", "Can you get back to me later?"],
+			"usageMeaning": ["(나중에 다시 전화해 달라고 요청했습니다.)", "(나중에 전화해 달라고 부탁했습니다.)", "(나중에 다시 연락해 달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "call back",
+					"meaning": "다시 전화하다"
+				},
+				{
+					"word": "later",
+					"meaning": "나중에"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "공항 이용하기",
+			"question": "What time does my flight depart?",
+			"correctAnswer": "제 비행기는 몇 시에 출발하나요?",
+			"incorrectAnswers": [
+				"제 비행기의 도착 시간은 언제인가요?",
+				"비행기 체크인 시간이 언제인가요?",
+				"제 비행기의 기종은 무엇인가요?",
+				"비행기 탑승구 번호를 알 수 있나요?",
+				"제 비행기의 환승 정보는 무엇인가요?",
+				"비행기 출발 지연 여부를 확인할 수 있나요?",
+				"비행기의 좌석 배정은 어떻게 되나요?",
+				"비행기 출발 전에 필요한 서류는 무엇인가요?",
+				"비행기의 승무원 정보를 알 수 있나요?",
+				"비행기 출발 전 공항에서 할 일은 무엇인가요?"
+			],
+			"usage": ["When does my flight leave?", "What is the departure time for my flight?", "Can you tell me the departure time of my flight?"],
+			"usageMeaning": ["(제 비행기의 출발 시간이 언제인지 물어봤습니다.)", "(제 비행기의 출발 시간을 알려달라고 했습니다.)", "(제 비행기의 출발 시간을 알 수 있냐고 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "depart",
+					"meaning": "출발하다"
+				},
+				{
+					"word": "flight",
+					"meaning": "비행기"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				}
+			]
+		},
+		{
+			"category": "긴급 상황 대처하기",
+			"question": "I think I’m having a heart attack. What should I do?",
+			"correctAnswer": "심장마비가 오는 것 같아요. 어떻게 해야 하나요?",
+			"incorrectAnswers": [
+				"심장마비를 예방하는 방법을 알 수 있나요?",
+				"심장마비의 증상을 알고 싶어요.",
+				"심장마비를 치료하는 병원을 추천해 주세요.",
+				"심장마비에 대비한 응급 처치 방법을 알고 싶어요.",
+				"심장마비의 원인을 알 수 있나요?",
+				"심장마비가 발생하면 즉시 응급 서비스를 호출해야 하나요?",
+				"심장마비 후 회복 방법을 알고 싶어요.",
+				"심장마비를 관리하는 약물은 무엇이 있나요?",
+				"심장마비 발생 시 가족에게 알리는 방법은 무엇인가요?",
+				"심장마비를 조기에 발견하는 방법은 무엇인가요?"
+			],
+			"usage": ["I believe I’m having a heart attack. What should I do?", "I feel like I’m having a heart attack. What is the procedure?", "What steps should I take if I’m having a heart attack?"],
+			"usageMeaning": ["(심장마비가 오는 것 같아서 어떻게 해야 하는지 물어봤습니다.)", "(심장마비가 오는 것 같아서 절차를 물어봤습니다.)", "(심장마비가 발생했을 때 취해야 할 조치를 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "heart attack",
+					"meaning": "심장마비"
+				},
+				{
+					"word": "having",
+					"meaning": "겪다"
+				},
+				{
+					"word": "do",
+					"meaning": "하다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "I’d like to get a flu shot.",
+			"correctAnswer": "독감 예방 접종을 받고 싶습니다.",
+			"incorrectAnswers": [
+				"독감 증상의 치료 방법을 알 수 있나요?",
+				"독감 예방 접종의 부작용을 알 수 있나요?",
+				"독감 예방 접종의 비용은 얼마인가요?",
+				"독감 예방 접종을 받을 수 있는 시간은 언제인가요?",
+				"독감 예방 접종의 예약 방법을 알 수 있나요?",
+				"독감 예방 접종 후 주의사항은 무엇인가요?",
+				"독감 예방 접종의 효과는 얼마나 지속되나요?",
+				"독감 예방 접종의 대체 방법은 무엇인가요?",
+				"독감 예방 접종의 예방률은 얼마인가요?",
+				"독감 예방 접종 후 증상이 있을 경우 어떻게 하나요?"
+			],
+			"usage": ["I need a flu vaccination.", "Can I get a flu shot here?", "I want to have a flu shot."],
+			"usageMeaning": ["(독감 예방 접종을 받고 싶다고 했습니다.)", "(여기에서 독감 예방 접종을 받을 수 있는지 물어봤습니다.)", "(독감 예방 접종을 하고 싶다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "flu shot",
+					"meaning": "독감 예방 접종"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				},
+				{
+					"word": "like",
+					"meaning": "하고 싶다"
+				}
+			]
+		},
+		{
+			"category": "친구와의 대화",
+			"question": "Do you have any recommendations for a good restaurant?",
+			"correctAnswer": "좋은 식당에 대한 추천이 있나요?",
+			"incorrectAnswers": [
+				"식당의 메뉴를 볼 수 있나요?",
+				"식당의 위치를 알 수 있나요?",
+				"식당의 영업 시간은 언제인가요?",
+				"식당에서 제공하는 특별 메뉴는 무엇인가요?",
+				"식당의 분위기를 설명해 주세요.",
+				"식당에서의 식사 예약은 어떻게 하나요?",
+				"식당의 가격대는 어떻게 되나요?",
+				"식당의 리뷰를 볼 수 있나요?",
+				"식당에서의 주차는 어떻게 하나요?",
+				"식당의 주방장 정보를 알 수 있나요?"
+			],
+			"usage": ["Can you suggest a good restaurant?", "Do you know any good places to eat?", "Can you recommend a nice restaurant?"],
+			"usageMeaning": ["(좋은 식당에 대한 추천을 요청했습니다.)", "(맛있는 식당을 추천해 달라고 했습니다.)", "(좋은 식당을 추천해 줄 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "recommendations",
+					"meaning": "추천"
+				},
+				{
+					"word": "restaurant",
+					"meaning": "식당"
+				},
+				{
+					"word": "good",
+					"meaning": "좋은"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could I have a glass of water, please?",
+			"correctAnswer": "물 한 잔 주시겠어요?",
+			"incorrectAnswers": [
+				"식사 전에 물을 마셔도 되나요?",
+				"물의 가격을 알 수 있나요?",
+				"음식과 함께 물을 제공하나요?",
+				"물의 종류를 선택할 수 있나요?",
+				"물의 온도를 조절할 수 있나요?",
+				"물 대신 음료를 주문할 수 있나요?",
+				"식사 후 물을 추가로 주문할 수 있나요?",
+				"물의 양을 조절할 수 있나요?",
+				"음식이 나오기 전에 물을 받을 수 있나요?",
+				"물의 원산지를 알 수 있나요?"
+			],
+			"usage": ["Can I get a glass of water?", "Please bring me a glass of water.", "Could you give me a glass of water?"],
+			"usageMeaning": ["(물 한 잔 달라고 요청했습니다.)", "(물 한 잔을 가져다 달라고 부탁했습니다.)", "(물 한 잔을 주실 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "glass",
+					"meaning": "잔"
+				},
+				{
+					"word": "water",
+					"meaning": "물"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I need to update my address on my account.",
+			"correctAnswer": "제 계좌의 주소를 업데이트해야 합니다.",
+			"incorrectAnswers": [
+				"계좌의 잔액을 확인할 수 있나요?",
+				"계좌의 비밀번호를 변경할 수 있나요?",
+				"계좌의 명의 변경을 요청할 수 있나요?",
+				"계좌의 거래 내역을 확인할 수 있나요?",
+				"계좌의 계좌 번호를 확인할 수 있나요?",
+				"계좌의 이메일 주소를 업데이트할 수 있나요?",
+				"계좌의 전화번호를 업데이트할 수 있나요?",
+				"계좌의 온라인 뱅킹 비밀번호를 재설정할 수 있나요?",
+				"계좌의 신용 한도를 조정할 수 있나요?",
+				"계좌의 외환 거래를 할 수 있나요?"
+			],
+			"usage": ["I need to change my address on my account.", "Can I update my address on my account?", "I would like to update my address in my account records."],
+			"usageMeaning": ["(계좌의 주소를 업데이트해야 한다고 했습니다.)", "(계좌의 주소를 업데이트할 수 있는지 물어봤습니다.)", "(계좌 기록에 있는 주소를 업데이트하고 싶다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "update",
+					"meaning": "업데이트하다"
+				},
+				{
+					"word": "address",
+					"meaning": "주소"
+				},
+				{
+					"word": "account",
+					"meaning": "계좌"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Can I check in earlier than the scheduled time?",
+			"correctAnswer": "예정된 시간보다 일찍 체크인할 수 있나요?",
+			"incorrectAnswers": [
+				"체크인 시 필요한 서류는 무엇인가요?",
+				"체크인 후 방에 추가 요청을 할 수 있나요?",
+				"체크인 시 신용카드 정보가 필요한가요?",
+				"체크인 후 객실의 청소 상태를 확인할 수 있나요?",
+				"체크인 시 추가 요금이 발생하나요?",
+				"체크인 후 시설 이용은 어떻게 하나요?",
+				"체크인 시 체크아웃 시간은 어떻게 되나요?",
+				"체크인 후 방의 위치를 변경할 수 있나요?",
+				"체크인 시 무료 서비스는 무엇이 있나요?",
+				"체크인 시 객실 배정 기준은 무엇인가요?"
+			],
+			"usage": ["Can I check in before the scheduled time?", "Is it possible to check in earlier than planned?", "Can I arrive earlier than the check-in time?"],
+			"usageMeaning": ["(예정된 시간보다 일찍 체크인할 수 있는지 물어봤습니다.)", "(계획된 시간보다 일찍 체크인할 수 있는지 물어봤습니다.)", "(체크인 시간을 앞당길 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "check in",
+					"meaning": "체크인하다"
+				},
+				{
+					"word": "earlier",
+					"meaning": "일찍"
+				},
+				{
+					"word": "scheduled time",
+					"meaning": "예정된 시간"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "I need an appointment with a dermatologist.",
+			"correctAnswer": "피부과 의사와의 예약이 필요합니다.",
+			"incorrectAnswers": [
+				"피부과 의사의 진료 시간을 알 수 있나요?",
+				"피부과 의사의 비용은 얼마인가요?",
+				"피부과 의사에게 어떤 증상을 설명해야 하나요?",
+				"피부과 의사와의 예약을 취소할 수 있나요?",
+				"피부과 의사의 진료를 온라인으로 예약할 수 있나요?",
+				"피부과 의사의 병원 위치를 알려주세요.",
+				"피부과 의사와의 상담 시간을 변경할 수 있나요?",
+				"피부과 의사에게 필요한 서류가 있나요?",
+				"피부과 의사에게 진료를 받을 수 있는 시간은 언제인가요?",
+				"피부과 의사의 상담 요금은 얼마인가요?"
+			],
+			"usage": ["I would like to schedule an appointment with a dermatologist.", "Can I book a visit with a dermatologist?", "I need to make an appointment with a skin specialist."],
+			"usageMeaning": ["(피부과 의사와의 예약을 하고 싶다고 했습니다.)", "(피부과 의사와의 진료 예약을 할 수 있는지 물어봤습니다.)", "(피부과 의사와 상담을 예약하고 싶다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "appointment",
+					"meaning": "예약"
+				},
+				{
+					"word": "dermatologist",
+					"meaning": "피부과 의사"
+				},
+				{
+					"word": "need",
+					"meaning": "필요하다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How can I open a new checking account?",
+			"correctAnswer": "새 체크 계좌를 어떻게 개설하나요?",
+			"incorrectAnswers": [
+				"체크 계좌의 이자율을 알 수 있나요?",
+				"체크 계좌의 개설 요건은 무엇인가요?",
+				"체크 계좌를 온라인으로 개설할 수 있나요?",
+				"체크 계좌의 최소 잔액은 얼마인가요?",
+				"체크 계좌의 거래 수수료는 얼마인가요?",
+				"체크 계좌의 계좌 번호를 변경할 수 있나요?",
+				"체크 계좌의 보안 방법은 무엇인가요?",
+				"체크 계좌의 카드 발급은 어떻게 하나요?",
+				"체크 계좌의 출금 한도는 얼마인가요?",
+				"체크 계좌의 월별 청구서는 어떻게 받나요?"
+			],
+			"usage": ["What is the procedure to open a checking account?", "Can I open a checking account here?", "How do I start a new checking account?"],
+			"usageMeaning": ["(새 체크 계좌를 여는 절차를 물어봤습니다.)", "(체크 계좌를 개설할 수 있는지 물어봤습니다.)", "(새 체크 계좌를 시작하는 방법을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "checking account",
+					"meaning": "체크 계좌"
+				},
+				{
+					"word": "open",
+					"meaning": "개설하다"
+				},
+				{
+					"word": "new",
+					"meaning": "새로운"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Do you offer any discounts for long stays?",
+			"correctAnswer": "장기 숙박에 대한 할인 혜택이 있나요?",
+			"incorrectAnswers": [
+				"장기 숙박의 예약 방법을 알려주세요.",
+				"장기 숙박의 객실 종류는 무엇이 있나요?",
+				"장기 숙박의 체크인 및 체크아웃 시간은 어떻게 되나요?",
+				"장기 숙박 시 추가 서비스는 무엇인가요?",
+				"장기 숙박의 결제 방법은 어떻게 되나요?",
+				"장기 숙박의 객실 청소는 어떻게 하나요?",
+				"장기 숙박 시 조식 포함 여부는 어떻게 되나요?",
+				"장기 숙박의 시설 이용 규정은 무엇인가요?",
+				"장기 숙박의 요금은 어떻게 계산되나요?",
+				"장기 숙박의 취소 정책을 알고 싶습니다."
+			],
+			"usage": ["Are there any discounts for extended stays?", "Do you provide special rates for long-term stays?", "What discounts are available for extended bookings?"],
+			"usageMeaning": ["(장기 숙박에 대한 할인 혜택이 있는지 물어봤습니다.)", "(장기 숙박 시 특별 요금이 있는지 물어봤습니다.)", "(장기 예약 시 사용할 수 있는 할인이 무엇인지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "discounts",
+					"meaning": "할인"
+				},
+				{
+					"word": "long stays",
+					"meaning": "장기 숙박"
+				},
+				{
+					"word": "offer",
+					"meaning": "제공하다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Is there a bus stop near here?",
+			"correctAnswer": "여기 근처에 버스 정류장이 있나요?",
+			"incorrectAnswers": [
+				"이 지역의 지하철 노선도를 볼 수 있나요?",
+				"버스 정류장의 운영 시간은 어떻게 되나요?",
+				"이 지역의 버스 요금은 얼마인가요?",
+				"버스 정류장까지 가는 방법을 알려주세요.",
+				"버스 정류장의 주소를 알 수 있나요?",
+				"이 지역의 택시 서비스는 어떤가요?",
+				"버스 정류장 주변의 식당을 추천해 주세요.",
+				"버스 정류장에 주차 공간이 있나요?",
+				"버스 정류장과 가까운 관광지는 무엇인가요?",
+				"버스 정류장에 대한 안내 지도를 볼 수 있나요?"
+			],
+			"usage": ["Is there a bus stop around here?", "Can you tell me where the nearest bus stop is?", "Are there any bus stops nearby?"],
+			"usageMeaning": ["(이곳 근처에 버스 정류장이 있는지 물어봤습니다.)", "(가장 가까운 버스 정류장이 어디인지 물어봤습니다.)", "(주변에 버스 정류장이 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "bus stop",
+					"meaning": "버스 정류장"
+				},
+				{
+					"word": "near",
+					"meaning": "근처의"
+				},
+				{
+					"word": "here",
+					"meaning": "여기"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Can I see a specialist for my condition?",
+			"correctAnswer": "제 상태를 위해 전문의를 볼 수 있나요?",
+			"incorrectAnswers": [
+				"전문의의 진료 시간은 언제인가요?",
+				"전문의의 비용은 얼마인가요?",
+				"전문의의 병원 위치를 알 수 있나요?",
+				"전문의의 진료를 예약할 수 있나요?",
+				"전문의의 자격증을 볼 수 있나요?",
+				"전문의와의 상담을 취소할 수 있나요?",
+				"전문의에게 필요한 서류는 무엇인가요?",
+				"전문의의 진료 후 필요한 치료는 무엇인가요?",
+				"전문의의 진료를 온라인으로 받을 수 있나요?",
+				"전문의의 진료를 변경할 수 있나요?"
+			],
+			"usage": ["Can I consult with a specialist about my condition?", "I need to see a specialist for my issue.", "Can I make an appointment with a specialist?"],
+			"usageMeaning": ["(제 상태에 대해 전문의와 상담할 수 있는지 물어봤습니다.)", "(제 문제에 대해 전문의를 만나야 한다고 했습니다.)", "(전문의와 약속을 잡을 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "specialist",
+					"meaning": "전문의"
+				},
+				{
+					"word": "condition",
+					"meaning": "상태"
+				},
+				{
+					"word": "see",
+					"meaning": "보다"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "I need to report a lost credit card.",
+			"correctAnswer": "분실한 신용카드를 신고해야 합니다.",
+			"incorrectAnswers": [
+				"신용카드의 유효 기간을 알 수 있나요?",
+				"신용카드의 보안 코드 변경을 요청할 수 있나요?",
+				"신용카드의 한도는 얼마인가요?",
+				"신용카드의 거래 내역을 확인할 수 있나요?",
+				"신용카드의 분실 신고 절차는 어떻게 되나요?",
+				"신용카드의 사용 내역을 이메일로 받을 수 있나요?",
+				"신용카드의 재발급 절차를 알 수 있나요?",
+				"신용카드의 해외 사용 한도를 변경할 수 있나요?",
+				"신용카드의 보안 방법을 설명해 주세요.",
+				"신용카드의 연체료는 얼마인가요?"
+			],
+			"usage": ["I need to report that my credit card is lost.", "How do I report a lost credit card?", "Can I report a lost credit card here?"],
+			"usageMeaning": ["(분실한 신용카드를 신고해야 한다고 했습니다.)", "(분실한 신용카드를 어떻게 신고하는지 물어봤습니다.)", "(여기에서 분실한 신용카드를 신고할 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "report",
+					"meaning": "신고하다"
+				},
+				{
+					"word": "lost",
+					"meaning": "분실된"
+				},
+				{
+					"word": "credit card",
+					"meaning": "신용카드"
+				}
+			]
+		},
+		{
+			"category": "호텔 체크인",
+			"question": "Can I get a room with a sea view?",
+			"correctAnswer": "바다 전망이 있는 방을 받을 수 있나요?",
+			"incorrectAnswers": [
+				"호텔의 주차 공간을 알 수 있나요?",
+				"호텔의 체크아웃 시간을 알 수 있나요?",
+				"호텔의 조식 옵션은 무엇인가요?",
+				"호텔의 룸 서비스 메뉴를 볼 수 있나요?",
+				"호텔의 수영장 이용 시간은 언제인가요?",
+				"호텔의 위치를 알려주세요.",
+				"호텔의 무료 Wi-Fi 정보는 무엇인가요?",
+				"호텔의 헬스 클럽 이용 규정을 알 수 있나요?",
+				"호텔의 객실 요금은 얼마인가요?",
+				"호텔의 특별 할인 혜택을 알 수 있나요?"
+			],
+			"usage": ["Can I book a room with an ocean view?", "Is there a room available with a sea view?", "I would like a room that has a sea view."],
+			"usageMeaning": ["(바다 전망이 있는 방을 예약할 수 있는지 물어봤습니다.)", "(바다 전망이 있는 방이 있는지 물어봤습니다.)", "(바다 전망이 있는 방을 원한다고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "room",
+					"meaning": "방"
+				},
+				{
+					"word": "sea view",
+					"meaning": "바다 전망"
+				},
+				{
+					"word": "get",
+					"meaning": "받다"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Could you bring me the wine list?",
+			"correctAnswer": "와인 리스트를 가져다 주시겠어요?",
+			"incorrectAnswers": [
+				"음식 메뉴를 가져다 주시겠어요?",
+				"와인 리스트의 가격을 알 수 있나요?",
+				"와인 리스트에 포함된 와인의 종류를 설명해 주세요.",
+				"음식의 추천을 부탁드립니다.",
+				"와인 리스트를 온라인에서 볼 수 있나요?",
+				"와인 리스트의 최신 버전을 받을 수 있나요?",
+				"와인 리스트의 수입 와인 목록을 볼 수 있나요?",
+				"와인 리스트의 와인 제조사를 알 수 있나요?",
+				"음식과 와인을 함께 추천해 주세요.",
+				"와인 리스트의 알콜 함량을 알 수 있나요?"
+			],
+			"usage": ["May I have the wine list, please?", "Can you bring me the list of wines?", "Could you provide me with the wine list?"],
+			"usageMeaning": ["(와인 리스트를 가져다 달라고 요청했습니다.)", "(와인 목록을 주시라고 부탁했습니다.)", "(와인 리스트를 제공해 달라고 했습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "wine list",
+					"meaning": "와인 리스트"
+				},
+				{
+					"word": "bring",
+					"meaning": "가져다 주다"
+				},
+				{
+					"word": "please",
+					"meaning": "부탁합니다"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "Can you tell me how to get to the library?",
+			"correctAnswer": "도서관까지 가는 방법을 알려주시겠어요?",
+			"incorrectAnswers": [
+				"도서관의 운영 시간은 언제인가요?",
+				"도서관의 주소를 알 수 있나요?",
+				"도서관의 대출 규정을 설명해 주세요.",
+				"도서관에서 주차할 공간을 찾을 수 있나요?",
+				"도서관의 특별 행사 정보를 알려주세요.",
+				"도서관의 학습 자료는 어떤 것이 있나요?",
+				"도서관의 열람실 이용 규정은 무엇인가요?",
+				"도서관의 온라인 자료를 볼 수 있나요?",
+				"도서관의 휴관일을 알 수 있나요?",
+				"도서관의 시설을 사진으로 볼 수 있나요?"
+			],
+			"usage": ["How can I get to the library?", "Can you give me directions to the library?", "What is the way to the library?"],
+			"usageMeaning": ["(도서관까지 가는 방법을 물어봤습니다.)", "(도서관까지 가는 방향을 알려달라고 했습니다.)", "(도서관으로 가는 길을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "library",
+					"meaning": "도서관"
+				},
+				{
+					"word": "get",
+					"meaning": "가다"
+				},
+				{
+					"word": "tell",
+					"meaning": "알리다"
+				}
+			]
+		},
+		{
+			"category": "쇼핑할 때",
+			"question": "Can I try this jacket on?",
+			"correctAnswer": "이 재킷을 입어봐도 될까요?",
+			"incorrectAnswers": [
+				"이 재킷의 사이즈를 확인할 수 있나요?",
+				"이 재킷의 가격은 얼마인가요?",
+				"이 재킷의 색상은 어떤 게 있나요?",
+				"이 재킷의 재질을 알 수 있나요?",
+				"이 재킷의 세탁 방법을 설명해 주세요.",
+				"이 재킷을 온라인으로 구매할 수 있나요?",
+				"이 재킷의 환불 정책은 어떻게 되나요?",
+				"이 재킷의 브랜드는 무엇인가요?",
+				"이 재킷의 배송 기간은 얼마나 되나요?",
+				"이 재킷을 다른 매장에서 볼 수 있나요?"
+			],
+			"usage": ["May I try on this jacket?", "Can I fit this jacket?", "Is it possible to try this jacket on?"],
+			"usageMeaning": ["(이 재킷을 입어도 되는지 물어봤습니다.)", "(이 재킷을 착용해 볼 수 있는지 물어봤습니다.)", "(이 재킷을 입어 볼 수 있는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "try on",
+					"meaning": "입어보다"
+				},
+				{
+					"word": "jacket",
+					"meaning": "재킷"
+				},
+				{
+					"word": "can",
+					"meaning": "할 수 있다"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "What time does the clinic open?",
+			"correctAnswer": "클리닉이 몇 시에 열리나요?",
+			"incorrectAnswers": [
+				"클리닉의 위치를 알 수 있나요?",
+				"클리닉의 예약 방법을 알려주세요.",
+				"클리닉의 진료 과목은 무엇인가요?",
+				"클리닉의 휴무일을 알 수 있나요?",
+				"클리닉의 의료진 소개를 볼 수 있나요?",
+				"클리닉의 진료 시간 외의 서비스는 무엇인가요?",
+				"클리닉의 주차 공간은 어떻게 되나요?",
+				"클리닉의 환불 정책을 설명해 주세요.",
+				"클리닉의 전화번호를 알 수 있나요?",
+				"클리닉의 소속 병원은 어디인가요?"
+			],
+			"usage": ["What are the opening hours of the clinic?", "Can you tell me when the clinic opens?", "At what time does the clinic start?"],
+			"usageMeaning": ["(클리닉이 열리는 시간을 물어봤습니다.)", "(클리닉의 개방 시간을 알려달라고 했습니다.)", "(클리닉이 몇 시에 시작하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "clinic",
+					"meaning": "클리닉"
+				},
+				{
+					"word": "open",
+					"meaning": "열리다"
+				},
+				{
+					"word": "time",
+					"meaning": "시간"
+				}
+			]
+		},
+		{
+			"category": "은행 업무",
+			"question": "How do I close my savings account?",
+			"correctAnswer": "저축 계좌를 어떻게 해지하나요?",
+			"incorrectAnswers": [
+				"저축 계좌의 이자율을 알 수 있나요?",
+				"저축 계좌의 최소 잔액은 얼마인가요?",
+				"저축 계좌의 거래 내역을 확인할 수 있나요?",
+				"저축 계좌의 개설 방법을 설명해 주세요.",
+				"저축 계좌의 온라인 관리 방법은 무엇인가요?",
+				"저축 계좌의 연간 수익률을 알 수 있나요?",
+				"저축 계좌의 세금 보고는 어떻게 하나요?",
+				"저축 계좌의 잔액 확인 방법을 알려주세요.",
+				"저축 계좌의 고객 서비스 번호는 무엇인가요?",
+				"저축 계좌의 해지 수수료는 얼마인가요?"
+			],
+			"usage": ["Can you tell me how to close my savings account?", "What is the process for closing a savings account?", "How do I terminate my savings account?"],
+			"usageMeaning": ["(저축 계좌를 어떻게 해지하는지 물어봤습니다.)", "(저축 계좌를 닫는 절차를 물어봤습니다.)", "(저축 계좌를 종료하는 방법을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "close",
+					"meaning": "해지하다"
+				},
+				{
+					"word": "savings account",
+					"meaning": "저축 계좌"
+				},
+				{
+					"word": "how",
+					"meaning": "어떻게"
+				}
+			]
+		},
+		{
+			"category": "식당에서 주문하기",
+			"question": "Can I get this dish without onions?",
+			"correctAnswer": "이 요리를 양파 없이 받을 수 있나요?",
+			"incorrectAnswers": [
+				"이 요리의 재료를 알 수 있나요?",
+				"이 요리의 칼로리를 확인할 수 있나요?",
+				"이 요리의 조리 방법을 알 수 있나요?",
+				"이 요리의 가격을 확인할 수 있나요?",
+				"이 요리의 양념을 추가할 수 있나요?",
+				"이 요리의 다른 사이드 디시를 선택할 수 있나요?",
+				"이 요리의 원산지를 알 수 있나요?",
+				"이 요리의 맛을 설명해 주세요.",
+				"이 요리의 서비스 시간을 알 수 있나요?",
+				"이 요리의 특별한 조리 방법이 있나요?"
+			],
+			"usage": ["Can I have this dish without onions?", "Is it possible to get this dish without onions?", "Can you make this dish without onions?"],
+			"usageMeaning": ["(양파 없이 이 요리를 먹을 수 있나요?)", "(양파 없이 주문가능 할까요?)", "(양파 없이도 이 요리를 만들 수 있나요?)"],
+			"wordMeanings": [
+				{
+					"word": "dish",
+					"meaning": "요리"
+				},
+				{
+					"word": "onions",
+					"meaning": "양파"
+				},
+				{
+					"word": "without",
+					"meaning": "없이"
+				}
+			]
+		},
+		{
+			"category": "길 묻기",
+			"question": "How far is it to the nearest gas station?",
+			"correctAnswer": "가장 가까운 주유소까지 얼마나 먼가요?",
+			"incorrectAnswers": [
+				"가장 가까운 주유소의 운영 시간은 어떻게 되나요?",
+				"가장 가까운 주유소의 가격을 알 수 있나요?",
+				"가장 가까운 주유소의 주차 공간을 확인할 수 있나요?",
+				"가장 가까운 주유소의 주소를 알 수 있나요?",
+				"가장 가까운 주유소의 서비스는 어떤 것들이 있나요?",
+				"가장 가까운 주유소의 위치를 알려주세요.",
+				"가장 가까운 주유소의 세차 서비스는 무엇인가요?",
+				"가장 가까운 주유소의 고객 서비스 번호는 무엇인가요?",
+				"가장 가까운 주유소의 연료 종류는 어떤 것들이 있나요?",
+				"가장 가까운 주유소의 오일 교환 서비스를 알 수 있나요?"
+			],
+			"usage": ["How far is the nearest gas station?", "Can you tell me the distance to the nearest gas station?", "How long does it take to get to the nearest gas station?"],
+			"usageMeaning": ["(가장 가까운 주유소까지의 거리를 물어봤습니다.)", "(가장 가까운 주유소까지 얼마나 먼지 물어봤습니다.)", "(가장 가까운 주유소까지의 거리나 소요 시간을 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "distance",
+					"meaning": "거리"
+				},
+				{
+					"word": "nearest",
+					"meaning": "가장 가까운"
+				},
+				{
+					"word": "gas station",
+					"meaning": "주유소"
+				}
+			]
+		},
+		{
+			"category": "병원 방문",
+			"question": "Do I need to bring any documents for my appointment?",
+			"correctAnswer": "약속에 필요한 서류가 있나요?",
+			"incorrectAnswers": [
+				"약속의 시간을 변경할 수 있나요?",
+				"약속의 취소 규정을 알 수 있나요?",
+				"약속의 진료 내용은 무엇인가요?",
+				"약속의 예약 확인 방법을 알려주세요.",
+				"약속의 진료비는 얼마인가요?",
+				"약속의 의사 선생님은 누구인가요?",
+				"약속의 준비 사항은 무엇인가요?",
+				"약속의 진료 시간은 얼마나 되나요?",
+				"약속의 방문 시 주의 사항은 무엇인가요?",
+				"약속의 위치를 알려주세요."
+			],
+			"usage": ["What documents do I need for my appointment?", "Do I need to bring any paperwork for my appointment?", "Is there any paperwork required for my appointment?"],
+			"usageMeaning": ["(약속에 필요한 서류가 있는지 물어봤습니다.)", "(약속에 필요한 문서나 서류가 있는지 물어봤습니다.)", "(약속에 필요한 서류를 가져와야 하는지 물어봤습니다.)"],
+			"wordMeanings": [
+				{
+					"word": "documents",
+					"meaning": "서류"
+				},
+				{
+					"word": "appointment",
+					"meaning": "약속"
+				},
+				{
+					"word": "bring",
+					"meaning": "가져오다"
+				}
+			]
+		}
+	]
+}

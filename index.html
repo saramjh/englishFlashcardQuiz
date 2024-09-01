@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CEFR B1-B2 영어 무료 학습: 한국인을 위한 실용적인 생활 영어 무료 테스트</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <header>
+    <h1>CEFR B1-B2 영어 무료 학습</h1>
+    <p>한국인을 위한 실용적인 생활 영어 무료 테스트</p>
+  </header>
+  <div id="score-count" class="floating-score">
+    정답: 0 | 오답: 0
+    <div id="timer">타이머 00:00:00</div> <!-- 타이머 추가 -->
+  </div>
+  <div class="container">
+    <div class="card">
+      <div class="front">
+        <p id="sentence"></p>
+        <div id="options"></div>
+      </div>
+      <div class="back">
+        <h3 id="answer-status"></h3>
+        <p id="selected-answer"></p>
+        <ul id="examples"></ul>
+        <ul id="word-meanings"></ul>
+        <div id="timeNextBtn">
+          <div id="question-info">
+            <span id="question-number">문제 1 / 1</span>
+            <span id="time-taken">시간: 0초</span>
+          </div>
+          <button id="next-question">다음</button>
+        </div>
+      </div>
+    </div>
+    <div id="score-modal" class="modal">
+      <div class="modal-content">
+        <span id="close-modal">&times;</span>
+        <h2>결과</h2>
+        <p id="score-summary"></p>
+        <p id="time-summary"></p> <!-- Time summary -->
+        <button id="retry-quiz">재시도</button>
+        <button id="retry-incorrect">오답 재학습</button>
+      </div>
+    </div>
+    <div id="input-modal" class="modal">
+      <div class="modal-content">
+        <span id="close-input-modal">&times;</span>
+        <div id="quizAmount">
+          <h2>학습 목표치 설정</h2>
+        </div>
+        <input type="number" id="number-of-questions" min="1" placeholder="학습할 문제갯수" autofocus>
+        <button id="start-quiz">시작</button>
+      </div>
+    </div>
+  </div>
+  <div class="modal" id="outro">
+    <div id="outroMessage" class="modal-content">
+      <h2>수고하셨습니다!</h2>
+      <button id="restart">재시작</button>
+    </div>
+  </div>
+  <footer>
+    <div class="footer-text"><a href="https://github.com/saramjh/dieterRamsCalc/tree/main">
+        <p id="pText">&copy; 2024 saramjh reserved.</p>
+      </a></div>
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
