@@ -53,15 +53,18 @@ header p {
 }
 
 .container {
-	width: auto;
+	width: 100%;
 	height: 50%;
 	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .card {
 	display: none;
 	position: relative;
-	width: auto;
+	width: 60%;
 	height: 100%;
 	perspective: 5000px;
 }
@@ -238,6 +241,7 @@ button:active {
 	color: #555;
 	padding: 10px;
 	border-radius: 6px;
+	font-size: 1.3rem;
 }
 
 #sentence p {
@@ -489,6 +493,7 @@ footer:active {
 		align-items: center;
 		width: 100%;
 		height: 100vh;
+		min-width: auto;
 	}
 
 	.card {
